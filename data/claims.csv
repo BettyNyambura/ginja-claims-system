@@ -1,0 +1,1001 @@
+claim_id,member_id,member_name,provider_id,provider_name,diagnosis_code,procedure_code,procedure_name,claimed_amount,approved_tariff_amount,date_of_service,provider_type,historical_claim_frequency,location,is_fraud
+7F425B0D,M6039762,Kamau Kimani,P180,"Matthews, Morrow and Nichols",J06.9,99285,Emergency Visit,8839.03,8000,2025-09-14,Pharmacy,2,Nakuru,0
+F78C27C9,M7669861,Akinyi Kimani,P825,"King, Barnett and Patel",I10,99213,Consultation,4008.31,1500,2025-05-03,Pharmacy,35,Nairobi,1
+BE527AB2,M9451467,Fatuma Langat,P998,Soto-Jennings,K35.9,99285,Emergency Visit,15587.44,8000,2025-12-27,Hospital,25,Kisumu,1
+5B498A00,M1793880,Muthoni Simiyu,P391,Brown Inc,K35.9,87081,Malaria RDT,816.85,800,2025-12-09,Specialist,5,Mombasa,0
+6AA13C26,M5935483,Baraka Mutua,P799,Trevino Group,A09,99285,Emergency Visit,7592.94,8000,2025-11-29,Clinic,4,Thika,0
+755F7850,M9621249,Akinyi Mutua,P883,Stein-Osborne,A09,47562,Laparoscopic Cholecystectomy,127168.4,120000,2025-05-02,Clinic,2,Eldoret,0
+516C991E,M8905753,Kamau Omondi,P818,Walsh-Hayes,K29.7,85025,Full Blood Count,1226.67,1200,2026-02-25,Clinic,1,Thika,0
+4C7DB459,M5173551,Njoroge Chege,P867,Strickland and Sons,N39.0,99232,Inpatient Visit,4736.83,5000,2025-08-04,Hospital,9,Thika,0
+FAAED785,M6540684,Zawadi Kimani,P309,"Nunez, Rojas and Clark",I10,99213,Consultation,5708.04,1500,2026-01-31,Specialist,24,Nakuru,1
+4BFFCD28,M8007741,Chebet Ochieng,P514,"Smith, Smith and Mason",J06.9,99285,Emergency Visit,8058.57,8000,2025-09-19,Clinic,7,Eldoret,0
+7ECED995,M8578973,Kamau Kamau,P932,Merritt-Williams,K35.9,99232,Inpatient Visit,19516.9,5000,2025-04-21,Pharmacy,50,Thika,1
+1C083A71,M4786401,Halima Kimani,P561,"Thomas, Gray and Miller",K35.9,99285,Emergency Visit,8392.25,8000,2025-10-03,Specialist,10,Nakuru,0
+82A808B7,M1906432,Nafula Rotich,P314,Taylor Group,I10,85025,Full Blood Count,1127.93,1200,2025-10-27,Pharmacy,1,Eldoret,0
+A4C83889,M7443279,Otieno Ochieng,P233,Hale and Sons,S00.9,87081,Malaria RDT,2500.5,800,2026-01-02,Hospital,28,Eldoret,1
+F8840F6D,M3251636,Imani Njuguna,P705,"Kirby, King and Henry",E11.9,85025,Full Blood Count,2699.13,1200,2025-10-13,Clinic,28,Thika,1
+5C94D338,M9699607,Akinyi Auma,P269,Murray-Reed,I10,99285,Emergency Visit,31482.91,8000,2025-10-26,Pharmacy,20,Eldoret,1
+518D947D,M5994727,Kamau Nekesa,P369,Donaldson LLC,E11.9,76645,Ultrasound Breast,3035.19,2800,2026-01-19,Lab,4,Nairobi,0
+57DE3C6D,M9445986,Wanjiku Omondi,P121,Mitchell Inc,S00.9,99232,Inpatient Visit,13887.83,5000,2025-12-31,Pharmacy,29,Mombasa,1
+5F37BD5C,M8720254,Zawadi Wekesa,P410,Cochran-Smith,S00.9,99213,Consultation,2894.01,1500,2025-04-23,Pharmacy,45,Thika,1
+32CBDC8C,M5364874,Njoroge Kamau,P514,Clark PLC,K35.9,99232,Inpatient Visit,5141.82,5000,2025-05-24,Specialist,5,Mombasa,0
+1E9F314B,M8740121,Njoroge Auma,P401,Allen-Simon,S00.9,99232,Inpatient Visit,5605.5,5000,2026-02-05,Specialist,5,Mombasa,0
+F45A2A7D,M1434753,Njoroge Wekesa,P630,"Gentry, Stewart and Flores",I10,93000,ECG,2406.01,2500,2025-05-21,Hospital,2,Kisumu,0
+3AC5480F,M3304606,Akinyi Langat,P519,Gaines Group,S00.9,93000,ECG,2508.19,2500,2025-07-13,Clinic,3,Kisumu,0
+45AB30FA,M2503148,Achieng Auma,P533,"Drake, Snyder and Clay",E11.9,71046,Chest X-Ray,3749.15,3500,2025-09-07,Clinic,10,Kisumu,0
+CC9E49C6,M9796605,Fatuma Kariuki,P971,Davis-Wolf,N39.0,27447,Knee Replacement,206509.48,180000,2025-07-08,Pharmacy,9,Mombasa,0
+6DB39456,M9603633,Fatuma Nekesa,P200,Campbell-Lee,K35.9,71046,Chest X-Ray,3419.87,3500,2025-09-22,Clinic,6,Kisumu,0
+F3DF3D0D,M5825658,Imani Mutua,P175,Smith-Zimmerman,K35.9,93000,ECG,2666.78,2500,2025-09-09,Specialist,8,Kisumu,0
+700A942A,M4104255,Njoroge Njuguna,P683,"Watson, Lee and Smith",K35.9,76645,Ultrasound Breast,7671.73,2800,2025-12-02,Pharmacy,44,Nairobi,1
+1A617B18,M5837546,Amani Mutua,P280,"Haley, Silva and Evans",E11.9,99232,Inpatient Visit,14062.02,5000,2025-11-29,Clinic,56,Mombasa,1
+9A7C8693,M3120109,Muthoni Kimani,P681,"Riddle, King and Le",B50.9,47562,Laparoscopic Cholecystectomy,393966.8,120000,2026-02-05,Pharmacy,57,Thika,1
+008716C5,M2437930,Nafula Chege,P523,"Taylor, Woods and Stein",S00.9,99213,Consultation,1406.67,1500,2025-11-08,Specialist,2,Nairobi,0
+981CB96E,M6861544,Nafula Kariuki,P341,Jackson and Sons,A09,76645,Ultrasound Breast,2891.42,2800,2025-12-20,Pharmacy,4,Mombasa,0
+CF2D3EB3,M2349840,Baraka Rotich,P763,Jones-Marshall,J18.9,76645,Ultrasound Breast,2775.75,2800,2025-12-04,Specialist,6,Nairobi,0
+33406CE4,M9739692,Achieng Wambua,P592,Bell Ltd,B50.9,99213,Consultation,1629.27,1500,2025-11-23,Pharmacy,9,Nairobi,0
+78118BB0,M2194801,Fatuma Njuguna,P612,Jones-Williams,A09,27447,Knee Replacement,164415.46,180000,2025-03-21,Lab,10,Eldoret,0
+20075E61,M9795159,Zawadi Kariuki,P941,Smith LLC,J18.9,99213,Consultation,1568.82,1500,2026-02-16,Specialist,3,Thika,0
+9095D1C1,M6897756,Wanjiku Mwangi,P249,"Black, Caldwell and Black",B50.9,99285,Emergency Visit,9002.35,8000,2025-05-12,Pharmacy,3,Kisumu,0
+9D06BACE,M9937987,Baraka Kimani,P704,"Alvarado, Hunt and Smith",I10,47562,Laparoscopic Cholecystectomy,127483.54,120000,2025-11-02,Specialist,5,Mombasa,0
+8C5A2DD2,M6169066,Wanjiku Mutua,P935,Hernandez Ltd,K35.9,87081,Malaria RDT,3060.03,800,2026-03-04,Hospital,40,Nairobi,1
+D57BD35B,M4761823,Otieno Otieno,P872,Anderson Group,J06.9,47562,Laparoscopic Cholecystectomy,109562.57,120000,2025-10-29,Clinic,6,Nairobi,0
+34E3297F,M9953825,Kamau Omondi,P689,Fisher Ltd,I10,87081,Malaria RDT,851.37,800,2025-09-04,Clinic,5,Mombasa,0
+DE06AFB9,M6680114,Zawadi Mwangi,P972,Garcia-Graves,E11.9,27447,Knee Replacement,197168.64,180000,2025-03-24,Specialist,5,Nakuru,0
+43D983FA,M7312844,Chebet Ochieng,P310,"Peters, Douglas and Olson",N39.0,99213,Consultation,1706.62,1500,2025-11-03,Lab,1,Nakuru,0
+65635890,M2654861,Otieno Chege,P733,Hansen LLC,E11.9,87081,Malaria RDT,1585.86,800,2025-10-01,Lab,43,Mombasa,1
+F1EC3A7A,M1280001,Otieno Kamau,P368,Hale-Brown,J18.9,85025,Full Blood Count,1308.82,1200,2026-02-12,Hospital,2,Nakuru,0
+74CF8859,M7973121,Baraka Wekesa,P271,"Knight, Thomas and Moore",A09,27447,Knee Replacement,180411.05,180000,2025-05-19,Hospital,8,Mombasa,0
+AD544745,M5748621,Chebet Njuguna,P817,Todd-Snyder,N39.0,99232,Inpatient Visit,12388.29,5000,2025-08-15,Hospital,48,Mombasa,1
+655927D0,M5369510,Kamau Wekesa,P692,"Castaneda, Smith and Frey",K29.7,93000,ECG,2704.36,2500,2025-05-15,Hospital,10,Thika,0
+E93EE7A7,M5588489,Waweru Chege,P683,Jones-Campbell,K29.7,71046,Chest X-Ray,3240.32,3500,2025-08-24,Lab,9,Kisumu,0
+CF4DF287,M6631448,Chebet Auma,P436,Gonzalez Ltd,K29.7,71046,Chest X-Ray,12705.08,3500,2026-01-10,Lab,51,Nairobi,1
+9FB27679,M7535837,Njoroge Ochieng,P985,Lloyd-Moore,B50.9,47562,Laparoscopic Cholecystectomy,133272.17,120000,2025-03-08,Pharmacy,10,Thika,0
+19ED9575,M6982358,Kipchoge Mutua,P115,Larson-Vargas,I10,76645,Ultrasound Breast,5826.86,2800,2025-04-04,Pharmacy,21,Nairobi,1
+49BC3B59,M4517316,Baraka Rotich,P951,Leblanc Ltd,A09,47562,Laparoscopic Cholecystectomy,108807.48,120000,2025-08-07,Lab,8,Mombasa,0
+60D088AF,M6683095,Imani Nekesa,P151,Rose and Sons,K29.7,87081,Malaria RDT,754.25,800,2026-02-18,Lab,5,Thika,0
+1A2CC884,M1247595,Otieno Omondi,P270,"Martinez, Brown and Pace",I10,76645,Ultrasound Breast,2555.41,2800,2025-06-29,Lab,9,Mombasa,0
+DD34FC91,M5449324,Muthoni Simiyu,P170,Jones Group,J18.9,76645,Ultrasound Breast,2896.34,2800,2025-08-27,Pharmacy,9,Mombasa,0
+612AE3A2,M2732870,Kamau Mwangi,P172,Richardson LLC,S00.9,76645,Ultrasound Breast,3158.83,2800,2025-10-27,Lab,5,Nairobi,0
+D43052A1,M7700828,Nafula Omondi,P241,May PLC,N39.0,99285,Emergency Visit,8056.87,8000,2025-06-25,Hospital,10,Nairobi,0
+1BB15717,M2069713,Imani Otieno,P170,Smith-Miranda,K35.9,76645,Ultrasound Breast,2551.7,2800,2026-02-16,Pharmacy,6,Nakuru,0
+4F4C51EC,M9394071,Fatuma Mutua,P665,Cameron-Garner,J18.9,99232,Inpatient Visit,8886.83,5000,2025-04-01,Specialist,32,Thika,1
+43F49D51,M6060836,Akinyi Korir,P721,Freeman PLC,N39.0,99285,Emergency Visit,7769.84,8000,2025-11-28,Lab,1,Kisumu,0
+B35A782C,M7381734,Fatuma Kamau,P460,Mitchell-Green,B50.9,99285,Emergency Visit,9092.12,8000,2025-08-17,Lab,1,Eldoret,0
+A7837336,M3549416,Akinyi Ochieng,P234,Walker and Sons,K29.7,99232,Inpatient Visit,4879.19,5000,2026-02-19,Specialist,5,Eldoret,0
+8F8E35C0,M1628578,Wanjiku Rotich,P681,"Matthews, Ray and Hicks",S00.9,27447,Knee Replacement,170384.02,180000,2026-01-09,Pharmacy,5,Kisumu,0
+A1EA58F7,M3942713,Waweru Omondi,P596,"Green, Jackson and Jackson",K29.7,85025,Full Blood Count,1277.75,1200,2025-06-07,Hospital,6,Kisumu,0
+20A9947B,M2379891,Kipchoge Wekesa,P218,"Oneill, Lynch and Schmidt",I10,93000,ECG,2598.21,2500,2025-10-10,Lab,1,Eldoret,0
+50D1E746,M4441935,Imani Otieno,P781,Sandoval-Turner,E11.9,27447,Knee Replacement,173718.32,180000,2025-09-09,Clinic,3,Kisumu,0
+725F0658,M1655733,Otieno Rotich,P761,"Garza, Huang and Gomez",K35.9,27447,Knee Replacement,477092.05,180000,2025-09-08,Pharmacy,51,Nakuru,1
+E72F8759,M6144280,Waweru Omondi,P223,"Guerra, Davis and Walters",J18.9,71046,Chest X-Ray,3765.0,3500,2025-09-24,Hospital,5,Thika,0
+8B96D94B,M4874049,Odhiambo Omondi,P803,Holt LLC,J06.9,93000,ECG,2628.5,2500,2025-09-02,Hospital,10,Thika,0
+FAE20DB9,M5951651,Kipchoge Ochieng,P579,Noble Group,A09,85025,Full Blood Count,1157.09,1200,2025-12-22,Clinic,8,Thika,0
+9C22BE63,M8596173,Waweru Wekesa,P292,"Scott, Shaw and Cole",E11.9,93000,ECG,2318.97,2500,2026-02-23,Clinic,8,Nairobi,0
+54FCAF18,M6775801,Otieno Kamau,P726,"Smith, Baldwin and Hernandez",N39.0,93000,ECG,2824.06,2500,2025-08-10,Clinic,7,Kisumu,0
+F3929365,M2960284,Kipchoge Otieno,P230,Nichols PLC,K35.9,47562,Laparoscopic Cholecystectomy,309878.9,120000,2025-10-12,Pharmacy,31,Nakuru,1
+B7E63615,M2718442,Achieng Langat,P476,"Franklin, Garcia and Poole",B50.9,76645,Ultrasound Breast,2680.26,2800,2025-12-24,Lab,2,Mombasa,0
+C9F50322,M2565985,Nafula Wambua,P184,Perez-Torres,E11.9,93000,ECG,2349.36,2500,2025-03-29,Clinic,5,Nairobi,0
+45AFEDCB,M5003592,Imani Ochieng,P764,"Graham, Lopez and Walker",K35.9,87081,Malaria RDT,747.68,800,2025-05-11,Clinic,6,Thika,0
+8A107B40,M5682940,Nafula Korir,P509,Moore Inc,N39.0,71046,Chest X-Ray,3393.78,3500,2025-09-16,Hospital,2,Nairobi,0
+86B65F45,M8502096,Akinyi Njuguna,P797,"Woodward, Parker and Morris",E11.9,47562,Laparoscopic Cholecystectomy,116745.1,120000,2025-10-02,Specialist,10,Thika,0
+1BC436F8,M7425329,Muthoni Mutua,P978,Huynh-Chambers,J06.9,87081,Malaria RDT,729.2,800,2025-05-25,Lab,6,Mombasa,0
+B9F72381,M5554325,Nafula Ochieng,P647,Allen-Morris,S00.9,71046,Chest X-Ray,3913.39,3500,2025-09-05,Clinic,5,Nairobi,0
+64CDBFA4,M5091349,Baraka Kimani,P444,"Fernandez, Fisher and Scott",J06.9,76645,Ultrasound Breast,2715.25,2800,2025-06-24,Pharmacy,8,Mombasa,0
+DACDAFBA,M3906397,Imani Mutua,P601,"Ruiz, Douglas and Delacruz",B50.9,99232,Inpatient Visit,4732.19,5000,2025-12-23,Clinic,9,Kisumu,0
+2CF22672,M6709938,Waweru Wambua,P669,Hanson-Sosa,J06.9,27447,Knee Replacement,171545.39,180000,2025-06-13,Clinic,5,Nairobi,0
+361A4D18,M1676621,Akinyi Langat,P251,"Peterson, Middleton and Jordan",A09,93000,ECG,2766.49,2500,2025-03-05,Clinic,10,Kisumu,0
+110872A7,M1658532,Imani Kimani,P628,"Simmons, Jones and Holmes",J06.9,87081,Malaria RDT,823.74,800,2025-11-27,Pharmacy,7,Nakuru,0
+5DE96E64,M6915793,Kipchoge Wekesa,P534,Roberts Ltd,K35.9,85025,Full Blood Count,2345.62,1200,2025-03-14,Lab,39,Eldoret,1
+43AF9DE6,M5495219,Imani Auma,P679,"Martin, Hughes and Brown",J06.9,87081,Malaria RDT,2521.61,800,2025-06-10,Clinic,44,Kisumu,1
+CEB6478C,M5504336,Amani Mwangi,P874,"Smith, Suarez and Gonzalez",I10,27447,Knee Replacement,668435.87,180000,2025-08-28,Specialist,45,Mombasa,1
+48E3E068,M1982997,Fatuma Korir,P466,"Smith, Bird and Williams",S00.9,99285,Emergency Visit,7638.04,8000,2025-11-05,Clinic,5,Nairobi,0
+B25BCA6F,M4351238,Waweru Korir,P306,Smith-Willis,E11.9,76645,Ultrasound Breast,2868.42,2800,2025-03-09,Lab,10,Kisumu,0
+FABDBE92,M7855954,Waweru Njuguna,P105,Miller-Robertson,J06.9,76645,Ultrasound Breast,2718.29,2800,2025-05-13,Specialist,9,Nairobi,0
+13CC85C9,M4803691,Wanjiku Kimani,P155,Hill Group,B50.9,99232,Inpatient Visit,5662.81,5000,2025-06-09,Hospital,2,Kisumu,0
+895FE140,M4391627,Imani Kariuki,P268,Moran-Ward,E11.9,99213,Consultation,1660.79,1500,2025-06-11,Lab,9,Nairobi,0
+8E2DC2B0,M2852907,Kamau Simiyu,P365,Juarez and Sons,N39.0,93000,ECG,8290.68,2500,2025-09-04,Hospital,47,Nairobi,1
+B591451E,M7104651,Halima Kamau,P778,Zavala Group,J18.9,47562,Laparoscopic Cholecystectomy,123312.36,120000,2025-04-24,Clinic,7,Eldoret,0
+79549930,M3786787,Muthoni Nekesa,P596,"Warren, Parker and King",K35.9,27447,Knee Replacement,459845.65,180000,2026-02-22,Lab,22,Eldoret,1
+9C196978,M9132114,Achieng Kamau,P745,"Morales, Hill and Adams",S00.9,85025,Full Blood Count,1358.3,1200,2025-11-02,Clinic,8,Kisumu,0
+F9E83534,M9937982,Amani Simiyu,P170,Robertson-Odom,N39.0,99285,Emergency Visit,8765.27,8000,2025-04-07,Pharmacy,6,Nairobi,0
+E449804F,M2622794,Wanjiku Wekesa,P542,Holmes LLC,J06.9,93000,ECG,4142.78,2500,2025-05-05,Pharmacy,55,Kisumu,1
+C54A19FB,M3694157,Waweru Omondi,P515,"Baker, Romero and Baker",J18.9,93000,ECG,8898.19,2500,2026-01-05,Clinic,56,Mombasa,1
+8018E068,M2681144,Achieng Ochieng,P904,"Johnson, Molina and Weeks",B50.9,76645,Ultrasound Breast,2810.11,2800,2025-06-03,Pharmacy,3,Nakuru,0
+9125F705,M9714808,Chebet Chege,P555,"Galvan, Stanton and Mosley",K29.7,99213,Consultation,3181.26,1500,2025-05-13,Lab,17,Thika,1
+20A1015B,M8292657,Waweru Auma,P406,"Harrison, Davis and Espinoza",K35.9,27447,Knee Replacement,168567.07,180000,2026-01-24,Pharmacy,3,Kisumu,0
+C476CEB5,M5637668,Kamau Njuguna,P215,Bartlett-Weaver,K29.7,87081,Malaria RDT,812.84,800,2025-03-19,Lab,4,Nakuru,0
+6ABCD5C0,M1243334,Amani Omondi,P353,Bailey-Elliott,E11.9,27447,Knee Replacement,199664.51,180000,2025-07-25,Specialist,5,Mombasa,0
+7A002FE2,M4000886,Kamau Auma,P415,"Mendez, Williams and Wheeler",B50.9,85025,Full Blood Count,1128.64,1200,2025-07-19,Pharmacy,3,Thika,0
+48F1FAE5,M7115223,Amani Mutua,P649,Flores Ltd,B50.9,27447,Knee Replacement,447911.47,180000,2026-01-08,Lab,34,Thika,1
+80224D9B,M6688090,Njoroge Wekesa,P808,Anderson PLC,K35.9,27447,Knee Replacement,202258.69,180000,2025-08-28,Specialist,7,Kisumu,0
+D46DB697,M5881775,Otieno Ochieng,P191,Watkins Inc,E11.9,87081,Malaria RDT,1647.1,800,2025-05-05,Clinic,22,Thika,1
+138A9325,M6114011,Njoroge Simiyu,P731,Armstrong Ltd,K35.9,71046,Chest X-Ray,3669.64,3500,2025-04-19,Clinic,1,Nakuru,0
+9D5905C4,M8256954,Amani Wambua,P224,Moore Group,N39.0,99213,Consultation,5451.97,1500,2025-07-09,Lab,35,Kisumu,1
+671DA5F9,M7634775,Muthoni Nekesa,P337,White-Gregory,I10,87081,Malaria RDT,1848.53,800,2025-08-28,Clinic,28,Nakuru,1
+EDCFF001,M9203667,Zawadi Chege,P183,"Reed, Carr and Hill",A09,99213,Consultation,4772.65,1500,2025-06-02,Hospital,41,Thika,1
+994CAAC1,M2944841,Zawadi Korir,P944,Harrison LLC,J06.9,76645,Ultrasound Breast,2740.16,2800,2025-04-02,Specialist,6,Nakuru,0
+54AB5601,M9052291,Baraka Nekesa,P467,Stephenson PLC,B50.9,71046,Chest X-Ray,3267.52,3500,2025-06-28,Specialist,6,Nairobi,0
+996E9E43,M1508113,Fatuma Chege,P396,"Brown, Lee and Ramirez",B50.9,87081,Malaria RDT,873.39,800,2025-06-30,Clinic,7,Thika,0
+1EF98B7C,M3776934,Baraka Korir,P493,Baker-Caldwell,N39.0,47562,Laparoscopic Cholecystectomy,441076.72,120000,2025-08-17,Lab,19,Eldoret,1
+4E17FDBF,M4878365,Zawadi Korir,P826,Reese Ltd,A09,99213,Consultation,1459.69,1500,2025-09-24,Lab,7,Eldoret,0
+F5BD2C34,M2454383,Achieng Kariuki,P870,"Armstrong, Oconnor and Simpson",A09,99285,Emergency Visit,8573.13,8000,2025-05-07,Lab,4,Kisumu,0
+0E4786BB,M3563536,Imani Mutua,P363,"Johnson, Wilson and Harrington",I10,99232,Inpatient Visit,18175.53,5000,2025-07-10,Pharmacy,34,Nakuru,1
+00C1833D,M7559766,Imani Rotich,P749,"Bush, Schroeder and Bullock",K29.7,85025,Full Blood Count,1240.04,1200,2025-10-03,Pharmacy,3,Nairobi,0
+B234F13C,M8603914,Imani Mutua,P119,"Freeman, Carr and Schmidt",N39.0,99232,Inpatient Visit,10640.81,5000,2025-11-29,Specialist,47,Nakuru,1
+2990C981,M7592357,Nafula Ochieng,P677,Goodman-Allen,J18.9,87081,Malaria RDT,785.18,800,2025-05-05,Specialist,5,Mombasa,0
+9656066C,M6534221,Odhiambo Kimani,P683,Clark-Tate,J18.9,99232,Inpatient Visit,4868.99,5000,2025-06-22,Specialist,4,Thika,0
+B028A048,M3976601,Baraka Simiyu,P136,Bowen-Anderson,A09,93000,ECG,2631.93,2500,2025-10-02,Pharmacy,10,Kisumu,0
+1D46088C,M5735492,Nafula Kariuki,P620,Cobb-Smith,A09,27447,Knee Replacement,182755.88,180000,2025-08-09,Hospital,3,Kisumu,0
+0FFB4FAC,M1312392,Chebet Mwangi,P321,Barrett PLC,K35.9,85025,Full Blood Count,1234.99,1200,2025-04-28,Lab,7,Nakuru,0
+8AD71BC8,M7963429,Odhiambo Mutua,P732,Hayes Inc,I10,99285,Emergency Visit,28468.59,8000,2025-07-13,Lab,26,Thika,1
+B7F91456,M1416143,Chebet Chege,P760,Conner Inc,A09,93000,ECG,7786.98,2500,2025-04-09,Specialist,25,Nairobi,1
+AABE66DD,M6242875,Kamau Langat,P647,Stevenson Inc,J06.9,76645,Ultrasound Breast,2998.85,2800,2025-07-07,Lab,9,Eldoret,0
+B48E0F7F,M3637534,Nafula Wambua,P663,Sanchez-Wu,A09,93000,ECG,6406.39,2500,2025-12-26,Hospital,39,Kisumu,1
+E1ACB693,M4708297,Baraka Simiyu,P500,"Jennings, Davis and Foster",K35.9,93000,ECG,2388.75,2500,2025-03-22,Specialist,9,Thika,0
+D7E405A2,M6617751,Njoroge Auma,P253,Francis-Esparza,B50.9,85025,Full Blood Count,2334.2,1200,2025-04-19,Pharmacy,48,Kisumu,1
+D4C47C8F,M4350161,Nafula Kariuki,P875,Montgomery and Sons,A09,99213,Consultation,1696.58,1500,2026-01-06,Hospital,4,Mombasa,0
+C61CEEBB,M9191131,Odhiambo Wambua,P546,Gordon-James,K35.9,47562,Laparoscopic Cholecystectomy,131996.05,120000,2026-02-18,Lab,4,Kisumu,0
+3208E208,M8441741,Otieno Mwangi,P429,"Gutierrez, Perry and Mcgrath",S00.9,99232,Inpatient Visit,5357.62,5000,2025-12-19,Hospital,8,Mombasa,0
+136EFAF9,M2969909,Chebet Simiyu,P729,Johnson Group,J18.9,99232,Inpatient Visit,5357.59,5000,2025-11-12,Clinic,5,Nakuru,0
+BC491AC0,M3597059,Akinyi Rotich,P322,Kelly-Romero,J06.9,47562,Laparoscopic Cholecystectomy,127856.14,120000,2025-05-12,Specialist,8,Nairobi,0
+E9C94A96,M4816534,Nafula Mutua,P409,"Kemp, Shaffer and Garcia",J06.9,76645,Ultrasound Breast,3102.84,2800,2025-03-07,Specialist,5,Mombasa,0
+37CF19DD,M1006810,Chebet Rotich,P315,Ayala-Lewis,I10,99285,Emergency Visit,7801.9,8000,2025-05-12,Specialist,9,Thika,0
+52BFC3B0,M6276177,Wanjiku Njuguna,P701,"Mendez, Perez and Conner",K29.7,99285,Emergency Visit,8516.22,8000,2025-03-05,Lab,3,Nairobi,0
+43DF992F,M6524500,Zawadi Omondi,P533,"Carter, Brown and Arellano",J18.9,76645,Ultrasound Breast,9612.34,2800,2025-12-21,Hospital,35,Mombasa,1
+57B42BC8,M6882609,Amani Mutua,P730,"Romero, Morgan and Deleon",K29.7,87081,Malaria RDT,761.98,800,2025-11-19,Clinic,10,Nairobi,0
+6620A5DC,M9067229,Otieno Langat,P239,Harris LLC,K35.9,93000,ECG,6094.67,2500,2025-11-24,Clinic,53,Mombasa,1
+4406639B,M3688301,Kipchoge Kimani,P884,Barry Ltd,B50.9,99232,Inpatient Visit,19917.02,5000,2025-11-12,Pharmacy,16,Thika,1
+9638DA80,M9395862,Akinyi Kariuki,P482,"Thompson, Stevens and Brown",N39.0,27447,Knee Replacement,307758.76,180000,2025-12-08,Clinic,55,Eldoret,1
+3EC9C530,M6032739,Otieno Otieno,P195,"Elliott, Ruiz and Richardson",I10,27447,Knee Replacement,187425.1,180000,2025-08-22,Lab,4,Eldoret,0
+85A07324,M1387847,Imani Wambua,P797,Curry and Sons,N39.0,93000,ECG,4949.07,2500,2025-07-15,Hospital,58,Nakuru,1
+9E178320,M5342289,Otieno Kamau,P166,"Cruz, Woodward and Morgan",J18.9,71046,Chest X-Ray,3750.5,3500,2025-04-08,Lab,2,Mombasa,0
+B55317F3,M4853765,Otieno Auma,P977,Hawkins LLC,N39.0,99285,Emergency Visit,9011.16,8000,2025-06-27,Clinic,10,Eldoret,0
+682D6C28,M3328554,Fatuma Nekesa,P730,Smith-Carroll,J06.9,85025,Full Blood Count,1091.49,1200,2026-01-23,Hospital,8,Kisumu,0
+50BA973B,M5859627,Kamau Otieno,P913,"Figueroa, Golden and Obrien",J18.9,99285,Emergency Visit,17482.97,8000,2025-08-13,Lab,23,Thika,1
+0F7ED44F,M9173698,Kipchoge Simiyu,P231,"Reyes, Bailey and Jones",J18.9,76645,Ultrasound Breast,2695.48,2800,2026-01-12,Pharmacy,4,Eldoret,0
+F2825632,M9580328,Njoroge Auma,P941,"Johnson, West and Martin",K29.7,71046,Chest X-Ray,10181.87,3500,2025-09-24,Lab,56,Nakuru,1
+FE4E0E66,M8629590,Zawadi Kamau,P367,"Gaines, Ryan and Mclaughlin",K29.7,93000,ECG,2391.43,2500,2025-08-08,Specialist,4,Nairobi,0
+B2CD5A4A,M7726402,Otieno Nekesa,P986,Cooper LLC,B50.9,87081,Malaria RDT,880.87,800,2025-09-26,Pharmacy,1,Nairobi,0
+E7CB13C7,M9580111,Waweru Kariuki,P886,"Parsons, Oneill and Olsen",K35.9,99285,Emergency Visit,9100.28,8000,2026-01-08,Hospital,8,Kisumu,0
+468E10BB,M8945036,Achieng Njuguna,P576,Ford Ltd,B50.9,99285,Emergency Visit,7504.76,8000,2025-08-28,Clinic,3,Eldoret,0
+ADB5CDF8,M2331937,Kamau Kariuki,P483,"Nixon, Allison and Martin",K35.9,99232,Inpatient Visit,16965.57,5000,2025-10-04,Clinic,54,Mombasa,1
+A9AE7A0D,M4016499,Baraka Korir,P534,Hayes-Sullivan,N39.0,99285,Emergency Visit,9060.62,8000,2025-07-17,Lab,10,Kisumu,0
+59923CF7,M4890733,Kamau Korir,P119,"Carter, Greene and Robinson",I10,99285,Emergency Visit,30705.62,8000,2025-05-13,Pharmacy,46,Eldoret,1
+EAA779B0,M7457202,Kipchoge Korir,P133,Lopez PLC,B50.9,99213,Consultation,1672.64,1500,2025-07-29,Pharmacy,2,Thika,0
+7F43BD35,M2358267,Kipchoge Otieno,P627,Dunn PLC,E11.9,99285,Emergency Visit,8284.87,8000,2026-02-06,Hospital,4,Nakuru,0
+B1B736CE,M8478135,Otieno Kimani,P719,Hendrix-Gonzales,J18.9,87081,Malaria RDT,1214.89,800,2025-06-08,Pharmacy,24,Eldoret,1
+FBA79165,M9582482,Kamau Simiyu,P507,Ellis-Copeland,K29.7,99232,Inpatient Visit,4743.06,5000,2025-07-29,Pharmacy,6,Nakuru,0
+7A95EC80,M7058222,Kipchoge Kariuki,P496,Fletcher PLC,S00.9,47562,Laparoscopic Cholecystectomy,134661.74,120000,2025-08-01,Pharmacy,1,Eldoret,0
+91230AB6,M1072627,Achieng Njuguna,P616,"Mcmahon, Neal and Roberts",K35.9,87081,Malaria RDT,912.85,800,2025-08-29,Specialist,3,Mombasa,0
+634E5C4A,M3239990,Zawadi Mwangi,P706,Morales-Barry,S00.9,76645,Ultrasound Breast,2926.54,2800,2026-02-01,Lab,9,Thika,0
+695181CD,M4366703,Chebet Rotich,P857,Williams and Sons,S00.9,47562,Laparoscopic Cholecystectomy,121702.39,120000,2025-10-31,Lab,6,Kisumu,0
+33B77AF7,M8954031,Muthoni Mutua,P715,Ellis Group,J06.9,99213,Consultation,1674.24,1500,2025-11-10,Pharmacy,1,Eldoret,0
+AE10EB9A,M6890320,Akinyi Chege,P278,"Santiago, Walsh and Larson",B50.9,71046,Chest X-Ray,3167.36,3500,2025-09-04,Pharmacy,2,Thika,0
+1DC6A0CD,M4713925,Otieno Nekesa,P817,Armstrong Inc,B50.9,47562,Laparoscopic Cholecystectomy,117840.19,120000,2025-04-06,Lab,10,Nairobi,0
+1B44ADD3,M5490530,Muthoni Kamau,P911,Christian and Sons,J06.9,99213,Consultation,2745.67,1500,2026-01-09,Specialist,20,Thika,1
+AD0987E0,M1589802,Nafula Langat,P984,Banks-Atkins,K35.9,47562,Laparoscopic Cholecystectomy,133155.53,120000,2025-07-08,Specialist,1,Kisumu,0
+C20C965B,M2716512,Wanjiku Korir,P778,"Hansen, Green and Powell",E11.9,47562,Laparoscopic Cholecystectomy,132729.32,120000,2025-05-21,Specialist,7,Eldoret,0
+DE814607,M6443037,Zawadi Kamau,P398,Duke-Orozco,I10,76645,Ultrasound Breast,2767.74,2800,2025-08-18,Hospital,2,Thika,0
+BF3F7923,M9036449,Kipchoge Mutua,P507,Moss and Sons,E11.9,99285,Emergency Visit,9094.56,8000,2025-10-06,Lab,4,Eldoret,0
+05DFBE7E,M5613105,Akinyi Omondi,P949,Mcfarland Ltd,S00.9,47562,Laparoscopic Cholecystectomy,233923.02,120000,2025-07-20,Hospital,16,Eldoret,1
+955F8526,M5574649,Nafula Auma,P751,Valdez-Holmes,E11.9,85025,Full Blood Count,1187.22,1200,2026-02-08,Pharmacy,1,Kisumu,0
+0493269F,M5733096,Waweru Kariuki,P832,"Stone, Valdez and Reid",K35.9,47562,Laparoscopic Cholecystectomy,108663.93,120000,2026-02-28,Clinic,2,Nairobi,0
+074155C6,M8423991,Chebet Mutua,P925,Boyle PLC,I10,27447,Knee Replacement,195368.75,180000,2025-08-04,Clinic,7,Eldoret,0
+D27C6DBF,M6750102,Fatuma Simiyu,P868,Robertson-Mullen,J18.9,99232,Inpatient Visit,5609.97,5000,2025-12-10,Lab,3,Nairobi,0
+76583EE2,M4290000,Imani Korir,P352,"Anderson, Winters and Lewis",J18.9,87081,Malaria RDT,817.57,800,2026-01-27,Pharmacy,10,Nakuru,0
+4F6516EE,M3492539,Kipchoge Omondi,P154,"Hall, Ball and Green",B50.9,87081,Malaria RDT,2908.87,800,2025-12-30,Specialist,33,Eldoret,1
+775564A1,M2478574,Amani Ochieng,P349,"Wagner, Chambers and Owens",I10,27447,Knee Replacement,199441.17,180000,2025-05-07,Lab,6,Eldoret,0
+197376AD,M4153037,Baraka Njuguna,P943,Griffin-Collins,I10,99232,Inpatient Visit,5256.22,5000,2025-06-29,Specialist,2,Kisumu,0
+68D197D2,M5031599,Kamau Kimani,P776,Walter LLC,E11.9,93000,ECG,2367.73,2500,2025-03-21,Clinic,9,Thika,0
+F05C7AF2,M2300646,Waweru Ochieng,P644,Owens Ltd,A09,99213,Consultation,5865.07,1500,2025-03-19,Specialist,30,Nakuru,1
+D7B458D1,M8601790,Kipchoge Kariuki,P316,"Knight, Greene and Miller",J06.9,99213,Consultation,3485.35,1500,2025-04-09,Pharmacy,17,Kisumu,1
+9F674352,M8680384,Njoroge Nekesa,P462,Simmons-Moran,K35.9,87081,Malaria RDT,2556.43,800,2025-06-20,Pharmacy,41,Kisumu,1
+E5ECE207,M8414160,Kamau Rotich,P725,"Reynolds, Ray and Curry",I10,76645,Ultrasound Breast,9678.52,2800,2026-01-30,Hospital,18,Thika,1
+BF4396C8,M9327014,Muthoni Njuguna,P633,"Gray, Holmes and Woodward",J06.9,93000,ECG,2320.02,2500,2025-10-05,Lab,3,Thika,0
+30A1F3DD,M6262886,Amani Kariuki,P522,"Johnson, Turner and Hall",J18.9,76645,Ultrasound Breast,2653.55,2800,2025-08-06,Specialist,8,Eldoret,0
+223B35D5,M1114590,Waweru Kimani,P341,Dyer Ltd,K35.9,85025,Full Blood Count,1223.24,1200,2025-10-19,Pharmacy,4,Kisumu,0
+B8775A26,M1542011,Nafula Nekesa,P204,"Schroeder, Nolan and Lee",S00.9,93000,ECG,2377.5,2500,2025-03-24,Specialist,9,Mombasa,0
+83025B81,M7121835,Otieno Simiyu,P821,Cortez-Carlson,I10,85025,Full Blood Count,1312.31,1200,2025-05-08,Hospital,9,Kisumu,0
+D12636AD,M4896008,Imani Otieno,P279,Jacobs Ltd,I10,99213,Consultation,1690.48,1500,2025-12-04,Hospital,2,Nakuru,0
+4E92B007,M3179482,Zawadi Mutua,P213,Garcia LLC,K29.7,76645,Ultrasound Breast,2580.47,2800,2025-10-26,Pharmacy,10,Nakuru,0
+13659328,M7853787,Baraka Wekesa,P398,Ford PLC,J06.9,47562,Laparoscopic Cholecystectomy,110251.95,120000,2025-11-06,Pharmacy,1,Thika,0
+3F35FC5B,M8670955,Kipchoge Mwangi,P109,"Terry, Wood and Rodriguez",K35.9,85025,Full Blood Count,1281.51,1200,2025-04-20,Specialist,5,Nairobi,0
+11A30A4C,M9399526,Baraka Chege,P829,"Clark, Austin and Fernandez",J06.9,47562,Laparoscopic Cholecystectomy,110640.62,120000,2026-02-12,Clinic,4,Eldoret,0
+CEA14E78,M3830705,Otieno Simiyu,P303,"Stephens, Morgan and Rodriguez",E11.9,99232,Inpatient Visit,5368.8,5000,2025-11-22,Specialist,2,Nakuru,0
+C492B604,M5665960,Imani Njuguna,P150,Ramirez-Tucker,K29.7,99285,Emergency Visit,7213.15,8000,2025-12-19,Hospital,9,Thika,0
+5B957DB7,M4376603,Otieno Langat,P293,Cuevas-Price,K35.9,99232,Inpatient Visit,11797.7,5000,2025-03-14,Lab,27,Eldoret,1
+0B7988BE,M1124654,Fatuma Omondi,P829,Bryant-Jackson,N39.0,87081,Malaria RDT,757.16,800,2025-10-18,Lab,10,Eldoret,0
+C3A462BA,M4058117,Muthoni Mwangi,P833,Clarke-Blair,K35.9,27447,Knee Replacement,206136.86,180000,2026-02-14,Pharmacy,8,Mombasa,0
+1E608E0F,M6257514,Zawadi Kamau,P418,Anderson-Flynn,J06.9,76645,Ultrasound Breast,8209.87,2800,2025-05-06,Specialist,23,Mombasa,1
+B4958A4B,M6736345,Amani Rotich,P904,"Chen, Ferguson and Nguyen",K35.9,85025,Full Blood Count,1084.42,1200,2025-08-26,Lab,4,Thika,0
+922FF73B,M1787936,Waweru Auma,P645,Cox-Peterson,K35.9,47562,Laparoscopic Cholecystectomy,407706.51,120000,2025-09-24,Hospital,29,Nakuru,1
+5E419DC4,M9111742,Baraka Auma,P945,Harrison LLC,S00.9,47562,Laparoscopic Cholecystectomy,136964.21,120000,2025-10-18,Pharmacy,5,Mombasa,0
+24E61399,M6422534,Kipchoge Kariuki,P550,Howell-Bryan,A09,99285,Emergency Visit,8485.98,8000,2025-07-07,Lab,10,Thika,0
+A004ABC3,M1908038,Chebet Nekesa,P770,"Delacruz, Good and Campbell",K29.7,71046,Chest X-Ray,11832.33,3500,2025-05-13,Clinic,52,Nakuru,1
+E64769E2,M6717708,Kamau Langat,P632,Johnson-Wagner,J18.9,87081,Malaria RDT,1415.68,800,2026-01-26,Specialist,30,Eldoret,1
+27EC467E,M2464797,Otieno Kimani,P283,Williams-Mann,B50.9,76645,Ultrasound Breast,2651.85,2800,2026-01-24,Hospital,8,Mombasa,0
+7A5A1E72,M6716988,Njoroge Langat,P160,Reid LLC,J06.9,99285,Emergency Visit,7602.93,8000,2025-12-19,Specialist,3,Thika,0
+791A8856,M9512910,Kipchoge Rotich,P585,Mcmillan PLC,B50.9,71046,Chest X-Ray,3286.55,3500,2025-05-15,Clinic,9,Eldoret,0
+4A1AA54A,M4894730,Otieno Langat,P719,Blackwell Group,S00.9,71046,Chest X-Ray,3196.98,3500,2025-05-04,Lab,7,Kisumu,0
+262D0485,M6654424,Amani Langat,P479,Clark-Johnson,E11.9,93000,ECG,9575.8,2500,2025-09-24,Clinic,45,Kisumu,1
+0739F3CF,M1373065,Kipchoge Kimani,P684,Ramirez-Rangel,I10,93000,ECG,3877.51,2500,2025-09-20,Specialist,45,Nairobi,1
+C1D6AF81,M5411563,Otieno Wekesa,P566,"Sims, Robinson and Pennington",N39.0,99232,Inpatient Visit,4839.98,5000,2025-09-01,Hospital,2,Nakuru,0
+4EDFD2A1,M9290445,Achieng Omondi,P830,"Smith, Johnson and Garcia",J18.9,47562,Laparoscopic Cholecystectomy,310547.62,120000,2025-11-27,Pharmacy,44,Kisumu,1
+D48AC5A7,M3144664,Akinyi Auma,P663,Lee-Brown,B50.9,47562,Laparoscopic Cholecystectomy,396230.84,120000,2025-05-22,Pharmacy,17,Kisumu,1
+53AA1C29,M8658158,Muthoni Nekesa,P783,Ford-Stephens,N39.0,87081,Malaria RDT,903.49,800,2025-05-22,Specialist,2,Kisumu,0
+979299D7,M9549809,Fatuma Simiyu,P813,Powers-Gamble,J06.9,99232,Inpatient Visit,19463.71,5000,2025-04-05,Lab,37,Nakuru,1
+6838A9FC,M5667265,Wanjiku Mutua,P814,Ross PLC,I10,47562,Laparoscopic Cholecystectomy,120585.59,120000,2025-09-11,Pharmacy,8,Mombasa,0
+50B3C281,M8864546,Nafula Mutua,P972,Rodriguez and Sons,I10,27447,Knee Replacement,168033.9,180000,2025-06-26,Lab,10,Mombasa,0
+9AC1CBF0,M9718920,Baraka Kamau,P905,Warren-Foster,S00.9,99232,Inpatient Visit,5190.07,5000,2025-05-08,Specialist,5,Nakuru,0
+A153DA5B,M2831995,Njoroge Mwangi,P400,"Mcgee, Mcintosh and Bell",A09,99232,Inpatient Visit,13009.13,5000,2025-08-23,Hospital,54,Kisumu,1
+B6683456,M3634111,Wanjiku Simiyu,P800,"Mays, Jensen and Glover",E11.9,93000,ECG,2458.48,2500,2025-09-04,Pharmacy,7,Mombasa,0
+0D65C78F,M9205682,Waweru Mwangi,P757,"Vang, Hill and Hendrix",N39.0,93000,ECG,2740.55,2500,2025-08-18,Clinic,8,Kisumu,0
+115E5A21,M6994631,Otieno Langat,P221,Ross Group,E11.9,87081,Malaria RDT,1403.47,800,2026-01-20,Hospital,33,Eldoret,1
+FEB10488,M2327277,Njoroge Langat,P333,"Walters, Johnson and Wilson",E11.9,99285,Emergency Visit,8343.28,8000,2025-09-23,Pharmacy,2,Thika,0
+603A9434,M1377156,Chebet Njuguna,P428,"Little, Johnston and Barnett",J18.9,99213,Consultation,1388.66,1500,2025-11-26,Pharmacy,5,Kisumu,0
+37F36047,M2548511,Amani Wambua,P145,Chambers-Krause,J06.9,27447,Knee Replacement,173300.46,180000,2025-09-15,Clinic,1,Thika,0
+499038E2,M9874152,Wanjiku Chege,P406,Moore PLC,A09,27447,Knee Replacement,199518.52,180000,2025-12-26,Pharmacy,5,Nairobi,0
+ACF0A91E,M6540893,Otieno Nekesa,P967,Snyder-Phillips,E11.9,99232,Inpatient Visit,4803.57,5000,2026-01-16,Specialist,4,Thika,0
+2D0E2FBE,M9388623,Wanjiku Omondi,P153,George-Wilson,E11.9,99213,Consultation,2722.96,1500,2025-07-28,Specialist,37,Thika,1
+07F0F511,M9460003,Baraka Chege,P386,Brown-Bell,S00.9,47562,Laparoscopic Cholecystectomy,116658.05,120000,2025-03-21,Specialist,7,Nairobi,0
+57C8DDD7,M8329435,Fatuma Langat,P278,Clark Ltd,N39.0,93000,ECG,2451.63,2500,2025-03-14,Specialist,3,Kisumu,0
+FE7FDE1E,M2714803,Otieno Kimani,P199,Pena-Warner,E11.9,87081,Malaria RDT,911.44,800,2025-09-09,Specialist,6,Kisumu,0
+6690DC9D,M2325893,Nafula Nekesa,P771,Smith-Nguyen,B50.9,85025,Full Blood Count,1167.14,1200,2025-07-02,Clinic,5,Mombasa,0
+8F4D3C2A,M8165129,Achieng Mutua,P911,Munoz-Morales,K29.7,99285,Emergency Visit,7915.93,8000,2025-05-27,Lab,8,Eldoret,0
+F3555C1F,M7496727,Odhiambo Kimani,P447,Davis-Mclaughlin,N39.0,99285,Emergency Visit,25290.05,8000,2026-02-09,Lab,41,Thika,1
+DA075A58,M5280137,Achieng Ochieng,P333,Benson-Ross,N39.0,99285,Emergency Visit,7533.76,8000,2026-03-03,Hospital,3,Nairobi,0
+0F32EB37,M7392547,Nafula Ochieng,P791,"Potter, Mcmahon and Allen",J18.9,71046,Chest X-Ray,3738.72,3500,2025-07-06,Hospital,5,Eldoret,0
+509C1E36,M9151398,Baraka Langat,P731,Jackson-Liu,B50.9,76645,Ultrasound Breast,3150.08,2800,2025-03-14,Specialist,6,Mombasa,0
+091294E8,M2664863,Akinyi Njuguna,P370,Hunter Ltd,A09,93000,ECG,2605.39,2500,2025-12-14,Clinic,1,Mombasa,0
+BA3BF59C,M9249789,Otieno Wekesa,P456,Johnson and Sons,I10,85025,Full Blood Count,1379.08,1200,2025-09-15,Pharmacy,7,Thika,0
+9D54262D,M2062512,Imani Kimani,P323,Duncan LLC,I10,27447,Knee Replacement,190567.82,180000,2025-11-16,Lab,6,Kisumu,0
+16C28708,M1668752,Amani Langat,P718,"Meyer, Brown and Lopez",B50.9,27447,Knee Replacement,181699.15,180000,2026-02-19,Hospital,10,Mombasa,0
+9E305F2A,M1937435,Imani Wambua,P742,Contreras-Marshall,N39.0,71046,Chest X-Ray,9440.45,3500,2025-12-31,Hospital,30,Nairobi,1
+A615E160,M3348331,Zawadi Korir,P855,Smith Group,J18.9,87081,Malaria RDT,1900.67,800,2026-01-10,Pharmacy,33,Eldoret,1
+058F9C4E,M7279004,Fatuma Kimani,P525,Thomas-Rivera,I10,99213,Consultation,2298.13,1500,2025-08-25,Lab,47,Nakuru,1
+D069B59C,M9757456,Nafula Ochieng,P146,Smith Inc,K29.7,71046,Chest X-Ray,3460.75,3500,2025-06-25,Clinic,5,Thika,0
+6F1BD298,M8158234,Njoroge Simiyu,P319,Walters Inc,K29.7,99232,Inpatient Visit,5120.16,5000,2025-10-15,Pharmacy,7,Nakuru,0
+B5A721C0,M3619042,Muthoni Wambua,P475,"George, Preston and Chandler",S00.9,76645,Ultrasound Breast,2546.42,2800,2025-10-28,Clinic,6,Kisumu,0
+2A44E853,M2084932,Kipchoge Kimani,P834,"Murphy, Krause and Reynolds",I10,99285,Emergency Visit,27326.75,8000,2025-04-04,Specialist,53,Nakuru,1
+3D50797D,M7320122,Kamau Langat,P256,Hendrix-Wise,J18.9,87081,Malaria RDT,2190.05,800,2025-11-09,Hospital,60,Mombasa,1
+7965EF60,M1768805,Odhiambo Rotich,P181,"Taylor, Christensen and Brown",J18.9,99285,Emergency Visit,7584.58,8000,2026-01-12,Lab,2,Kisumu,0
+F950C74E,M4333024,Otieno Auma,P476,Ortiz-Evans,K29.7,99285,Emergency Visit,28535.37,8000,2025-08-15,Lab,33,Eldoret,1
+58A036C6,M2133372,Zawadi Omondi,P793,Olson-Mclaughlin,J18.9,99213,Consultation,1530.74,1500,2025-09-24,Lab,5,Kisumu,0
+3DC9B20A,M1602286,Otieno Omondi,P746,Williams PLC,B50.9,71046,Chest X-Ray,3698.45,3500,2025-11-08,Hospital,8,Nakuru,0
+A031D2F3,M9099554,Achieng Rotich,P525,Rodriguez-Jones,A09,47562,Laparoscopic Cholecystectomy,112522.35,120000,2026-01-04,Clinic,1,Kisumu,0
+24D2E8C1,M1966829,Odhiambo Otieno,P567,Kaufman LLC,J06.9,85025,Full Blood Count,1137.83,1200,2025-09-01,Clinic,4,Kisumu,0
+FFB66EA0,M7602695,Kamau Omondi,P991,Morales-Foster,K29.7,85025,Full Blood Count,3895.57,1200,2025-10-15,Specialist,21,Kisumu,1
+A8A92A02,M9468532,Baraka Nekesa,P783,"Mata, Medina and Schneider",K35.9,99285,Emergency Visit,14656.19,8000,2025-12-18,Pharmacy,23,Nairobi,1
+7C3E2162,M5240244,Fatuma Kariuki,P310,"Small, Powell and Lynn",J06.9,27447,Knee Replacement,179111.42,180000,2025-10-01,Lab,9,Thika,0
+C9A41C44,M1262233,Fatuma Mwangi,P106,Pham-Velasquez,J06.9,99285,Emergency Visit,7952.26,8000,2025-12-03,Hospital,3,Thika,0
+25E00C7E,M3301222,Amani Ochieng,P623,"Campos, Keith and Adams",S00.9,76645,Ultrasound Breast,2983.74,2800,2026-01-03,Pharmacy,5,Nairobi,0
+52388BE2,M5914425,Odhiambo Kamau,P661,Savage LLC,E11.9,93000,ECG,2255.71,2500,2025-11-28,Lab,7,Eldoret,0
+973959DF,M8990081,Baraka Simiyu,P625,Johnson LLC,S00.9,99232,Inpatient Visit,5157.61,5000,2026-01-08,Lab,2,Eldoret,0
+2844692D,M6167027,Amani Mwangi,P211,Boyd and Sons,S00.9,47562,Laparoscopic Cholecystectomy,377545.82,120000,2025-09-09,Clinic,39,Kisumu,1
+E6766697,M9230960,Odhiambo Simiyu,P666,Carter LLC,I10,99213,Consultation,1587.8,1500,2025-07-26,Clinic,8,Thika,0
+29101EC7,M9428900,Odhiambo Kariuki,P151,Riley Inc,I10,47562,Laparoscopic Cholecystectomy,124947.39,120000,2025-07-19,Specialist,6,Eldoret,0
+CE383974,M3396987,Waweru Kariuki,P352,Matthews-Campbell,N39.0,27447,Knee Replacement,179803.44,180000,2025-06-02,Pharmacy,8,Thika,0
+6AA265AB,M9218263,Chebet Wekesa,P935,"Larsen, Ramirez and Jones",J06.9,47562,Laparoscopic Cholecystectomy,132848.68,120000,2025-08-28,Pharmacy,9,Thika,0
+1EB3AC5C,M5617376,Waweru Kamau,P859,Henderson LLC,A09,93000,ECG,2332.84,2500,2025-04-29,Clinic,5,Eldoret,0
+3BB922C9,M3086308,Baraka Rotich,P816,Nguyen Inc,I10,99285,Emergency Visit,9042.39,8000,2025-10-16,Specialist,8,Eldoret,0
+E11D78C0,M5693941,Halima Kariuki,P817,"Williams, Jones and Myers",I10,71046,Chest X-Ray,13205.77,3500,2025-07-19,Clinic,15,Eldoret,1
+AD26343B,M3955709,Chebet Kimani,P171,Myers Inc,S00.9,47562,Laparoscopic Cholecystectomy,110929.62,120000,2026-01-08,Specialist,8,Nakuru,0
+011C562A,M8005748,Fatuma Rotich,P679,Collins Group,K35.9,47562,Laparoscopic Cholecystectomy,284594.68,120000,2025-09-13,Lab,17,Nakuru,1
+FC74135A,M1985360,Halima Otieno,P959,"Morris, Thomas and Rhodes",A09,47562,Laparoscopic Cholecystectomy,122649.49,120000,2025-03-27,Hospital,9,Nairobi,0
+77FF56C0,M8201300,Otieno Ochieng,P101,"Miller, Cole and Scott",J18.9,99232,Inpatient Visit,5282.01,5000,2025-07-03,Hospital,4,Mombasa,0
+2C80F01A,M5316188,Njoroge Kamau,P854,"Gordon, Perry and Benton",E11.9,76645,Ultrasound Breast,2751.48,2800,2025-10-04,Specialist,8,Thika,0
+1FC085E1,M8787307,Fatuma Chege,P546,Smith and Sons,I10,99213,Consultation,3170.95,1500,2025-04-07,Hospital,34,Mombasa,1
+3F201A77,M6867997,Nafula Mutua,P957,"Palmer, Meyer and Pena",B50.9,85025,Full Blood Count,1368.16,1200,2025-03-17,Hospital,8,Kisumu,0
+69DAD038,M1020136,Amani Korir,P530,Roberson and Sons,E11.9,76645,Ultrasound Breast,2585.23,2800,2026-02-10,Specialist,3,Nakuru,0
+3BBD60C1,M4928578,Kipchoge Langat,P342,Koch-Roberts,B50.9,85025,Full Blood Count,1231.17,1200,2025-12-21,Specialist,5,Mombasa,0
+A1EE3BE4,M2570911,Njoroge Otieno,P186,Vasquez-Whitehead,B50.9,76645,Ultrasound Breast,4736.85,2800,2025-05-25,Lab,30,Nairobi,1
+0518C74F,M9920146,Imani Kimani,P588,Miller-Miller,S00.9,99232,Inpatient Visit,9758.41,5000,2025-12-29,Pharmacy,58,Nairobi,1
+B1B7C1ED,M1816229,Chebet Rotich,P320,Morrison and Sons,K29.7,85025,Full Blood Count,4151.38,1200,2025-06-27,Hospital,41,Nairobi,1
+78332A9A,M8973718,Muthoni Simiyu,P889,Huffman-Price,A09,87081,Malaria RDT,721.79,800,2025-10-28,Clinic,1,Nakuru,0
+8AF7D749,M9113963,Odhiambo Langat,P894,"Cook, Alexander and Bell",K35.9,27447,Knee Replacement,205472.5,180000,2025-03-21,Lab,10,Eldoret,0
+F049DEE5,M8110298,Zawadi Simiyu,P570,Sanchez Inc,B50.9,93000,ECG,2695.46,2500,2025-11-13,Lab,5,Kisumu,0
+A6B4DFD7,M6973148,Muthoni Ochieng,P222,Jimenez-Duarte,A09,87081,Malaria RDT,765.84,800,2025-03-23,Lab,4,Eldoret,0
+8E7D3539,M2419525,Achieng Korir,P405,Bailey PLC,E11.9,47562,Laparoscopic Cholecystectomy,257028.15,120000,2025-05-30,Clinic,17,Nakuru,1
+A2BC9F49,M1912484,Imani Nekesa,P760,Robinson-Miller,N39.0,93000,ECG,2371.45,2500,2026-01-26,Pharmacy,3,Thika,0
+7CF82503,M3741438,Baraka Kimani,P376,"Garcia, Hamilton and Baker",N39.0,85025,Full Blood Count,1240.24,1200,2025-11-12,Pharmacy,4,Nairobi,0
+9562AC7D,M3091745,Chebet Mwangi,P881,"Mcbride, Ford and Miller",K29.7,47562,Laparoscopic Cholecystectomy,136028.81,120000,2025-10-16,Lab,9,Eldoret,0
+DB57C906,M2986209,Njoroge Langat,P959,"Hoover, Garcia and Barrett",K29.7,71046,Chest X-Ray,3209.34,3500,2026-02-17,Pharmacy,9,Nakuru,0
+5B69AAC3,M9668165,Waweru Kimani,P328,Johnson-Beck,N39.0,99285,Emergency Visit,8506.67,8000,2025-08-09,Pharmacy,2,Kisumu,0
+E0038ED3,M5550787,Baraka Simiyu,P865,Simmons-Duran,S00.9,93000,ECG,2628.37,2500,2025-06-11,Lab,7,Nakuru,0
+D6140F48,M7838943,Zawadi Nekesa,P745,"Ward, Thomas and Franklin",I10,99285,Emergency Visit,8843.24,8000,2025-07-26,Pharmacy,5,Nairobi,0
+2FADCB7B,M1110521,Odhiambo Wekesa,P449,Turner-Reyes,B50.9,87081,Malaria RDT,2078.22,800,2025-06-19,Clinic,41,Nairobi,1
+634B42D8,M4838024,Chebet Mwangi,P412,Anderson Ltd,I10,99232,Inpatient Visit,14007.43,5000,2025-09-25,Hospital,60,Thika,1
+6C8011EF,M7348231,Chebet Rotich,P230,"Wallace, Miller and Cannon",K29.7,87081,Malaria RDT,853.11,800,2026-03-04,Specialist,3,Nakuru,0
+1234FC35,M2973853,Waweru Kariuki,P261,"Lyons, Sandoval and Harris",B50.9,47562,Laparoscopic Cholecystectomy,117574.49,120000,2026-01-05,Hospital,8,Eldoret,0
+C4D1D24B,M3064357,Kamau Kariuki,P688,"Alvarado, Alvarado and Wells",J18.9,47562,Laparoscopic Cholecystectomy,314169.86,120000,2025-04-04,Clinic,35,Nairobi,1
+D067D010,M3277572,Fatuma Kariuki,P742,Garrett-Sanders,K35.9,27447,Knee Replacement,203227.34,180000,2025-06-03,Pharmacy,1,Nakuru,0
+6BD951B5,M3415850,Fatuma Auma,P239,Hansen-Harris,A09,99213,Consultation,1376.9,1500,2025-12-24,Lab,1,Nakuru,0
+DFB0270B,M1230406,Kipchoge Ochieng,P412,"Wilson, Tanner and Townsend",K35.9,99285,Emergency Visit,9053.46,8000,2025-07-06,Hospital,5,Kisumu,0
+6E24D59E,M8894449,Odhiambo Omondi,P247,"Allen, Hunter and Barrett",S00.9,27447,Knee Replacement,175967.63,180000,2025-10-23,Pharmacy,8,Nakuru,0
+DE7596F9,M6471332,Kamau Nekesa,P773,"Nolan, Mcdaniel and Hoffman",I10,76645,Ultrasound Breast,6563.16,2800,2025-05-18,Specialist,16,Nakuru,1
+83B191FF,M2615622,Njoroge Wekesa,P729,"Acosta, Garcia and Rivers",S00.9,99232,Inpatient Visit,5533.14,5000,2026-02-13,Specialist,10,Eldoret,0
+E83A46AA,M7134489,Waweru Kimani,P873,Shaw-Williams,J18.9,93000,ECG,2784.36,2500,2025-08-05,Specialist,7,Eldoret,0
+40AF8A94,M3938247,Amani Chege,P607,Olson and Sons,J06.9,99232,Inpatient Visit,4875.63,5000,2025-09-09,Lab,1,Eldoret,0
+E537BC8A,M8936405,Kamau Mutua,P382,Jacobs-Harrison,I10,93000,ECG,2489.4,2500,2025-12-21,Specialist,8,Eldoret,0
+0243E029,M6482263,Baraka Kamau,P880,Sanchez PLC,J06.9,99232,Inpatient Visit,15026.45,5000,2025-04-10,Clinic,50,Thika,1
+B93444F1,M8175669,Halima Langat,P188,Reid-Garrett,I10,87081,Malaria RDT,755.1,800,2025-03-27,Hospital,7,Mombasa,0
+57081710,M2194198,Odhiambo Wambua,P906,"Grimes, Wong and Baldwin",S00.9,93000,ECG,2689.37,2500,2025-03-31,Clinic,8,Nakuru,0
+BAF99901,M6204824,Zawadi Kariuki,P709,"Kelly, Sandoval and Jones",A09,99285,Emergency Visit,8527.22,8000,2025-09-27,Specialist,6,Nakuru,0
+0F9AD546,M5003671,Kamau Omondi,P188,King-Ramirez,I10,76645,Ultrasound Breast,2737.12,2800,2026-01-04,Lab,7,Eldoret,0
+59E8AD60,M8150641,Kipchoge Kimani,P432,Vargas-James,A09,99285,Emergency Visit,7641.15,8000,2025-03-19,Specialist,4,Eldoret,0
+F76E95AA,M9361613,Achieng Kariuki,P762,Sanders-Cook,E11.9,93000,ECG,8176.02,2500,2025-09-14,Clinic,47,Nairobi,1
+DFDAA956,M7359295,Njoroge Kamau,P734,Nash-Cox,E11.9,71046,Chest X-Ray,3547.32,3500,2025-04-21,Clinic,9,Kisumu,0
+99863BBE,M9236745,Muthoni Otieno,P469,Brown Ltd,J06.9,87081,Malaria RDT,739.18,800,2025-07-29,Hospital,7,Kisumu,0
+76B8FCFA,M6190378,Odhiambo Omondi,P855,Watson Inc,B50.9,85025,Full Blood Count,1105.29,1200,2025-07-21,Clinic,7,Mombasa,0
+6B9FD2D0,M2542796,Achieng Langat,P379,Frye Inc,A09,99285,Emergency Visit,20040.55,8000,2025-05-18,Specialist,29,Nakuru,1
+42770335,M4699685,Zawadi Otieno,P107,Chang and Sons,J18.9,47562,Laparoscopic Cholecystectomy,128013.98,120000,2025-10-01,Clinic,1,Mombasa,0
+29EDFE90,M8882244,Fatuma Chege,P974,Smith Group,K29.7,76645,Ultrasound Breast,8181.99,2800,2025-06-18,Hospital,46,Nakuru,1
+E15DD3DB,M5112546,Muthoni Kamau,P519,Davis LLC,J06.9,99285,Emergency Visit,9143.72,8000,2025-11-05,Specialist,4,Kisumu,0
+CB766DB2,M7851404,Waweru Otieno,P602,Scott and Sons,N39.0,87081,Malaria RDT,3139.85,800,2025-08-25,Hospital,43,Kisumu,1
+59F228D6,M1764815,Njoroge Langat,P164,Andrews-Cox,A09,85025,Full Blood Count,1176.48,1200,2025-10-15,Clinic,4,Nakuru,0
+F60C8D40,M5108603,Odhiambo Kariuki,P854,Blair Group,A09,76645,Ultrasound Breast,2537.51,2800,2025-03-23,Specialist,5,Nairobi,0
+69E3EE86,M2828260,Muthoni Ochieng,P268,"Franco, Hall and Mitchell",K35.9,87081,Malaria RDT,747.22,800,2025-07-09,Pharmacy,10,Nakuru,0
+62794C10,M5154272,Odhiambo Rotich,P706,Castillo and Sons,A09,71046,Chest X-Ray,5743.93,3500,2025-03-17,Hospital,30,Kisumu,1
+769A6701,M9995261,Halima Otieno,P633,Martinez Inc,A09,99232,Inpatient Visit,5400.25,5000,2025-07-16,Lab,7,Nairobi,0
+CDDF90E0,M2384936,Imani Omondi,P830,Mckinney-Graves,K35.9,27447,Knee Replacement,488141.66,180000,2025-12-23,Lab,19,Kisumu,1
+0247A6D5,M7318411,Halima Otieno,P361,Murray-Carroll,K29.7,85025,Full Blood Count,1288.52,1200,2026-02-02,Pharmacy,1,Mombasa,0
+4190F2D2,M1800429,Zawadi Ochieng,P807,Hayes Group,K29.7,93000,ECG,2406.86,2500,2026-02-02,Clinic,10,Kisumu,0
+AB2972B1,M4646403,Akinyi Njuguna,P739,"Wilkins, Miller and Hall",B50.9,47562,Laparoscopic Cholecystectomy,133821.23,120000,2025-03-18,Pharmacy,9,Thika,0
+83096F62,M4959345,Nafula Simiyu,P492,Diaz-Collins,S00.9,27447,Knee Replacement,163565.95,180000,2026-02-16,Specialist,2,Mombasa,0
+DBEF498D,M7892225,Nafula Auma,P988,Pierce-Fox,J06.9,47562,Laparoscopic Cholecystectomy,124850.5,120000,2025-10-08,Specialist,2,Kisumu,0
+0B07354C,M2322557,Baraka Nekesa,P920,Mendez Inc,S00.9,99232,Inpatient Visit,5004.1,5000,2025-07-18,Hospital,4,Nakuru,0
+B5585270,M2743602,Akinyi Chege,P948,Cross-Brown,I10,87081,Malaria RDT,892.99,800,2025-04-07,Hospital,7,Thika,0
+0EDD0A97,M3072728,Otieno Ochieng,P823,Mcneil Ltd,K35.9,71046,Chest X-Ray,3755.25,3500,2025-04-14,Pharmacy,3,Nairobi,0
+42549E10,M8560833,Akinyi Mutua,P305,Robertson-Gordon,J06.9,27447,Knee Replacement,351892.95,180000,2025-12-01,Clinic,22,Kisumu,1
+3D4F4C63,M7970771,Fatuma Wekesa,P349,Herring PLC,K35.9,93000,ECG,2568.05,2500,2025-05-26,Clinic,5,Nakuru,0
+E4049136,M5277642,Waweru Kimani,P765,Holt-Gonzales,K29.7,99285,Emergency Visit,20440.3,8000,2025-08-12,Lab,50,Nairobi,1
+86FCD74F,M4782763,Nafula Korir,P390,Johnson Ltd,A09,93000,ECG,2352.91,2500,2025-10-27,Clinic,6,Thika,0
+9D908C8E,M3371602,Halima Kimani,P528,Bowman LLC,S00.9,93000,ECG,2323.09,2500,2025-12-24,Specialist,6,Nakuru,0
+C04CAE9B,M2195114,Amani Otieno,P227,"Mcgee, Smith and Anderson",I10,93000,ECG,7756.55,2500,2025-05-19,Clinic,52,Mombasa,1
+B492E117,M7191135,Fatuma Chege,P643,"Carpenter, Goodwin and Snyder",E11.9,99232,Inpatient Visit,5364.73,5000,2025-07-30,Specialist,5,Kisumu,0
+B9EB30C4,M1155809,Wanjiku Langat,P936,Lucero-Williams,A09,99285,Emergency Visit,7652.38,8000,2025-07-31,Clinic,8,Nakuru,0
+D0CE97E8,M1834876,Otieno Wambua,P553,Mcdonald Group,I10,99213,Consultation,1408.34,1500,2025-06-29,Specialist,10,Nakuru,0
+BFAB1DE7,M7969792,Amani Kimani,P184,"Davis, Smith and Padilla",N39.0,47562,Laparoscopic Cholecystectomy,116594.63,120000,2025-06-02,Specialist,9,Mombasa,0
+440F0110,M2451316,Chebet Nekesa,P490,Henderson-Nelson,I10,93000,ECG,2741.81,2500,2025-03-31,Hospital,5,Nakuru,0
+D1629D4F,M6771934,Halima Langat,P497,"Smith, Acosta and Nguyen",B50.9,71046,Chest X-Ray,3569.72,3500,2025-12-02,Hospital,8,Kisumu,0
+254E99F1,M4158134,Kipchoge Wekesa,P613,"Green, Bernard and Alvarez",K29.7,99213,Consultation,1518.65,1500,2026-02-01,Lab,10,Nairobi,0
+155DAA21,M1098967,Otieno Otieno,P817,Thompson-Johnson,A09,99232,Inpatient Visit,5341.62,5000,2025-09-02,Specialist,9,Nairobi,0
+2E61B874,M9950391,Otieno Nekesa,P681,Smith-West,K29.7,71046,Chest X-Ray,3423.39,3500,2026-01-16,Lab,4,Nairobi,0
+F47DC8D0,M2209226,Zawadi Otieno,P546,Rasmussen-Roberts,J06.9,87081,Malaria RDT,820.05,800,2025-07-12,Hospital,6,Kisumu,0
+F747FC61,M7396087,Nafula Ochieng,P535,"Miller, Frank and Hogan",K29.7,87081,Malaria RDT,907.68,800,2025-10-25,Lab,8,Mombasa,0
+C2423931,M6578736,Muthoni Otieno,P460,Garcia-Turner,N39.0,87081,Malaria RDT,866.59,800,2025-09-12,Clinic,2,Thika,0
+F9012A16,M9770838,Kipchoge Wambua,P309,Scott-Davis,E11.9,99232,Inpatient Visit,5321.72,5000,2025-11-02,Pharmacy,10,Nakuru,0
+49B908DB,M9446974,Kamau Mwangi,P445,Perkins PLC,I10,71046,Chest X-Ray,11173.12,3500,2026-01-05,Specialist,26,Mombasa,1
+90C9882A,M7261229,Kipchoge Chege,P474,"Cowan, Zhang and Heath",K29.7,85025,Full Blood Count,1372.52,1200,2025-11-23,Specialist,7,Eldoret,0
+99A5B998,M2896774,Muthoni Otieno,P964,"Morgan, Crawford and King",K29.7,27447,Knee Replacement,197995.46,180000,2026-01-10,Lab,3,Eldoret,0
+A54EA7EB,M5941189,Halima Korir,P659,"Taylor, Oliver and Owen",A09,76645,Ultrasound Breast,6713.65,2800,2025-10-14,Clinic,20,Nairobi,1
+E97806B5,M8224389,Njoroge Chege,P400,Sparks LLC,E11.9,76645,Ultrasound Breast,3028.96,2800,2026-01-11,Hospital,2,Kisumu,0
+8FF3CD8C,M1451304,Kipchoge Kimani,P199,"Morgan, Choi and Lopez",I10,71046,Chest X-Ray,8302.67,3500,2025-09-09,Pharmacy,52,Nakuru,1
+AD292EBE,M3972018,Fatuma Nekesa,P872,Odonnell-Blanchard,S00.9,85025,Full Blood Count,1260.72,1200,2025-05-12,Lab,2,Thika,0
+E899DA6B,M8448065,Otieno Kariuki,P642,Edwards-Hudson,E11.9,27447,Knee Replacement,204697.06,180000,2025-08-13,Pharmacy,6,Thika,0
+1F5C35E4,M3728882,Nafula Simiyu,P314,Jones and Sons,B50.9,27447,Knee Replacement,190605.8,180000,2025-03-10,Hospital,6,Eldoret,0
+81396FEE,M2887283,Muthoni Ochieng,P457,"Lopez, Fleming and Black",A09,47562,Laparoscopic Cholecystectomy,325559.85,120000,2025-11-20,Pharmacy,46,Mombasa,1
+9347FFFA,M8547311,Kipchoge Wambua,P469,Bishop and Sons,E11.9,27447,Knee Replacement,199753.73,180000,2025-05-22,Specialist,2,Kisumu,0
+5E34CA50,M5901239,Muthoni Wekesa,P205,Valencia-Conley,J06.9,93000,ECG,2278.45,2500,2025-05-15,Pharmacy,1,Nakuru,0
+59BB262A,M6405343,Wanjiku Simiyu,P994,Odonnell LLC,J06.9,99232,Inpatient Visit,15752.86,5000,2025-09-19,Lab,15,Mombasa,1
+C2D99B19,M2173318,Chebet Mwangi,P504,"Morrow, Ward and Acevedo",A09,99213,Consultation,2855.31,1500,2025-12-23,Specialist,49,Kisumu,1
+5C7A92BC,M9230828,Baraka Mutua,P850,"Cohen, Ware and Perkins",E11.9,71046,Chest X-Ray,3375.16,3500,2025-12-08,Clinic,8,Thika,0
+2AECB446,M9464927,Njoroge Otieno,P353,Garcia-Paul,K35.9,71046,Chest X-Ray,4009.59,3500,2025-07-23,Specialist,2,Eldoret,0
+29DA5B96,M5424046,Fatuma Auma,P550,Tapia and Sons,K35.9,99285,Emergency Visit,23179.37,8000,2025-08-03,Clinic,40,Mombasa,1
+EA23DB5F,M5015307,Imani Langat,P894,Love-Davis,B50.9,99285,Emergency Visit,8607.54,8000,2025-08-22,Lab,7,Eldoret,0
+33A0038A,M8757420,Chebet Kamau,P505,Cohen PLC,B50.9,99232,Inpatient Visit,5071.0,5000,2026-03-03,Clinic,1,Eldoret,0
+7CDB6153,M3670819,Wanjiku Chege,P501,Maynard PLC,E11.9,27447,Knee Replacement,597327.96,180000,2025-07-31,Lab,34,Kisumu,1
+F0812088,M8284023,Kipchoge Kamau,P271,"Day, Schroeder and Vazquez",B50.9,87081,Malaria RDT,914.65,800,2025-05-09,Hospital,4,Nakuru,0
+54BFAAD6,M2909540,Nafula Auma,P213,Le-Duarte,B50.9,99232,Inpatient Visit,4841.46,5000,2025-03-22,Specialist,9,Nakuru,0
+F8CEE939,M4394393,Muthoni Wekesa,P877,Macdonald and Sons,S00.9,71046,Chest X-Ray,12711.3,3500,2025-07-20,Clinic,20,Kisumu,1
+AE2FCFAE,M5325537,Kipchoge Simiyu,P887,Castillo-Ellis,J06.9,76645,Ultrasound Breast,8133.87,2800,2025-05-23,Pharmacy,46,Mombasa,1
+3708999D,M2005173,Njoroge Nekesa,P525,"Hall, Turner and Johnson",K35.9,99232,Inpatient Visit,4871.79,5000,2025-07-10,Clinic,2,Kisumu,0
+47C00BAE,M4188992,Waweru Otieno,P825,"Fox, Holt and Brooks",I10,76645,Ultrasound Breast,2789.64,2800,2026-03-04,Specialist,10,Eldoret,0
+9D30F58A,M9373678,Waweru Wambua,P874,"Brown, Swanson and Sanchez",I10,76645,Ultrasound Breast,2683.01,2800,2025-09-03,Lab,7,Thika,0
+B83CD949,M7136687,Otieno Kimani,P114,"George, Callahan and Miller",B50.9,99232,Inpatient Visit,5709.09,5000,2025-06-03,Hospital,9,Nakuru,0
+663FF6E0,M2518891,Akinyi Kariuki,P694,"Ortiz, Jackson and Reyes",J06.9,71046,Chest X-Ray,3582.51,3500,2025-12-19,Clinic,1,Nakuru,0
+695F8439,M3141239,Imani Kamau,P503,Frey and Sons,S00.9,99232,Inpatient Visit,5405.23,5000,2025-05-20,Hospital,8,Nairobi,0
+97E2558F,M9453929,Imani Langat,P827,"Graham, Parsons and Franklin",A09,85025,Full Blood Count,1374.4,1200,2025-09-05,Specialist,3,Nakuru,0
+D0C312BB,M3640018,Nafula Ochieng,P776,Wood-Mercado,J18.9,93000,ECG,2382.2,2500,2025-08-04,Pharmacy,3,Thika,0
+8C323A2E,M8128865,Amani Ochieng,P575,"Rivera, Shelton and Russell",S00.9,99213,Consultation,4175.3,1500,2025-10-26,Pharmacy,47,Kisumu,1
+06F9F474,M2129335,Achieng Auma,P844,Chambers and Sons,B50.9,85025,Full Blood Count,2971.8,1200,2025-12-20,Hospital,45,Kisumu,1
+F2FFE0D1,M7358113,Wanjiku Kimani,P371,Ford and Sons,K35.9,99232,Inpatient Visit,5628.05,5000,2025-10-09,Lab,3,Thika,0
+91CDD77A,M5514342,Njoroge Njuguna,P610,Perez PLC,J18.9,27447,Knee Replacement,176124.28,180000,2025-11-04,Clinic,4,Kisumu,0
+541A6629,M8535808,Imani Kariuki,P311,Garcia-Green,K29.7,93000,ECG,2818.58,2500,2025-05-11,Specialist,6,Thika,0
+9F54815D,M4419219,Imani Korir,P868,Perez Inc,B50.9,87081,Malaria RDT,868.0,800,2025-05-28,Lab,4,Eldoret,0
+E021F5E5,M1634776,Zawadi Wambua,P255,Perry-Bell,E11.9,27447,Knee Replacement,168698.44,180000,2025-08-16,Specialist,1,Nairobi,0
+2E749862,M2764491,Zawadi Nekesa,P635,Anderson-Lester,A09,71046,Chest X-Ray,3306.89,3500,2026-01-02,Clinic,8,Nakuru,0
+32D96F02,M4519295,Akinyi Njuguna,P852,Ramirez-Parker,J06.9,27447,Knee Replacement,400986.71,180000,2025-08-31,Specialist,24,Nairobi,1
+7BD492D2,M2701688,Fatuma Omondi,P266,Randall-Washington,K35.9,99232,Inpatient Visit,4939.04,5000,2026-01-26,Hospital,7,Kisumu,0
+6FBA5E31,M9130188,Odhiambo Wambua,P550,Clark Inc,A09,93000,ECG,2728.63,2500,2025-03-04,Pharmacy,9,Mombasa,0
+6E64353B,M7501017,Akinyi Korir,P799,Owen PLC,K35.9,76645,Ultrasound Breast,2980.8,2800,2025-05-26,Clinic,9,Eldoret,0
+1EB209AA,M5038654,Imani Njuguna,P484,Jones-Miller,N39.0,99232,Inpatient Visit,5532.69,5000,2025-10-25,Pharmacy,6,Nakuru,0
+B66D77A8,M6300362,Muthoni Rotich,P957,Simon-Weber,J18.9,99232,Inpatient Visit,7614.86,5000,2025-06-22,Lab,44,Mombasa,1
+B42D45F4,M6675793,Kipchoge Kimani,P890,Torres PLC,K29.7,47562,Laparoscopic Cholecystectomy,463092.85,120000,2025-07-25,Hospital,20,Nakuru,1
+CC40F8B4,M1743175,Zawadi Langat,P915,Lee and Sons,I10,71046,Chest X-Ray,3295.55,3500,2026-01-09,Hospital,10,Nairobi,0
+624FC785,M7314548,Nafula Kimani,P281,"Curtis, Herring and Hardy",J06.9,27447,Knee Replacement,572510.66,180000,2025-12-31,Lab,37,Kisumu,1
+30A5A2C9,M9337466,Otieno Chege,P319,"Brown, Jackson and Wang",B50.9,71046,Chest X-Ray,13732.49,3500,2025-10-20,Hospital,27,Kisumu,1
+F66257C4,M9044980,Nafula Rotich,P807,Lowery and Sons,E11.9,76645,Ultrasound Breast,3093.19,2800,2025-12-23,Lab,1,Eldoret,0
+5B8618E1,M1206168,Otieno Njuguna,P686,Ford-Mcdaniel,K29.7,99285,Emergency Visit,15849.63,8000,2025-04-12,Specialist,21,Kisumu,1
+8E5C4C90,M1364088,Waweru Chege,P623,"Nelson, Graves and Williams",N39.0,87081,Malaria RDT,762.96,800,2025-05-16,Specialist,6,Mombasa,0
+8708C43D,M7345333,Zawadi Kariuki,P211,Harris PLC,J06.9,99285,Emergency Visit,8381.19,8000,2025-11-21,Specialist,4,Eldoret,0
+3FDA7A68,M4694634,Wanjiku Mwangi,P824,Hoffman-White,J06.9,99213,Consultation,1570.62,1500,2025-11-07,Hospital,4,Nairobi,0
+2A9107DE,M6037789,Amani Auma,P426,Jensen Group,A09,27447,Knee Replacement,336484.66,180000,2025-04-14,Clinic,24,Nakuru,1
+6CC03C47,M3097821,Odhiambo Wambua,P861,Blankenship Ltd,A09,85025,Full Blood Count,1135.17,1200,2025-11-17,Clinic,1,Nakuru,0
+8BE0DC84,M9742158,Chebet Langat,P668,"Anderson, Thomas and Wood",N39.0,99232,Inpatient Visit,5659.74,5000,2026-02-23,Clinic,1,Eldoret,0
+6B1BF1F7,M5707954,Muthoni Chege,P301,Lawson Group,B50.9,85025,Full Blood Count,1273.67,1200,2025-04-18,Hospital,2,Thika,0
+2A87D114,M9969688,Fatuma Simiyu,P619,Smith-Bush,B50.9,71046,Chest X-Ray,3785.73,3500,2025-12-07,Specialist,4,Mombasa,0
+464F16E1,M5521644,Kamau Mutua,P581,Molina Inc,N39.0,99285,Emergency Visit,8374.25,8000,2025-04-05,Lab,1,Kisumu,0
+B56A9C43,M3747534,Chebet Ochieng,P692,Morrow LLC,J06.9,99285,Emergency Visit,9127.47,8000,2025-09-26,Specialist,2,Thika,0
+0C1D949A,M8030765,Akinyi Langat,P335,Brady-Beck,A09,27447,Knee Replacement,188671.8,180000,2025-09-19,Clinic,6,Nairobi,0
+E55A5645,M9853588,Kipchoge Kimani,P725,Stafford-Torres,I10,93000,ECG,2669.19,2500,2025-05-08,Hospital,8,Kisumu,0
+5BE4A6B9,M7191986,Baraka Wekesa,P435,Flowers Inc,S00.9,76645,Ultrasound Breast,2802.0,2800,2026-03-03,Hospital,5,Thika,0
+918A29E1,M4595669,Odhiambo Omondi,P793,"Reed, Rivera and Martinez",J18.9,99213,Consultation,1494.96,1500,2025-10-18,Lab,3,Eldoret,0
+DDA2ABC0,M2647814,Odhiambo Kariuki,P407,Stevenson and Sons,K35.9,93000,ECG,2425.22,2500,2025-09-21,Pharmacy,8,Thika,0
+5F254C57,M3696736,Zawadi Kamau,P923,"Ho, Long and Knox",A09,47562,Laparoscopic Cholecystectomy,126420.76,120000,2025-12-20,Lab,1,Eldoret,0
+1C53B94E,M5843084,Njoroge Nekesa,P679,Sherman Inc,K35.9,93000,ECG,2270.43,2500,2025-05-27,Specialist,4,Nairobi,0
+B5131544,M2921859,Imani Wambua,P887,Richard LLC,E11.9,47562,Laparoscopic Cholecystectomy,133823.39,120000,2026-01-06,Pharmacy,1,Nakuru,0
+45AF6C6B,M9950276,Otieno Korir,P756,Warren-Brooks,K29.7,47562,Laparoscopic Cholecystectomy,116233.53,120000,2025-05-05,Specialist,5,Mombasa,0
+70471E49,M5339457,Imani Mutua,P796,Lee-Burns,E11.9,93000,ECG,2311.0,2500,2025-04-03,Hospital,3,Mombasa,0
+52CA4DCE,M9995633,Njoroge Wambua,P197,Smith Ltd,S00.9,99285,Emergency Visit,21991.52,8000,2025-09-19,Lab,21,Thika,1
+2BFE656B,M5332524,Waweru Mutua,P551,"Thomas, Khan and Graham",A09,99232,Inpatient Visit,4915.82,5000,2025-06-26,Clinic,1,Eldoret,0
+20C9FFAA,M2990334,Njoroge Chege,P502,Pratt-Caldwell,N39.0,47562,Laparoscopic Cholecystectomy,111989.69,120000,2025-12-29,Clinic,6,Nairobi,0
+DFCF4C08,M4390648,Otieno Nekesa,P618,Norris-Clark,J06.9,85025,Full Blood Count,1113.67,1200,2025-06-30,Specialist,1,Mombasa,0
+F5A92D7C,M6396217,Akinyi Rotich,P583,Webb Ltd,B50.9,85025,Full Blood Count,1922.67,1200,2025-04-28,Hospital,18,Nakuru,1
+6B2C55B1,M9448435,Amani Wambua,P155,Medina-Gutierrez,A09,87081,Malaria RDT,784.09,800,2025-08-26,Pharmacy,5,Nakuru,0
+D3F703B7,M7854988,Wanjiku Wambua,P522,Michael LLC,J18.9,85025,Full Blood Count,1137.98,1200,2025-03-26,Clinic,1,Mombasa,0
+95DCD718,M6448586,Baraka Wekesa,P130,"Michael, Franco and Cook",A09,85025,Full Blood Count,1289.88,1200,2025-07-04,Hospital,6,Kisumu,0
+8092DFDD,M1631179,Njoroge Wekesa,P726,Miller-Parker,A09,87081,Malaria RDT,907.62,800,2025-04-17,Pharmacy,10,Kisumu,0
+1FA53533,M6828829,Otieno Chege,P655,Molina Inc,B50.9,27447,Knee Replacement,206876.81,180000,2025-10-02,Clinic,6,Thika,0
+4D5B554A,M9035971,Kamau Kariuki,P794,Stephens and Sons,N39.0,27447,Knee Replacement,177240.8,180000,2026-01-04,Pharmacy,2,Nairobi,0
+4DD6B973,M1708550,Chebet Rotich,P605,Reyes-Duncan,N39.0,99232,Inpatient Visit,4861.83,5000,2025-07-10,Clinic,8,Nairobi,0
+E06D2AA3,M7439371,Otieno Langat,P313,"Davis, Gillespie and Cox",S00.9,47562,Laparoscopic Cholecystectomy,112770.61,120000,2025-07-27,Lab,8,Eldoret,0
+9641904C,M2686363,Njoroge Rotich,P227,Lee-Larson,N39.0,85025,Full Blood Count,2311.77,1200,2025-08-16,Clinic,16,Nairobi,1
+5EEC420C,M6379342,Odhiambo Langat,P384,"Johnson, Gilmore and Miranda",J06.9,85025,Full Blood Count,1102.46,1200,2025-06-18,Clinic,8,Eldoret,0
+29463358,M1730386,Zawadi Simiyu,P359,"Bryant, Lee and Nelson",J06.9,99213,Consultation,1496.42,1500,2025-09-03,Hospital,8,Kisumu,0
+EEF26EDB,M7528964,Imani Langat,P493,"Brooks, Webb and Brown",K29.7,93000,ECG,2351.53,2500,2025-03-17,Hospital,4,Eldoret,0
+49362CD9,M4219595,Achieng Korir,P197,Martin-Long,S00.9,99232,Inpatient Visit,4505.71,5000,2025-08-31,Specialist,4,Eldoret,0
+88103CA5,M4994050,Baraka Langat,P237,"Evans, Neal and Larsen",B50.9,99232,Inpatient Visit,10054.82,5000,2025-09-23,Hospital,17,Eldoret,1
+CD13685F,M6894759,Chebet Nekesa,P995,"Castaneda, Hoffman and Fernandez",N39.0,71046,Chest X-Ray,3160.67,3500,2026-01-19,Clinic,6,Thika,0
+8425D9DC,M5174559,Odhiambo Simiyu,P419,Mitchell-Ramirez,K29.7,87081,Malaria RDT,723.58,800,2026-01-11,Lab,1,Eldoret,0
+5A78DD25,M8189168,Waweru Chege,P370,"Mayo, Holt and Ellis",K29.7,47562,Laparoscopic Cholecystectomy,111580.61,120000,2025-12-12,Specialist,1,Kisumu,0
+E05760E6,M1861958,Waweru Wekesa,P216,"Wilson, Jordan and Lee",A09,27447,Knee Replacement,181821.1,180000,2025-08-11,Lab,3,Nairobi,0
+342F6268,M4645180,Baraka Nekesa,P341,Romero-Griffin,E11.9,93000,ECG,2270.45,2500,2026-01-13,Pharmacy,6,Eldoret,0
+96A4FA20,M8800337,Halima Mwangi,P635,"Sparks, Williams and Chen",S00.9,47562,Laparoscopic Cholecystectomy,137507.37,120000,2026-01-18,Clinic,5,Nakuru,0
+EB1A7D76,M6556840,Kamau Mutua,P782,"Pratt, Barker and Collins",J18.9,99213,Consultation,2751.3,1500,2025-07-02,Pharmacy,41,Nairobi,1
+88565B01,M8393515,Kamau Mwangi,P367,Wagner Inc,E11.9,27447,Knee Replacement,167082.19,180000,2026-02-26,Specialist,7,Thika,0
+04C93372,M4860745,Nafula Omondi,P751,"Hoffman, Holmes and Henry",J18.9,27447,Knee Replacement,199477.75,180000,2025-04-21,Pharmacy,5,Thika,0
+3F85C9F4,M4184459,Achieng Nekesa,P193,"Ingram, Brown and Brewer",J18.9,71046,Chest X-Ray,3202.98,3500,2025-04-10,Specialist,5,Nairobi,0
+0F2E9AEC,M5090740,Kamau Langat,P490,Torres LLC,A09,87081,Malaria RDT,900.9,800,2025-08-19,Pharmacy,10,Eldoret,0
+C4EE6F9F,M2427388,Zawadi Korir,P544,"Miller, Walker and Woods",K29.7,99213,Consultation,1555.56,1500,2025-12-25,Lab,5,Eldoret,0
+AA66ECA7,M4720687,Nafula Mwangi,P723,Banks-Scott,J06.9,99232,Inpatient Visit,4610.18,5000,2025-08-20,Lab,5,Eldoret,0
+38958E4B,M5825775,Kamau Kimani,P496,"Barker, Fowler and Bates",I10,47562,Laparoscopic Cholecystectomy,119666.6,120000,2025-03-19,Pharmacy,9,Eldoret,0
+FBCB8350,M9214801,Muthoni Nekesa,P651,Steele Group,K35.9,99213,Consultation,1456.06,1500,2025-09-09,Pharmacy,5,Eldoret,0
+37897DE8,M2956687,Otieno Ochieng,P600,Schultz Inc,N39.0,27447,Knee Replacement,435295.38,180000,2025-11-09,Hospital,22,Eldoret,1
+C845CDD4,M2563790,Odhiambo Ochieng,P572,Boyer LLC,A09,47562,Laparoscopic Cholecystectomy,108410.23,120000,2025-04-07,Clinic,7,Nakuru,0
+FF0A6690,M2488575,Kipchoge Nekesa,P111,"Sanchez, Perez and Fisher",B50.9,71046,Chest X-Ray,4009.58,3500,2025-11-17,Clinic,3,Thika,0
+BFC5A7EB,M3303365,Wanjiku Ochieng,P486,King Inc,I10,99232,Inpatient Visit,8752.92,5000,2026-02-22,Hospital,48,Nairobi,1
+301BB297,M1576194,Kipchoge Rotich,P614,"Love, Pace and Landry",A09,99285,Emergency Visit,17667.86,8000,2025-10-15,Specialist,57,Nakuru,1
+2D2DB3EF,M3081873,Akinyi Ochieng,P285,Lester-Morales,S00.9,47562,Laparoscopic Cholecystectomy,326568.98,120000,2025-03-14,Clinic,48,Nairobi,1
+70EAACDB,M3586212,Fatuma Auma,P888,"Williams, Flores and Obrien",I10,76645,Ultrasound Breast,3197.14,2800,2025-11-03,Lab,10,Thika,0
+14267F0F,M7452434,Nafula Auma,P257,"Gilbert, Higgins and Collins",B50.9,85025,Full Blood Count,1222.46,1200,2025-03-26,Clinic,4,Mombasa,0
+6B1727ED,M7899609,Achieng Korir,P206,"Macdonald, Fisher and Velazquez",K35.9,99213,Consultation,1661.88,1500,2025-09-06,Clinic,1,Thika,0
+F5A2BA89,M7477326,Muthoni Wekesa,P137,"Evans, Murphy and Wells",K29.7,27447,Knee Replacement,193735.25,180000,2025-06-20,Specialist,7,Kisumu,0
+AC872F49,M8082668,Otieno Kimani,P490,Spencer Group,S00.9,76645,Ultrasound Breast,2626.99,2800,2025-07-08,Specialist,3,Kisumu,0
+1EDB082B,M6110305,Halima Chege,P311,Ryan-Boone,K35.9,76645,Ultrasound Breast,3074.25,2800,2025-09-11,Pharmacy,10,Nairobi,0
+14F071B3,M1139824,Otieno Kimani,P776,Sanchez and Sons,B50.9,99285,Emergency Visit,7742.56,8000,2025-03-30,Pharmacy,8,Nairobi,0
+7E9F6CF8,M3135534,Akinyi Auma,P780,"Oconnell, Salazar and Edwards",I10,99232,Inpatient Visit,4907.73,5000,2025-03-23,Clinic,5,Eldoret,0
+61633187,M6539837,Kipchoge Ochieng,P837,Lee-Mccarthy,B50.9,87081,Malaria RDT,792.84,800,2025-06-18,Pharmacy,2,Thika,0
+2F8573A8,M1473227,Nafula Kariuki,P676,Walker Inc,J18.9,87081,Malaria RDT,838.5,800,2025-06-25,Specialist,6,Kisumu,0
+09F5AAEB,M6568772,Waweru Ochieng,P918,"Richards, Stewart and Harvey",E11.9,87081,Malaria RDT,777.22,800,2025-07-24,Lab,1,Thika,0
+332E8D9A,M3046175,Odhiambo Kimani,P889,"Briggs, Church and Chen",K35.9,93000,ECG,2760.78,2500,2025-10-29,Hospital,1,Mombasa,0
+21E0B098,M4384602,Odhiambo Simiyu,P344,"Bates, Roberts and Johnson",J18.9,99213,Consultation,2432.49,1500,2026-01-17,Hospital,39,Nakuru,1
+01CD6137,M9107893,Nafula Ochieng,P694,"Davidson, Haney and Conrad",K35.9,99285,Emergency Visit,7933.94,8000,2025-03-16,Hospital,1,Mombasa,0
+C216A531,M5171713,Halima Auma,P402,Humphrey Inc,S00.9,85025,Full Blood Count,3852.94,1200,2026-02-08,Specialist,34,Nairobi,1
+DBC295AB,M5040453,Fatuma Kariuki,P337,Buckley-Roberson,K35.9,99285,Emergency Visit,8941.68,8000,2025-04-12,Pharmacy,10,Nakuru,0
+E64878FB,M3067542,Kamau Kamau,P686,Clark-Barnes,S00.9,47562,Laparoscopic Cholecystectomy,134243.01,120000,2025-08-15,Specialist,3,Eldoret,0
+9EFFBC0B,M8841768,Imani Kariuki,P726,Caldwell-Haynes,A09,71046,Chest X-Ray,3634.77,3500,2026-01-30,Pharmacy,6,Nakuru,0
+44831124,M3260294,Halima Otieno,P686,Johnson Ltd,K29.7,85025,Full Blood Count,1252.05,1200,2026-02-04,Clinic,3,Kisumu,0
+BE69BBFF,M9900294,Fatuma Chege,P943,"Guzman, Cole and Smith",J06.9,71046,Chest X-Ray,3406.88,3500,2026-01-05,Pharmacy,10,Nakuru,0
+3E600FFA,M5240720,Akinyi Korir,P145,"Lynch, Clark and Peterson",K35.9,71046,Chest X-Ray,8838.34,3500,2026-02-19,Hospital,25,Thika,1
+268EACAD,M6334600,Fatuma Mwangi,P443,Williamson Ltd,J06.9,85025,Full Blood Count,2796.14,1200,2025-04-27,Specialist,55,Nakuru,1
+0A7017DC,M9135255,Amani Langat,P266,Rowe and Sons,A09,85025,Full Blood Count,1235.45,1200,2025-11-13,Clinic,6,Eldoret,0
+BC4470D4,M4762150,Achieng Njuguna,P911,Lee-Smith,K29.7,85025,Full Blood Count,1318.11,1200,2025-11-03,Lab,9,Nairobi,0
+25F4E630,M1298116,Achieng Kimani,P522,"Murillo, Ray and Stafford",J06.9,27447,Knee Replacement,176222.77,180000,2025-05-23,Specialist,8,Nairobi,0
+52096D46,M2365149,Nafula Auma,P587,Curtis and Sons,A09,99285,Emergency Visit,21690.72,8000,2025-08-19,Pharmacy,54,Eldoret,1
+6D38B1B4,M8679146,Muthoni Korir,P983,Lawrence-Shepard,N39.0,47562,Laparoscopic Cholecystectomy,218137.19,120000,2026-01-03,Clinic,60,Nakuru,1
+78DA9773,M8280643,Wanjiku Simiyu,P991,Rose PLC,J18.9,27447,Knee Replacement,342825.44,180000,2026-01-07,Clinic,37,Kisumu,1
+6DD3826A,M3102926,Akinyi Kariuki,P180,Carney-West,I10,85025,Full Blood Count,1286.41,1200,2025-03-16,Hospital,5,Nairobi,0
+BC25F1C6,M4484526,Fatuma Langat,P340,"Edwards, Castro and Hernandez",J06.9,85025,Full Blood Count,1091.82,1200,2026-02-26,Hospital,8,Nairobi,0
+88476D75,M1964635,Nafula Kamau,P730,Clark LLC,K35.9,27447,Knee Replacement,671622.26,180000,2025-09-17,Pharmacy,46,Kisumu,1
+747B1D05,M7517997,Zawadi Rotich,P762,Phillips-Gill,K29.7,99213,Consultation,5446.3,1500,2026-01-02,Pharmacy,25,Nakuru,1
+162CC775,M4280754,Baraka Ochieng,P238,Watson Ltd,B50.9,87081,Malaria RDT,864.18,800,2026-03-01,Lab,8,Kisumu,0
+F92BD9CD,M7412371,Halima Omondi,P527,Griffin and Sons,J18.9,99232,Inpatient Visit,5321.16,5000,2025-05-15,Clinic,2,Nakuru,0
+A72E50B7,M6338793,Odhiambo Ochieng,P608,Miller LLC,K29.7,99285,Emergency Visit,7264.77,8000,2025-09-16,Hospital,10,Mombasa,0
+29436113,M2321324,Otieno Wekesa,P935,Salinas Ltd,A09,87081,Malaria RDT,731.59,800,2025-06-05,Clinic,10,Mombasa,0
+D9D7D45A,M5123584,Chebet Wekesa,P521,Torres-Richardson,N39.0,85025,Full Blood Count,1090.39,1200,2025-07-02,Hospital,10,Nairobi,0
+8C329ADC,M1272943,Achieng Nekesa,P283,West Inc,K29.7,99285,Emergency Visit,13635.39,8000,2025-08-15,Hospital,47,Nairobi,1
+BEA71ADB,M7282411,Zawadi Nekesa,P990,"Ayala, Palmer and Scott",I10,85025,Full Blood Count,1310.69,1200,2025-08-24,Hospital,7,Thika,0
+50377BEB,M2237331,Muthoni Langat,P757,"Meyers, Miller and Perez",A09,27447,Knee Replacement,185656.3,180000,2025-07-17,Lab,7,Thika,0
+92DD440A,M1174620,Nafula Omondi,P848,Sosa-Murray,B50.9,99285,Emergency Visit,17897.91,8000,2025-12-04,Pharmacy,18,Nairobi,1
+0E18083E,M8077999,Njoroge Wambua,P573,"Young, Chang and Phillips",J18.9,87081,Malaria RDT,827.26,800,2026-01-25,Lab,3,Eldoret,0
+26E2FE5C,M2100870,Chebet Korir,P513,"Smith, Waters and Williams",K29.7,99213,Consultation,1543.23,1500,2025-06-09,Specialist,3,Nairobi,0
+45F43A4E,M8482180,Nafula Mwangi,P434,Brooks-Marshall,J06.9,99232,Inpatient Visit,5271.9,5000,2025-04-27,Clinic,4,Eldoret,0
+C7A15960,M9197571,Wanjiku Mutua,P303,Carrillo PLC,A09,99213,Consultation,5349.28,1500,2025-08-19,Pharmacy,53,Mombasa,1
+9C9F7028,M9098979,Wanjiku Auma,P769,Scott LLC,K29.7,71046,Chest X-Ray,3669.78,3500,2025-04-28,Lab,10,Mombasa,0
+1E47A3BF,M8185805,Njoroge Kamau,P420,Cooper-Mcconnell,J18.9,99285,Emergency Visit,8333.72,8000,2025-11-11,Lab,6,Kisumu,0
+8E8956FF,M1417955,Njoroge Nekesa,P704,Haley Ltd,J18.9,99232,Inpatient Visit,5016.95,5000,2025-07-15,Hospital,8,Kisumu,0
+F32E94F2,M8459558,Njoroge Omondi,P240,Medina-Garcia,J06.9,71046,Chest X-Ray,8933.81,3500,2026-02-02,Clinic,54,Kisumu,1
+F4971171,M5587856,Chebet Ochieng,P687,Walker PLC,N39.0,27447,Knee Replacement,176266.83,180000,2025-08-22,Lab,6,Kisumu,0
+EC0C901E,M3768343,Baraka Omondi,P695,Gonzalez and Sons,J06.9,85025,Full Blood Count,1288.89,1200,2025-12-26,Hospital,9,Thika,0
+9021B448,M4165061,Odhiambo Kimani,P339,Reeves Group,I10,47562,Laparoscopic Cholecystectomy,119316.3,120000,2026-02-10,Pharmacy,6,Thika,0
+009BE4BC,M6007018,Kipchoge Mwangi,P150,Crawford Group,A09,71046,Chest X-Ray,3182.13,3500,2025-08-03,Clinic,1,Mombasa,0
+9EDC3EB5,M5031966,Fatuma Wekesa,P558,Bowen LLC,J06.9,87081,Malaria RDT,864.01,800,2026-01-16,Pharmacy,8,Mombasa,0
+43F3F18F,M7544871,Achieng Simiyu,P598,"Rivera, Todd and Cooper",A09,99232,Inpatient Visit,5325.92,5000,2025-04-15,Lab,5,Thika,0
+E88ED257,M9211754,Muthoni Wambua,P742,Green-Sweeney,I10,71046,Chest X-Ray,3874.92,3500,2025-08-24,Lab,7,Nairobi,0
+A85D8CA3,M7278962,Kipchoge Auma,P751,Russo PLC,J18.9,87081,Malaria RDT,1583.36,800,2026-02-09,Specialist,39,Eldoret,1
+32D1EB9F,M1523352,Zawadi Njuguna,P137,Mclaughlin-Griffin,N39.0,76645,Ultrasound Breast,3144.47,2800,2025-10-22,Specialist,9,Eldoret,0
+46D51EBF,M6192009,Fatuma Njuguna,P476,Moran LLC,S00.9,27447,Knee Replacement,172530.13,180000,2025-07-22,Lab,4,Kisumu,0
+9EDC6A84,M3545556,Muthoni Rotich,P187,Wilson-Carpenter,J18.9,99285,Emergency Visit,8458.89,8000,2026-01-03,Specialist,1,Nakuru,0
+871504F2,M3182597,Amani Langat,P562,Vasquez Inc,K35.9,76645,Ultrasound Breast,5304.76,2800,2025-12-26,Pharmacy,48,Mombasa,1
+E79EE0AE,M3394312,Njoroge Korir,P370,Thompson-Jones,K29.7,85025,Full Blood Count,1145.81,1200,2025-03-18,Pharmacy,7,Nakuru,0
+20D24C1C,M6493461,Kipchoge Njuguna,P881,Mcdonald Inc,K29.7,99285,Emergency Visit,8036.27,8000,2025-06-22,Specialist,3,Nakuru,0
+FA75AE5C,M2707116,Imani Mutua,P474,Wagner-Taylor,E11.9,93000,ECG,2720.2,2500,2025-11-24,Lab,2,Nairobi,0
+1E152ABD,M4712363,Muthoni Kamau,P367,Taylor-Lopez,N39.0,71046,Chest X-Ray,3512.19,3500,2025-05-09,Specialist,10,Thika,0
+610F3A51,M3970181,Baraka Auma,P636,"Sellers, Campbell and Mcdonald",N39.0,47562,Laparoscopic Cholecystectomy,121345.35,120000,2025-09-27,Pharmacy,9,Nakuru,0
+6038BC17,M4991829,Kipchoge Kamau,P278,Miller-Jimenez,B50.9,99213,Consultation,1399.43,1500,2026-02-06,Clinic,6,Thika,0
+FBB2698B,M7087100,Kipchoge Wambua,P249,"Morrison, Mcdonald and Bridges",J18.9,76645,Ultrasound Breast,6505.5,2800,2025-10-15,Hospital,20,Nairobi,1
+2F481009,M6098672,Otieno Njuguna,P631,Morales-Bass,A09,93000,ECG,2580.64,2500,2026-01-12,Clinic,2,Eldoret,0
+25D4C85B,M1425670,Odhiambo Auma,P176,"Dalton, Mccormick and Howell",J18.9,87081,Malaria RDT,1869.41,800,2025-11-24,Clinic,51,Kisumu,1
+F83550E5,M1891328,Wanjiku Chege,P940,Snyder Ltd,E11.9,99213,Consultation,1488.46,1500,2026-01-07,Pharmacy,9,Nairobi,0
+DF6DFE02,M4569164,Muthoni Wekesa,P329,Singh and Sons,A09,71046,Chest X-Ray,3240.65,3500,2025-09-06,Specialist,9,Kisumu,0
+0E54E871,M1047572,Waweru Kariuki,P233,"Browning, Richardson and Andrews",N39.0,87081,Malaria RDT,785.71,800,2025-10-27,Clinic,3,Nairobi,0
+174A5EF4,M4978534,Waweru Wekesa,P727,"Murphy, Johnson and Williams",E11.9,93000,ECG,2366.97,2500,2025-08-29,Clinic,5,Nakuru,0
+0C8C7EFA,M4789527,Imani Auma,P397,"Martinez, Fowler and Green",I10,93000,ECG,2679.4,2500,2025-11-28,Hospital,8,Nakuru,0
+B241E058,M4048907,Kamau Wambua,P488,"Duncan, Peters and Shannon",E11.9,99232,Inpatient Visit,4669.62,5000,2025-11-16,Lab,8,Kisumu,0
+82E4453C,M3166570,Imani Auma,P589,Anderson Inc,A09,99232,Inpatient Visit,12388.82,5000,2025-08-17,Clinic,22,Mombasa,1
+6A8B4122,M9466397,Kamau Kariuki,P609,"Pierce, Garcia and Wood",A09,87081,Malaria RDT,2623.88,800,2025-10-01,Specialist,48,Nakuru,1
+62D15209,M8054359,Kipchoge Simiyu,P366,Mccullough-Smith,S00.9,71046,Chest X-Ray,3345.41,3500,2025-10-05,Lab,5,Nairobi,0
+700F33C2,M1378915,Kipchoge Ochieng,P793,Pierce Inc,K29.7,76645,Ultrasound Breast,2730.18,2800,2025-10-31,Specialist,2,Mombasa,0
+06FC9023,M6623525,Otieno Omondi,P788,"Johnson, Bailey and Gomez",B50.9,47562,Laparoscopic Cholecystectomy,127915.62,120000,2025-11-09,Clinic,10,Mombasa,0
+D4E2D1EC,M4387643,Muthoni Wambua,P427,Wallace and Sons,A09,99213,Consultation,1508.77,1500,2026-01-19,Lab,7,Eldoret,0
+ED9795BE,M6502353,Kipchoge Mutua,P502,"Spence, Burns and Short",S00.9,99285,Emergency Visit,8986.26,8000,2025-10-02,Specialist,3,Kisumu,0
+1A0AAB58,M5125653,Zawadi Auma,P662,"Carey, Duke and Hernandez",K35.9,71046,Chest X-Ray,6459.44,3500,2025-06-02,Specialist,56,Nakuru,1
+12201E45,M7001942,Chebet Chege,P894,Le PLC,K29.7,99285,Emergency Visit,20716.96,8000,2025-12-19,Lab,56,Kisumu,1
+D1E3EFA1,M4950793,Baraka Omondi,P478,Brock-Horton,S00.9,85025,Full Blood Count,1886.32,1200,2025-03-19,Lab,31,Nairobi,1
+17B14EDE,M1616817,Nafula Chege,P708,"Myers, Hernandez and James",A09,47562,Laparoscopic Cholecystectomy,123198.38,120000,2026-01-08,Clinic,7,Thika,0
+D6F3AC6D,M9036641,Akinyi Mutua,P762,"Freeman, Watkins and Anthony",I10,76645,Ultrasound Breast,2857.06,2800,2026-02-21,Clinic,8,Nairobi,0
+26C95082,M2119456,Nafula Wekesa,P679,Pope-Wolf,I10,76645,Ultrasound Breast,3055.3,2800,2025-10-23,Lab,8,Thika,0
+3E90D8E3,M3801173,Nafula Kariuki,P867,"Morrison, Garrett and Hernandez",B50.9,47562,Laparoscopic Cholecystectomy,123516.69,120000,2026-01-03,Hospital,5,Kisumu,0
+676F6938,M4187406,Amani Chege,P839,Bautista-Higgins,N39.0,99213,Consultation,1387.97,1500,2025-10-20,Pharmacy,4,Kisumu,0
+A1DFCC37,M4039834,Akinyi Kariuki,P334,"Smith, Higgins and Cox",A09,76645,Ultrasound Breast,9108.01,2800,2025-12-27,Lab,47,Nairobi,1
+024C70A1,M2567880,Amani Korir,P470,Gonzalez-Dunn,J06.9,71046,Chest X-Ray,3861.54,3500,2025-08-31,Pharmacy,9,Mombasa,0
+D2077254,M8245685,Achieng Simiyu,P931,"Ward, Wilson and Ford",K29.7,76645,Ultrasound Breast,3102.24,2800,2025-05-24,Hospital,2,Eldoret,0
+1CE48DA6,M3684813,Wanjiku Kamau,P915,"Stevenson, Stuart and Lewis",N39.0,47562,Laparoscopic Cholecystectomy,282212.66,120000,2025-05-05,Pharmacy,55,Mombasa,1
+A35161F5,M8159521,Imani Nekesa,P262,"Miller, Ramirez and Walsh",K35.9,27447,Knee Replacement,189569.35,180000,2025-07-17,Pharmacy,9,Mombasa,0
+634BED10,M4985919,Kamau Wekesa,P375,Oliver Inc,E11.9,99232,Inpatient Visit,4548.48,5000,2026-02-22,Pharmacy,6,Kisumu,0
+F0B49100,M3822312,Kamau Ochieng,P464,Hughes-Johnson,K35.9,85025,Full Blood Count,2929.67,1200,2025-12-03,Hospital,42,Nairobi,1
+A66C0CE1,M1942411,Nafula Korir,P175,Curry Group,B50.9,93000,ECG,2747.71,2500,2025-07-11,Lab,10,Nairobi,0
+99734ABC,M5702093,Zawadi Omondi,P868,"Mcneil, Greene and Reese",S00.9,27447,Knee Replacement,170229.23,180000,2025-12-29,Hospital,9,Eldoret,0
+72F083E0,M4287016,Akinyi Ochieng,P972,"Davis, Grant and Harper",I10,99232,Inpatient Visit,4633.7,5000,2025-11-14,Lab,10,Mombasa,0
+85DC8F54,M8690178,Imani Kariuki,P858,Thomas-Ortiz,S00.9,87081,Malaria RDT,881.42,800,2025-11-05,Hospital,9,Nairobi,0
+D0000C93,M3037647,Wanjiku Otieno,P950,"Huff, Moore and Campbell",J18.9,76645,Ultrasound Breast,2843.43,2800,2025-12-28,Clinic,3,Nakuru,0
+F41BF32E,M5672073,Fatuma Njuguna,P652,"Clarke, Taylor and Guerrero",K29.7,71046,Chest X-Ray,3212.0,3500,2025-05-16,Specialist,4,Nakuru,0
+F65AB249,M2703045,Odhiambo Chege,P767,"Porter, Jones and Smith",K29.7,93000,ECG,7212.97,2500,2025-09-30,Specialist,52,Nakuru,1
+CEDB9C6F,M8622050,Achieng Kariuki,P828,"Nelson, Anderson and Martinez",I10,99285,Emergency Visit,15851.11,8000,2025-08-06,Hospital,38,Nairobi,1
+1F3750C9,M7829609,Otieno Wekesa,P129,Romero and Sons,I10,99213,Consultation,3443.76,1500,2025-04-14,Clinic,50,Nairobi,1
+30657831,M4353806,Waweru Mutua,P393,"Beck, Allen and Patterson",B50.9,99232,Inpatient Visit,4681.66,5000,2025-12-20,Hospital,1,Thika,0
+D5A1C00A,M5323142,Zawadi Kamau,P668,Curtis-Williams,B50.9,47562,Laparoscopic Cholecystectomy,116276.35,120000,2025-11-09,Clinic,1,Kisumu,0
+ABDFB3B3,M3033459,Imani Simiyu,P441,"Smith, Murillo and Hernandez",B50.9,99232,Inpatient Visit,5692.69,5000,2025-08-11,Hospital,8,Thika,0
+EB0CD2E2,M6866294,Chebet Omondi,P328,Byrd and Sons,J06.9,87081,Malaria RDT,759.91,800,2025-04-01,Clinic,8,Nakuru,0
+575170C2,M5791184,Fatuma Njuguna,P225,Garcia LLC,K29.7,93000,ECG,2690.02,2500,2026-01-26,Lab,4,Mombasa,0
+2FFDB4B4,M3875339,Otieno Wekesa,P965,Santos-Thomas,I10,27447,Knee Replacement,164525.17,180000,2025-04-08,Pharmacy,1,Eldoret,0
+36EB7155,M8490291,Achieng Mwangi,P162,"Harrison, Brown and Thomas",J06.9,27447,Knee Replacement,613844.36,180000,2025-08-23,Pharmacy,55,Thika,1
+CE886429,M4283564,Wanjiku Mwangi,P651,"Hill, Miller and Perry",K35.9,47562,Laparoscopic Cholecystectomy,114664.32,120000,2025-03-23,Hospital,5,Eldoret,0
+968F21FF,M1678438,Halima Langat,P574,Miller and Sons,J18.9,99232,Inpatient Visit,15383.58,5000,2025-04-07,Clinic,20,Nakuru,1
+6A6D27BB,M8142385,Zawadi Chege,P406,"Hicks, Young and Rosales",E11.9,71046,Chest X-Ray,8223.44,3500,2025-05-08,Hospital,41,Eldoret,1
+8D063E5C,M3718884,Akinyi Kariuki,P993,Acosta LLC,B50.9,99232,Inpatient Visit,5128.63,5000,2026-02-06,Lab,7,Kisumu,0
+904751AC,M3191007,Fatuma Langat,P798,Andrade-Hoffman,J06.9,71046,Chest X-Ray,3874.8,3500,2026-02-09,Hospital,6,Thika,0
+7EF35C49,M1457985,Chebet Wekesa,P184,"Murphy, Phillips and Peterson",K29.7,93000,ECG,2755.56,2500,2025-06-19,Hospital,10,Kisumu,0
+1072F156,M2110870,Muthoni Wambua,P960,Hardin-Roberson,J06.9,71046,Chest X-Ray,3849.59,3500,2025-09-12,Lab,6,Thika,0
+265A6823,M8381800,Kamau Njuguna,P252,"Brock, Cooper and Wilson",J06.9,47562,Laparoscopic Cholecystectomy,435910.1,120000,2025-11-07,Clinic,57,Nairobi,1
+11A626D9,M8350099,Halima Nekesa,P223,"Johnston, Johnson and Crawford",J18.9,93000,ECG,2499.37,2500,2025-11-09,Hospital,6,Kisumu,0
+9730677A,M4794319,Amani Chege,P885,Cochran-Jones,S00.9,76645,Ultrasound Breast,3053.82,2800,2025-04-24,Specialist,10,Nairobi,0
+570F61CB,M3055673,Kamau Nekesa,P151,Hall-Sherman,K29.7,76645,Ultrasound Breast,3153.55,2800,2025-05-15,Lab,6,Thika,0
+89ED8CFC,M9742683,Njoroge Kimani,P273,Smith and Sons,K29.7,47562,Laparoscopic Cholecystectomy,135156.23,120000,2025-10-18,Pharmacy,4,Kisumu,0
+558B93F6,M6816664,Amani Nekesa,P855,"Lozano, Benson and Lester",J06.9,47562,Laparoscopic Cholecystectomy,135951.64,120000,2025-10-06,Clinic,8,Nairobi,0
+78594565,M5734922,Fatuma Mwangi,P879,"Green, Clark and Chavez",I10,99213,Consultation,3878.73,1500,2025-10-29,Specialist,33,Mombasa,1
+272CDA6C,M9302946,Fatuma Rotich,P649,Gonzalez-Williams,J06.9,71046,Chest X-Ray,3192.58,3500,2026-01-08,Lab,5,Mombasa,0
+4FF37864,M3112652,Akinyi Mwangi,P949,"Dickerson, Stein and Coleman",N39.0,99213,Consultation,1645.05,1500,2025-11-18,Specialist,4,Mombasa,0
+111B3E2A,M2819161,Muthoni Chege,P887,Shaw-Williams,I10,99232,Inpatient Visit,4723.05,5000,2025-11-13,Specialist,8,Thika,0
+22436770,M1911435,Waweru Ochieng,P153,Walls PLC,K29.7,85025,Full Blood Count,1143.26,1200,2025-07-10,Lab,6,Nakuru,0
+2D7EF789,M4052834,Muthoni Auma,P614,Bowman-Black,J06.9,47562,Laparoscopic Cholecystectomy,118335.44,120000,2025-12-31,Specialist,9,Mombasa,0
+975CAAD7,M9578269,Akinyi Kariuki,P649,"Mack, Wilson and Velasquez",E11.9,93000,ECG,2302.25,2500,2025-08-16,Specialist,2,Thika,0
+B88B248F,M6267145,Baraka Nekesa,P738,Cherry Ltd,B50.9,99232,Inpatient Visit,18459.44,5000,2025-09-11,Clinic,34,Mombasa,1
+5837E6B7,M6064152,Halima Rotich,P543,Diaz-Johnson,N39.0,99232,Inpatient Visit,10121.74,5000,2025-09-25,Clinic,19,Nakuru,1
+D8044A63,M5133011,Waweru Kariuki,P471,"Hunter, Hansen and Chambers",K35.9,47562,Laparoscopic Cholecystectomy,307134.39,120000,2025-08-28,Pharmacy,58,Nairobi,1
+222BFCC1,M1713315,Akinyi Ochieng,P133,Hernandez-Shields,N39.0,99213,Consultation,1640.51,1500,2025-05-05,Hospital,7,Nakuru,0
+5BC3BCC0,M3684405,Akinyi Kamau,P909,Perez-Boyd,N39.0,93000,ECG,5043.28,2500,2025-07-14,Specialist,15,Thika,1
+B8AF6A8E,M1581546,Chebet Kamau,P630,Harris-Sullivan,K29.7,27447,Knee Replacement,205192.1,180000,2025-10-01,Hospital,1,Kisumu,0
+AC44F915,M2785812,Zawadi Wambua,P990,"Mendoza, Duncan and Fletcher",S00.9,47562,Laparoscopic Cholecystectomy,377195.28,120000,2025-05-26,Clinic,52,Nakuru,1
+1CD9F0B9,M4585314,Halima Wekesa,P912,Crane-Frazier,K29.7,71046,Chest X-Ray,3556.86,3500,2025-04-01,Hospital,8,Kisumu,0
+3A2D64EA,M9902483,Waweru Omondi,P477,"Cordova, Johnson and Miller",K35.9,85025,Full Blood Count,1877.04,1200,2025-04-22,Lab,22,Eldoret,1
+CD27DAB2,M7289990,Odhiambo Kamau,P426,Middleton-Schneider,A09,71046,Chest X-Ray,3356.31,3500,2025-03-04,Pharmacy,2,Mombasa,0
+9AACFE3C,M6318720,Waweru Kimani,P125,Peterson-Silva,K29.7,99232,Inpatient Visit,12611.91,5000,2025-07-21,Clinic,46,Kisumu,1
+94BED208,M2258981,Zawadi Simiyu,P625,Foster Group,K29.7,99232,Inpatient Visit,4843.19,5000,2026-02-17,Clinic,1,Eldoret,0
+DF88A906,M5446912,Halima Auma,P316,"Woodard, Braun and Fleming",N39.0,27447,Knee Replacement,204608.19,180000,2025-03-16,Clinic,3,Thika,0
+240A8945,M8852729,Kamau Simiyu,P671,Tyler-Jackson,I10,27447,Knee Replacement,203778.17,180000,2025-08-28,Hospital,2,Eldoret,0
+8BA292F4,M2788238,Amani Omondi,P280,Silva Group,N39.0,99232,Inpatient Visit,4804.98,5000,2025-07-10,Hospital,1,Eldoret,0
+E69A23A3,M7099881,Kipchoge Rotich,P214,Smith-Kim,A09,85025,Full Blood Count,2556.79,1200,2025-03-27,Hospital,46,Thika,1
+198C033D,M3403234,Imani Njuguna,P172,Miller Ltd,B50.9,93000,ECG,7978.29,2500,2025-04-14,Clinic,59,Thika,1
+D242446E,M8432510,Nafula Langat,P663,Massey-Evans,E11.9,71046,Chest X-Ray,3725.34,3500,2025-08-26,Lab,9,Thika,0
+FD8CB38F,M8129962,Imani Simiyu,P350,"Forbes, Mcmillan and Leonard",N39.0,99213,Consultation,4561.07,1500,2025-03-19,Specialist,15,Nairobi,1
+57AAD6D5,M2315459,Zawadi Rotich,P574,Patel-Payne,K29.7,47562,Laparoscopic Cholecystectomy,122624.81,120000,2025-12-09,Pharmacy,8,Nakuru,0
+1C4B1F63,M1994652,Waweru Kariuki,P818,Wise LLC,K29.7,76645,Ultrasound Breast,2614.91,2800,2025-10-28,Clinic,7,Thika,0
+E54102A9,M5335179,Waweru Chege,P280,Beard-Mclaughlin,J06.9,85025,Full Blood Count,2618.14,1200,2025-06-29,Hospital,16,Nairobi,1
+2BF618F3,M4223772,Otieno Omondi,P198,Carroll-Campbell,K29.7,99213,Consultation,5959.84,1500,2025-12-09,Hospital,36,Nakuru,1
+83AF7979,M1540516,Amani Kamau,P346,Smith PLC,J18.9,85025,Full Blood Count,1162.69,1200,2026-01-29,Hospital,2,Eldoret,0
+9EB72EDA,M8999183,Halima Korir,P261,Hardy-Pearson,J06.9,71046,Chest X-Ray,3200.02,3500,2025-06-17,Hospital,10,Mombasa,0
+8BFCF6B5,M3860246,Nafula Ochieng,P446,Bryant LLC,J18.9,99213,Consultation,3835.21,1500,2025-06-01,Hospital,39,Kisumu,1
+C6F488AD,M3452813,Fatuma Simiyu,P141,"Wilson, Fuller and Horton",J18.9,85025,Full Blood Count,1213.87,1200,2025-06-28,Clinic,3,Nairobi,0
+CF64CAC5,M9047291,Fatuma Korir,P801,"Morales, Brown and Cameron",N39.0,99232,Inpatient Visit,15962.91,5000,2025-03-12,Hospital,23,Nakuru,1
+8BB2F554,M9082229,Otieno Langat,P383,"Cook, Schroeder and Campbell",E11.9,93000,ECG,2436.55,2500,2025-10-14,Pharmacy,2,Thika,0
+639423E1,M3503456,Chebet Kimani,P288,Sexton LLC,N39.0,71046,Chest X-Ray,3759.27,3500,2025-07-05,Clinic,7,Mombasa,0
+C1080A93,M7907400,Odhiambo Wambua,P263,"Beasley, Walker and Yang",A09,99232,Inpatient Visit,4530.98,5000,2025-08-21,Hospital,6,Nakuru,0
+4D6C3B06,M2929715,Waweru Omondi,P782,"Clarke, Small and Davis",I10,47562,Laparoscopic Cholecystectomy,236058.07,120000,2025-11-23,Lab,32,Thika,1
+A08C72BB,M1078335,Kamau Chege,P304,"Cunningham, Thompson and Smith",E11.9,99232,Inpatient Visit,5706.66,5000,2026-02-25,Pharmacy,7,Eldoret,0
+F4359923,M1709057,Fatuma Simiyu,P735,"Little, Blankenship and Hooper",E11.9,99213,Consultation,1636.59,1500,2025-06-25,Specialist,9,Kisumu,0
+7C7ED6AD,M8152177,Wanjiku Njuguna,P193,"Scott, Escobar and Morgan",J06.9,93000,ECG,9939.99,2500,2025-08-22,Lab,24,Eldoret,1
+D6289736,M1690263,Baraka Korir,P736,Bryan Ltd,E11.9,27447,Knee Replacement,503469.32,180000,2025-07-29,Lab,29,Nakuru,1
+F8266876,M6918393,Chebet Langat,P162,"Wright, Villegas and White",J06.9,93000,ECG,6841.82,2500,2025-05-06,Hospital,39,Mombasa,1
+7B057E75,M4673288,Waweru Mutua,P447,Ramirez and Sons,N39.0,87081,Malaria RDT,1595.65,800,2025-10-30,Clinic,26,Mombasa,1
+EB5F80E0,M1652868,Muthoni Langat,P923,Ramsey-Parker,K35.9,99232,Inpatient Visit,5125.1,5000,2025-06-12,Lab,1,Mombasa,0
+C6E090CA,M3312992,Imani Wambua,P108,Lewis PLC,B50.9,93000,ECG,4941.52,2500,2025-10-11,Pharmacy,53,Nakuru,1
+C0CF9EB9,M8965487,Njoroge Rotich,P701,Collins-Gallagher,J18.9,87081,Malaria RDT,1819.51,800,2025-06-20,Lab,60,Kisumu,1
+2C4D3588,M6827024,Baraka Njuguna,P121,Wells Group,I10,85025,Full Blood Count,1226.35,1200,2025-09-02,Clinic,6,Kisumu,0
+74F48D53,M7099795,Waweru Simiyu,P828,Estes-Cox,I10,99213,Consultation,3391.09,1500,2025-10-29,Pharmacy,32,Nairobi,1
+1E5FA1AC,M7399761,Zawadi Ochieng,P732,Wright-Thomas,I10,99213,Consultation,4347.22,1500,2025-11-05,Specialist,33,Thika,1
+E07533D2,M2444846,Amani Kimani,P283,"Spencer, Hall and Smith",S00.9,99213,Consultation,1389.72,1500,2025-05-05,Lab,1,Eldoret,0
+A0736DBE,M4720771,Kipchoge Auma,P590,Foster-Carey,J06.9,93000,ECG,8125.99,2500,2025-06-16,Lab,29,Thika,1
+F22E2F98,M9782613,Nafula Mwangi,P638,Lewis-Smith,N39.0,85025,Full Blood Count,1279.31,1200,2025-06-18,Specialist,2,Eldoret,0
+C3DB4DEA,M6973179,Kipchoge Ochieng,P103,Brown-Brock,K35.9,99232,Inpatient Visit,12230.45,5000,2025-03-12,Lab,18,Thika,1
+71437548,M8342941,Kamau Auma,P473,"Campbell, Roach and Mccann",J18.9,99285,Emergency Visit,8818.09,8000,2025-07-20,Specialist,3,Kisumu,0
+F0088227,M1887084,Halima Njuguna,P868,Salinas-Banks,K35.9,87081,Malaria RDT,3110.34,800,2025-06-20,Hospital,49,Nairobi,1
+49C95AB9,M5812480,Odhiambo Kimani,P803,"Carr, Moody and Hernandez",A09,99232,Inpatient Visit,9342.21,5000,2025-06-26,Clinic,56,Nairobi,1
+2C2553A2,M2408784,Chebet Nekesa,P547,"Cowan, Nelson and Phelps",A09,47562,Laparoscopic Cholecystectomy,368867.87,120000,2025-07-03,Pharmacy,48,Mombasa,1
+6E0935AC,M6106390,Fatuma Ochieng,P199,"Rivas, Jimenez and Johnson",J18.9,85025,Full Blood Count,1093.6,1200,2025-06-02,Clinic,1,Nakuru,0
+8EC512D5,M5105957,Kamau Kimani,P549,Peterson PLC,J18.9,99213,Consultation,1517.42,1500,2025-06-01,Clinic,1,Nairobi,0
+7E147E62,M5057108,Halima Mwangi,P201,Neal PLC,S00.9,85025,Full Blood Count,1336.54,1200,2026-02-25,Specialist,10,Mombasa,0
+F6587FFA,M5953150,Wanjiku Kimani,P381,"Strickland, Bond and Villarreal",J06.9,99285,Emergency Visit,7917.92,8000,2025-05-19,Hospital,5,Eldoret,0
+66C717BF,M1635626,Otieno Mwangi,P155,Ruiz PLC,K29.7,85025,Full Blood Count,1087.13,1200,2025-10-27,Specialist,6,Nairobi,0
+6AEE91A1,M2609881,Njoroge Chege,P646,Williams Inc,J06.9,87081,Malaria RDT,784.06,800,2025-04-18,Hospital,2,Mombasa,0
+505BCCF5,M7398678,Otieno Kimani,P361,Schultz Group,K29.7,99213,Consultation,5039.25,1500,2025-11-02,Lab,50,Nairobi,1
+FCB7D2D9,M3903892,Otieno Wekesa,P217,"Butler, Travis and Allen",S00.9,71046,Chest X-Ray,3626.46,3500,2025-05-03,Lab,4,Kisumu,0
+DB303D9B,M8696599,Halima Simiyu,P130,Carroll-Summers,K35.9,99232,Inpatient Visit,12667.62,5000,2025-12-20,Hospital,41,Thika,1
+AB9282EB,M7954391,Njoroge Chege,P573,"Hamilton, Boyd and Howard",S00.9,99213,Consultation,1503.55,1500,2025-12-24,Clinic,5,Mombasa,0
+3E9B1DB7,M9748499,Chebet Nekesa,P758,"Edwards, Clark and Craig",J06.9,87081,Malaria RDT,909.08,800,2026-02-01,Lab,1,Nakuru,0
+F9D22558,M6551268,Imani Nekesa,P525,"Gonzalez, Yates and Williams",J06.9,87081,Malaria RDT,732.85,800,2025-11-19,Lab,7,Nakuru,0
+88DFB1F8,M1633297,Kipchoge Kariuki,P711,Lopez Inc,I10,47562,Laparoscopic Cholecystectomy,133053.59,120000,2025-12-16,Clinic,9,Mombasa,0
+B9469F01,M8597490,Muthoni Kariuki,P522,"Smith, Miller and Rojas",S00.9,99232,Inpatient Visit,5704.49,5000,2025-03-11,Specialist,5,Kisumu,0
+88614269,M5731119,Imani Wambua,P722,Charles-Allen,A09,76645,Ultrasound Breast,7902.72,2800,2026-02-08,Clinic,59,Kisumu,1
+24643019,M7826774,Fatuma Wekesa,P766,Duran-Jackson,J18.9,47562,Laparoscopic Cholecystectomy,137337.32,120000,2025-10-08,Pharmacy,3,Kisumu,0
+7D865DE0,M9717785,Kipchoge Auma,P692,Rogers Inc,E11.9,99213,Consultation,1676.92,1500,2025-04-03,Pharmacy,4,Nakuru,0
+BF7EE9BE,M3874940,Halima Auma,P999,Davis-Garrett,A09,27447,Knee Replacement,378067.47,180000,2026-01-03,Clinic,38,Mombasa,1
+3E915EA6,M3098653,Muthoni Kamau,P295,Wilson LLC,A09,99232,Inpatient Visit,17558.01,5000,2026-02-24,Clinic,20,Nairobi,1
+8F2E2B35,M7730428,Waweru Mwangi,P316,Duncan and Sons,S00.9,87081,Malaria RDT,884.36,800,2025-09-24,Clinic,6,Thika,0
+8F9F99ED,M4967662,Fatuma Korir,P870,Little PLC,N39.0,87081,Malaria RDT,1679.25,800,2025-08-19,Hospital,53,Kisumu,1
+45F9B812,M6933742,Imani Auma,P735,Mendoza Group,K29.7,87081,Malaria RDT,856.41,800,2025-11-03,Clinic,2,Mombasa,0
+8B601804,M6299951,Amani Simiyu,P209,Reyes Group,K29.7,47562,Laparoscopic Cholecystectomy,108215.82,120000,2025-07-29,Specialist,4,Kisumu,0
+4183539E,M7133266,Nafula Mutua,P763,"Evans, Harris and Ryan",N39.0,71046,Chest X-Ray,3557.18,3500,2025-03-09,Hospital,1,Eldoret,0
+630977C3,M8230636,Baraka Chege,P668,"Cruz, Rogers and Murphy",N39.0,76645,Ultrasound Breast,2612.75,2800,2025-08-08,Hospital,3,Nairobi,0
+1ADA1A5A,M3003921,Wanjiku Kariuki,P818,"Merritt, Green and Avila",J06.9,99285,Emergency Visit,7310.06,8000,2025-12-11,Lab,3,Kisumu,0
+97E7C70E,M4563416,Wanjiku Korir,P885,"Wolfe, Scott and Rogers",S00.9,85025,Full Blood Count,4049.81,1200,2025-12-02,Lab,32,Nairobi,1
+F6FF7E67,M9339189,Odhiambo Simiyu,P562,"Jackson, Wood and Parker",B50.9,99213,Consultation,1451.81,1500,2025-11-14,Specialist,2,Kisumu,0
+F6F38051,M1425547,Odhiambo Wekesa,P498,"Allen, Serrano and Hull",A09,87081,Malaria RDT,747.99,800,2025-06-01,Pharmacy,4,Nakuru,0
+8DE9710C,M4837070,Otieno Nekesa,P303,"Mills, Guerrero and Cunningham",B50.9,87081,Malaria RDT,1241.47,800,2025-03-10,Clinic,16,Nairobi,1
+8AD69863,M8091683,Halima Auma,P878,Mejia-George,K29.7,99232,Inpatient Visit,9597.08,5000,2025-07-01,Hospital,43,Nakuru,1
+29D494B1,M8098909,Zawadi Mwangi,P559,Carter-James,S00.9,93000,ECG,2401.26,2500,2025-07-02,Specialist,3,Nakuru,0
+9F9ED6FF,M4270310,Halima Langat,P793,Campbell-Alvarez,K29.7,27447,Knee Replacement,196791.8,180000,2025-09-25,Specialist,4,Nairobi,0
+062D3358,M9302838,Zawadi Ochieng,P346,Gordon PLC,K35.9,99213,Consultation,1643.93,1500,2025-04-12,Specialist,4,Nairobi,0
+35CADB5D,M7007679,Otieno Langat,P638,"Perez, Fletcher and Forbes",J18.9,93000,ECG,2556.59,2500,2025-11-30,Specialist,10,Nairobi,0
+498A979F,M4221313,Odhiambo Kariuki,P258,Montgomery-Hardy,A09,87081,Malaria RDT,788.35,800,2025-10-04,Hospital,8,Eldoret,0
+640261DE,M1087466,Baraka Langat,P341,"Stanley, Bell and Williams",S00.9,76645,Ultrasound Breast,7341.16,2800,2025-05-19,Specialist,51,Eldoret,1
+BFD76009,M8633480,Njoroge Kimani,P482,Beard-Wright,K29.7,85025,Full Blood Count,1144.85,1200,2025-07-13,Clinic,10,Thika,0
+C115912D,M8151117,Baraka Rotich,P268,White Group,J18.9,87081,Malaria RDT,1672.62,800,2025-10-30,Lab,20,Mombasa,1
+8DA3A7DF,M2517344,Halima Ochieng,P284,Olsen-Walsh,S00.9,27447,Knee Replacement,199345.21,180000,2025-03-13,Specialist,8,Mombasa,0
+ECE4650E,M1397508,Odhiambo Langat,P450,Davis-Brown,J18.9,99232,Inpatient Visit,15600.58,5000,2025-11-19,Specialist,33,Nairobi,1
+01254CDF,M8413185,Chebet Simiyu,P522,Phillips-Mueller,B50.9,47562,Laparoscopic Cholecystectomy,114813.85,120000,2025-12-15,Pharmacy,2,Nairobi,0
+1E11AB62,M7485471,Chebet Wambua,P841,"Moreno, Anderson and Simpson",S00.9,71046,Chest X-Ray,3207.67,3500,2025-12-18,Pharmacy,2,Nairobi,0
+0E8EDA18,M5746166,Zawadi Auma,P893,Burgess-Butler,E11.9,99285,Emergency Visit,7517.49,8000,2025-03-22,Specialist,6,Nairobi,0
+4C0EA616,M3024047,Halima Korir,P357,Peterson-Johnson,K35.9,76645,Ultrasound Breast,8196.81,2800,2026-01-17,Clinic,47,Eldoret,1
+FC898425,M5592340,Achieng Mutua,P493,"Thompson, Cuevas and Mitchell",K35.9,99285,Emergency Visit,31746.99,8000,2025-04-08,Lab,45,Kisumu,1
+F37B3FE8,M7391073,Chebet Kimani,P787,"Williams, Miller and Long",E11.9,99213,Consultation,2270.1,1500,2025-12-27,Specialist,47,Nairobi,1
+8C0AB121,M8470161,Baraka Rotich,P680,"Acevedo, Anderson and Perez",K29.7,99285,Emergency Visit,8531.71,8000,2025-09-29,Clinic,9,Kisumu,0
+7CB3676A,M3473761,Achieng Nekesa,P277,"Gonzales, Williams and Campbell",K29.7,99213,Consultation,1538.29,1500,2025-11-16,Clinic,9,Mombasa,0
+445781F3,M6703681,Achieng Korir,P363,Brown-Love,N39.0,47562,Laparoscopic Cholecystectomy,110171.58,120000,2025-05-14,Pharmacy,5,Thika,0
+1AF812AE,M4346346,Halima Omondi,P745,"Miller, Skinner and Smith",N39.0,93000,ECG,2489.38,2500,2026-02-23,Lab,7,Thika,0
+FBD098E9,M6794356,Zawadi Kariuki,P878,Long Group,E11.9,99285,Emergency Visit,7487.34,8000,2025-06-14,Specialist,6,Nairobi,0
+0A3E8590,M8159911,Kipchoge Wambua,P483,"Rice, Velazquez and Brown",K29.7,99232,Inpatient Visit,5412.02,5000,2025-03-18,Lab,6,Nairobi,0
+C1700569,M4360587,Kipchoge Njuguna,P791,"White, Garcia and Romero",E11.9,76645,Ultrasound Breast,4699.44,2800,2025-10-27,Pharmacy,17,Thika,1
+09C6B488,M7408965,Kipchoge Korir,P799,"Wallace, Wood and Moore",J06.9,99213,Consultation,1458.3,1500,2026-01-14,Specialist,8,Thika,0
+351F568A,M2287332,Otieno Korir,P493,Ramirez and Sons,K35.9,99213,Consultation,1488.28,1500,2025-05-11,Specialist,5,Thika,0
+489972D0,M7890722,Achieng Wekesa,P107,"Moran, Moore and Odonnell",K29.7,47562,Laparoscopic Cholecystectomy,334295.58,120000,2025-04-02,Pharmacy,24,Mombasa,1
+E9FEEC71,M6161977,Wanjiku Wekesa,P371,"Lawson, Baker and Hill",S00.9,76645,Ultrasound Breast,3205.93,2800,2025-05-13,Clinic,10,Thika,0
+9E09D6E5,M5573311,Kipchoge Wambua,P373,Warner-Cox,A09,71046,Chest X-Ray,3986.66,3500,2025-10-25,Specialist,7,Nakuru,0
+4FB02D8F,M7154919,Imani Otieno,P878,"Murray, Carlson and Perez",K35.9,99285,Emergency Visit,7428.41,8000,2025-05-29,Clinic,9,Nakuru,0
+AE3CF214,M1142182,Njoroge Nekesa,P459,Hamilton-Ross,J18.9,85025,Full Blood Count,1100.52,1200,2025-04-17,Clinic,10,Nakuru,0
+B2B410F1,M1780146,Achieng Nekesa,P568,"Hernandez, Dixon and Lewis",S00.9,71046,Chest X-Ray,3244.3,3500,2025-06-19,Clinic,7,Nakuru,0
+3C81F705,M4607488,Amani Nekesa,P333,Gardner LLC,I10,76645,Ultrasound Breast,3075.17,2800,2025-09-12,Lab,2,Nakuru,0
+F48F0B2A,M6664316,Kamau Kamau,P183,Marshall PLC,J06.9,85025,Full Blood Count,1277.62,1200,2025-04-10,Specialist,10,Kisumu,0
+7AE88CA8,M5680950,Imani Rotich,P330,Thomas Inc,B50.9,27447,Knee Replacement,170651.89,180000,2025-10-08,Clinic,4,Thika,0
+E98E4332,M4469093,Halima Simiyu,P497,Sutton-Henry,K35.9,93000,ECG,2480.9,2500,2025-07-15,Hospital,1,Nairobi,0
+990A300F,M4854842,Akinyi Wekesa,P377,Horton PLC,J06.9,76645,Ultrasound Breast,3146.35,2800,2026-01-25,Pharmacy,1,Eldoret,0
+CA20022F,M7768215,Otieno Simiyu,P326,Peters Inc,J18.9,47562,Laparoscopic Cholecystectomy,112781.11,120000,2025-03-30,Pharmacy,9,Kisumu,0
+1B62EDC0,M2065324,Imani Mutua,P515,"Collins, Ruiz and Glass",J06.9,99285,Emergency Visit,14504.73,8000,2025-08-15,Specialist,35,Eldoret,1
+A24F98C8,M7572195,Kamau Langat,P108,Salazar-Hill,A09,87081,Malaria RDT,1602.68,800,2025-04-16,Lab,51,Nakuru,1
+3C0FC8CB,M2624736,Akinyi Korir,P910,Klein PLC,J06.9,99213,Consultation,4744.96,1500,2025-08-24,Specialist,17,Eldoret,1
+E9AFEBA1,M1135590,Halima Kariuki,P158,West LLC,J18.9,99285,Emergency Visit,18858.01,8000,2025-06-18,Specialist,38,Nairobi,1
+64A16260,M4731991,Zawadi Korir,P429,Lewis-Harris,K29.7,87081,Malaria RDT,2802.9,800,2025-07-21,Hospital,59,Nairobi,1
+7EC5BC64,M7724045,Otieno Kariuki,P858,Daniels Group,J06.9,85025,Full Blood Count,1340.96,1200,2026-01-17,Specialist,10,Mombasa,0
+5A300FC8,M3950904,Njoroge Kamau,P596,"Small, Bell and Rodriguez",N39.0,27447,Knee Replacement,163949.29,180000,2026-01-04,Hospital,1,Mombasa,0
+C9C3A0A5,M6399642,Halima Kimani,P528,Taylor and Sons,S00.9,85025,Full Blood Count,1111.07,1200,2025-03-15,Clinic,10,Kisumu,0
+FCC1B2AB,M8417942,Nafula Kimani,P894,"Martin, Jones and Gordon",J18.9,99285,Emergency Visit,27766.83,8000,2025-10-01,Hospital,56,Nairobi,1
+C6B038BB,M8859576,Muthoni Rotich,P840,"Hicks, Rodriguez and Newman",I10,71046,Chest X-Ray,13315.19,3500,2025-08-03,Pharmacy,60,Nakuru,1
+18202F2D,M4466272,Akinyi Rotich,P844,Nelson Group,J18.9,27447,Knee Replacement,441933.08,180000,2025-08-02,Clinic,42,Nakuru,1
+6961E856,M9089445,Imani Omondi,P349,Potts Group,J18.9,85025,Full Blood Count,4489.23,1200,2025-12-07,Hospital,22,Nairobi,1
+E888E541,M2525747,Halima Nekesa,P928,White-Skinner,J06.9,87081,Malaria RDT,863.38,800,2025-07-15,Clinic,8,Eldoret,0
+0AF5BA12,M6635321,Muthoni Otieno,P808,Ward-Oneill,S00.9,71046,Chest X-Ray,4003.61,3500,2026-02-02,Pharmacy,4,Mombasa,0
+1979D7C1,M3065243,Muthoni Chege,P748,Brown-Bird,K35.9,27447,Knee Replacement,698176.75,180000,2026-01-17,Pharmacy,57,Mombasa,1
+4002561F,M3202624,Nafula Ochieng,P952,Richardson and Sons,E11.9,99232,Inpatient Visit,16698.62,5000,2025-06-15,Clinic,34,Nakuru,1
+9723D2A6,M6369404,Muthoni Auma,P431,Baker Inc,B50.9,99213,Consultation,3367.59,1500,2025-08-24,Hospital,21,Nairobi,1
+10E11DD1,M7124083,Muthoni Korir,P779,Allen Inc,S00.9,99232,Inpatient Visit,19748.12,5000,2025-05-06,Clinic,35,Nairobi,1
+69F9F422,M1275453,Kamau Langat,P157,"Weber, Wallace and Myers",E11.9,47562,Laparoscopic Cholecystectomy,136948.62,120000,2026-02-11,Lab,8,Nairobi,0
+F4270DF6,M8393014,Nafula Mutua,P321,"Sanders, Olson and Morgan",J06.9,99213,Consultation,4790.19,1500,2025-03-24,Specialist,24,Mombasa,1
+C7CE8800,M5350628,Achieng Auma,P647,Owens and Sons,J06.9,85025,Full Blood Count,2034.66,1200,2026-03-02,Lab,53,Nairobi,1
+A87FBA72,M1162274,Muthoni Mutua,P436,"Miranda, Chen and Brown",E11.9,76645,Ultrasound Breast,2586.5,2800,2025-07-23,Specialist,1,Kisumu,0
+0E64FBBF,M6556810,Nafula Simiyu,P860,Smith and Sons,S00.9,47562,Laparoscopic Cholecystectomy,411139.09,120000,2025-06-07,Specialist,23,Kisumu,1
+74038DB6,M4214793,Achieng Otieno,P684,Taylor-Moreno,I10,99213,Consultation,1425.78,1500,2025-04-02,Lab,8,Eldoret,0
+0ABB56B1,M9742856,Fatuma Simiyu,P587,Smith Group,A09,93000,ECG,2464.42,2500,2025-07-23,Lab,4,Kisumu,0
+8835A332,M7090115,Kamau Wambua,P604,"Long, Schultz and Williams",S00.9,87081,Malaria RDT,1668.52,800,2025-11-17,Hospital,46,Mombasa,1
+0039C9EC,M1110690,Halima Kariuki,P550,Williams-Martinez,K29.7,27447,Knee Replacement,197669.59,180000,2025-11-07,Hospital,10,Eldoret,0
+7EBBC198,M1940167,Waweru Kimani,P173,"Zuniga, Harrington and Davis",N39.0,99213,Consultation,1473.84,1500,2025-07-07,Clinic,3,Mombasa,0
+29BBE2B8,M8031780,Muthoni Auma,P770,Flores-Morris,A09,27447,Knee Replacement,178695.52,180000,2025-06-27,Specialist,9,Nakuru,0
+99005E1D,M3073922,Baraka Ochieng,P632,Smith-Mcgee,K29.7,76645,Ultrasound Breast,3052.99,2800,2025-06-24,Pharmacy,6,Thika,0
+C3DAEA5E,M1663497,Otieno Njuguna,P923,"Jennings, Barker and Johns",S00.9,87081,Malaria RDT,730.31,800,2025-03-26,Specialist,7,Mombasa,0
+8B441A3A,M9279347,Amani Chege,P224,Schaefer PLC,E11.9,76645,Ultrasound Breast,9086.31,2800,2026-01-24,Hospital,28,Eldoret,1
+2E16741A,M4920186,Zawadi Kimani,P585,Butler Group,B50.9,93000,ECG,2547.67,2500,2025-12-20,Specialist,9,Nakuru,0
+0FC96374,M6087374,Fatuma Korir,P443,Wheeler-Lee,A09,99285,Emergency Visit,7372.16,8000,2025-05-06,Lab,4,Nairobi,0
+60A8FD11,M3658100,Fatuma Mwangi,P232,Ortiz-Pierce,S00.9,87081,Malaria RDT,872.24,800,2025-07-25,Lab,3,Nakuru,0
+3335368E,M3485367,Waweru Kariuki,P376,"Vincent, Moore and Henry",J06.9,87081,Malaria RDT,1783.69,800,2025-04-10,Clinic,55,Mombasa,1
+8F213E9A,M2697690,Wanjiku Kariuki,P488,Castro-Henderson,A09,99213,Consultation,2910.29,1500,2025-09-12,Clinic,31,Kisumu,1
+4AB14C1D,M6086650,Wanjiku Njuguna,P294,Kirby PLC,A09,27447,Knee Replacement,171400.01,180000,2025-07-02,Clinic,6,Thika,0
+F728C8A2,M9732032,Imani Rotich,P318,Smith-Christensen,A09,47562,Laparoscopic Cholecystectomy,280347.88,120000,2025-06-16,Specialist,23,Kisumu,1
+AAF0C316,M1294357,Waweru Mutua,P695,Bennett Group,J06.9,76645,Ultrasound Breast,2781.24,2800,2025-12-20,Pharmacy,10,Nakuru,0
+B4DEC845,M8581910,Chebet Nekesa,P371,"Cooper, Smith and Baker",A09,76645,Ultrasound Breast,2895.15,2800,2026-01-17,Clinic,4,Thika,0
+093F7E53,M8780612,Muthoni Kimani,P289,"Davies, Freeman and Diaz",E11.9,99285,Emergency Visit,7248.83,8000,2025-04-18,Lab,8,Thika,0
+45E8A029,M4407238,Baraka Omondi,P748,Pham Group,E11.9,99213,Consultation,1354.86,1500,2025-05-07,Specialist,5,Thika,0
+21110FB3,M3708302,Wanjiku Ochieng,P889,Ross LLC,A09,87081,Malaria RDT,2404.3,800,2025-04-09,Lab,57,Nakuru,1
+5F878418,M4454568,Kipchoge Wekesa,P614,"Thompson, Woods and Clay",E11.9,27447,Knee Replacement,315025.51,180000,2025-12-09,Specialist,58,Kisumu,1
+C7179119,M7659586,Achieng Kamau,P347,Newton Ltd,E11.9,71046,Chest X-Ray,3870.57,3500,2025-06-27,Specialist,9,Nakuru,0
+8B16DCE3,M8385715,Kipchoge Auma,P935,Wolf-Martin,S00.9,99285,Emergency Visit,7959.78,8000,2025-12-25,Pharmacy,6,Kisumu,0
+83FBB3DC,M8837188,Amani Ochieng,P606,"Molina, Rose and Martin",J06.9,27447,Knee Replacement,387100.78,180000,2025-07-21,Pharmacy,60,Thika,1
+11BF49E3,M8653507,Njoroge Mwangi,P937,"Winters, Harris and Brown",A09,99213,Consultation,1689.25,1500,2026-01-05,Lab,2,Eldoret,0
+532A2544,M8986164,Muthoni Njuguna,P246,"Harper, Shaw and Colon",B50.9,99285,Emergency Visit,8973.83,8000,2025-06-10,Lab,7,Nakuru,0
+23A50C2A,M3824903,Kipchoge Rotich,P396,Nguyen Ltd,S00.9,99285,Emergency Visit,7901.63,8000,2025-10-19,Specialist,5,Thika,0
+8036FE28,M1767026,Chebet Rotich,P566,Mcconnell-Mosley,N39.0,99285,Emergency Visit,7812.23,8000,2025-05-03,Specialist,2,Kisumu,0
+26DB566A,M2511336,Halima Mwangi,P840,"Brown, Mann and Allen",A09,99285,Emergency Visit,8538.04,8000,2025-10-24,Clinic,3,Nakuru,0
+51C0C20A,M8115687,Imani Kimani,P943,"Glenn, Jackson and Stuart",J18.9,99213,Consultation,1716.93,1500,2025-10-29,Lab,8,Kisumu,0
+9AA475EA,M9783147,Odhiambo Mutua,P176,"Webb, Johnson and Morrison",E11.9,99285,Emergency Visit,20973.04,8000,2025-12-26,Specialist,25,Kisumu,1
+935E440B,M6340253,Kipchoge Wambua,P870,Scott-Cisneros,K35.9,99232,Inpatient Visit,10135.63,5000,2025-10-16,Clinic,47,Thika,1
+CAF9957A,M1198306,Akinyi Kimani,P694,Acevedo Inc,A09,47562,Laparoscopic Cholecystectomy,121802.12,120000,2025-09-19,Pharmacy,1,Eldoret,0
+B1251149,M9984440,Fatuma Omondi,P587,Ramirez Inc,B50.9,99232,Inpatient Visit,5523.01,5000,2026-01-23,Lab,7,Thika,0
+1A6EBD58,M3690116,Otieno Korir,P258,Christian PLC,K35.9,71046,Chest X-Ray,3790.85,3500,2025-10-04,Pharmacy,5,Eldoret,0
+81CB0A92,M7300387,Odhiambo Mwangi,P582,Roberts-Allen,S00.9,87081,Malaria RDT,867.55,800,2025-06-29,Hospital,4,Nakuru,0
+652D38F8,M7613533,Akinyi Mwangi,P246,Moran-Barker,A09,93000,ECG,4768.24,2500,2025-07-29,Clinic,26,Nakuru,1
+71A185B3,M8278315,Muthoni Kimani,P350,Barker PLC,J06.9,47562,Laparoscopic Cholecystectomy,375029.34,120000,2026-01-03,Clinic,52,Nakuru,1
+F09CB931,M4938956,Fatuma Wekesa,P788,"Davis, Parker and Johnson",A09,76645,Ultrasound Breast,6595.06,2800,2026-02-28,Hospital,52,Kisumu,1
+49D59B61,M9021848,Amani Kimani,P964,Jones-Simmons,A09,47562,Laparoscopic Cholecystectomy,129228.17,120000,2025-06-01,Clinic,8,Nairobi,0
+7147A30B,M1199493,Fatuma Korir,P879,Smith-Fletcher,K29.7,99232,Inpatient Visit,17773.27,5000,2025-08-13,Clinic,56,Mombasa,1
+48F5981F,M1754700,Fatuma Kamau,P448,Ramirez-Mccarty,I10,99285,Emergency Visit,18408.62,8000,2025-12-02,Lab,52,Nairobi,1
+246B7B5B,M1085187,Amani Otieno,P141,Trujillo Inc,K35.9,99285,Emergency Visit,9092.5,8000,2025-06-19,Hospital,10,Nakuru,0
+04FAB161,M8896486,Otieno Mutua,P620,Fleming-Cunningham,I10,27447,Knee Replacement,364156.91,180000,2025-04-08,Specialist,20,Kisumu,1
+5E589CDB,M4990936,Akinyi Wekesa,P564,Garcia-Cox,I10,99213,Consultation,1577.99,1500,2025-07-21,Hospital,8,Eldoret,0
+1B2EB52C,M7745583,Nafula Kamau,P203,Miller-Jimenez,I10,76645,Ultrasound Breast,4236.08,2800,2025-06-26,Clinic,26,Nairobi,1
+F6133836,M6877363,Imani Langat,P377,"Cunningham, Ford and Lopez",K29.7,47562,Laparoscopic Cholecystectomy,123421.82,120000,2025-03-09,Pharmacy,4,Eldoret,0
+0F81E55E,M7232188,Chebet Simiyu,P410,Lawson PLC,B50.9,99213,Consultation,4210.42,1500,2025-06-29,Hospital,22,Mombasa,1
+7B51E175,M7906258,Fatuma Rotich,P778,"Morrison, Ellis and Hensley",I10,76645,Ultrasound Breast,3120.41,2800,2025-05-27,Hospital,6,Nakuru,0
+6C4ABE74,M9988193,Chebet Kamau,P614,Gray Ltd,I10,99213,Consultation,1548.53,1500,2025-12-03,Hospital,5,Nairobi,0
+3F55FAA3,M1498677,Achieng Otieno,P950,"Mckinney, David and Lee",A09,27447,Knee Replacement,184377.32,180000,2025-06-22,Hospital,3,Mombasa,0
+65F2E058,M9854536,Amani Ochieng,P894,Peterson Ltd,B50.9,87081,Malaria RDT,886.99,800,2025-11-03,Pharmacy,9,Nairobi,0
+9B7CABCE,M5861752,Zawadi Kariuki,P235,Ramirez-Hancock,E11.9,47562,Laparoscopic Cholecystectomy,110702.49,120000,2026-01-21,Lab,7,Eldoret,0
+5BC4DEEB,M3484601,Amani Kariuki,P142,Ortiz Group,B50.9,99213,Consultation,1662.97,1500,2025-08-30,Hospital,10,Kisumu,0
+91A1B1C0,M9787997,Muthoni Auma,P888,"Campbell, Baker and Camacho",K29.7,87081,Malaria RDT,892.52,800,2025-04-03,Specialist,5,Mombasa,0
+4D1A910A,M8149041,Njoroge Nekesa,P459,Navarro Inc,K35.9,93000,ECG,2441.56,2500,2026-02-11,Pharmacy,10,Eldoret,0
+04A7B673,M8888040,Imani Chege,P399,Underwood-Woodard,K35.9,27447,Knee Replacement,184565.25,180000,2025-04-21,Pharmacy,2,Thika,0
+A70A8185,M8520742,Akinyi Wambua,P983,"Rodgers, Moore and Holt",K35.9,99285,Emergency Visit,16979.39,8000,2026-01-23,Pharmacy,33,Nakuru,1
+7456F5BF,M1505062,Nafula Kariuki,P691,Jones Group,K29.7,99232,Inpatient Visit,10119.81,5000,2025-09-29,Hospital,43,Nakuru,1
+FEF03EAE,M6399296,Nafula Korir,P811,Williams-Bishop,K35.9,27447,Knee Replacement,503501.56,180000,2025-06-24,Lab,26,Kisumu,1
+D13C997F,M7352396,Achieng Ochieng,P279,Jones and Sons,N39.0,99232,Inpatient Visit,19743.57,5000,2025-09-29,Specialist,29,Nakuru,1
+006A9AEF,M5364723,Muthoni Mwangi,P476,Terry-Wong,K29.7,99232,Inpatient Visit,15225.05,5000,2025-05-18,Hospital,53,Nairobi,1
+C05C031B,M2672884,Halima Nekesa,P115,"Armstrong, Anderson and Warren",K29.7,76645,Ultrasound Breast,3131.93,2800,2025-08-07,Clinic,8,Nairobi,0
+392D594B,M9350710,Fatuma Mutua,P724,Turner-Wells,J18.9,99285,Emergency Visit,8325.27,8000,2025-03-07,Pharmacy,9,Mombasa,0
+F6620B27,M2140312,Muthoni Kamau,P323,"Wells, Thomas and Stafford",N39.0,99232,Inpatient Visit,4671.86,5000,2025-07-14,Pharmacy,4,Nairobi,0
+E63EC395,M5425123,Halima Langat,P546,Parks Group,K29.7,93000,ECG,9392.45,2500,2025-09-24,Lab,31,Mombasa,1
+ABF8418F,M2943405,Wanjiku Rotich,P145,Odonnell Inc,S00.9,99213,Consultation,1522.26,1500,2026-01-19,Pharmacy,9,Nakuru,0
+CB660E9B,M4034134,Nafula Kimani,P534,Lynch-Le,J18.9,27447,Knee Replacement,192308.66,180000,2025-06-14,Clinic,2,Nakuru,0
+728A27E6,M2456980,Waweru Kimani,P461,Ramos LLC,I10,87081,Malaria RDT,851.0,800,2025-08-09,Specialist,3,Mombasa,0
+D591CE56,M3682671,Zawadi Chege,P489,"Barton, Miller and Smith",J06.9,47562,Laparoscopic Cholecystectomy,129218.37,120000,2025-12-07,Pharmacy,9,Eldoret,0
+8EBFC5CD,M1874208,Muthoni Njuguna,P228,Phillips Group,A09,27447,Knee Replacement,301493.21,180000,2025-12-06,Specialist,27,Eldoret,1
+87A18541,M1880654,Achieng Auma,P438,"Gutierrez, Cervantes and Dean",K35.9,47562,Laparoscopic Cholecystectomy,114770.15,120000,2026-01-12,Clinic,4,Nairobi,0
+A05D533E,M3494007,Imani Otieno,P111,"Kelly, Small and Jackson",K29.7,87081,Malaria RDT,816.39,800,2025-06-19,Lab,7,Nakuru,0
+ECE63436,M7196363,Achieng Auma,P212,Wells PLC,A09,27447,Knee Replacement,284673.33,180000,2025-08-27,Specialist,25,Kisumu,1
+5A8C820E,M8937865,Nafula Nekesa,P216,Johnson-Hernandez,A09,87081,Malaria RDT,888.86,800,2025-04-01,Clinic,6,Nairobi,0
+A7C05E01,M5878387,Kamau Wekesa,P509,"Watts, Sanford and Hansen",K35.9,27447,Knee Replacement,601685.24,180000,2025-06-15,Specialist,53,Thika,1
+25441C6C,M1614121,Akinyi Omondi,P307,Mora-Robinson,K35.9,99285,Emergency Visit,20018.92,8000,2025-11-04,Lab,52,Mombasa,1
+A0A9D4DD,M9816538,Baraka Korir,P820,"Francis, Bates and Rodgers",E11.9,99285,Emergency Visit,8946.27,8000,2026-01-24,Specialist,2,Nairobi,0
+DC2014A4,M3094235,Zawadi Mwangi,P665,Gregory-Fisher,B50.9,99213,Consultation,1623.65,1500,2025-04-17,Specialist,9,Kisumu,0
+D971279F,M7998405,Fatuma Ochieng,P606,Carlson PLC,S00.9,76645,Ultrasound Breast,6074.94,2800,2025-04-08,Pharmacy,56,Nakuru,1
+B7F64464,M8016631,Njoroge Langat,P325,"Patterson, Brown and Jensen",B50.9,76645,Ultrasound Breast,3116.16,2800,2025-04-29,Clinic,8,Thika,0
+8320E6A8,M3893851,Zawadi Mwangi,P896,Berger PLC,K35.9,27447,Knee Replacement,406210.32,180000,2025-04-06,Lab,53,Kisumu,1
+2A1E3C8C,M1397627,Otieno Otieno,P708,"Martin, Brown and Ward",J18.9,93000,ECG,2407.44,2500,2025-05-02,Hospital,1,Thika,0
+6C21B25B,M6584506,Odhiambo Wekesa,P462,"Hunter, Adams and Miller",S00.9,76645,Ultrasound Breast,8099.0,2800,2025-03-26,Specialist,18,Thika,1
+2D8115FD,M9219877,Kipchoge Nekesa,P352,Meyers-Gibson,I10,76645,Ultrasound Breast,2643.95,2800,2025-08-09,Hospital,8,Eldoret,0
+845A2EAC,M8422287,Zawadi Kamau,P502,Underwood-Ortiz,B50.9,76645,Ultrasound Breast,7944.37,2800,2025-10-01,Hospital,30,Mombasa,1
+C64F9957,M3889156,Chebet Kamau,P862,Ayala Inc,A09,47562,Laparoscopic Cholecystectomy,130907.69,120000,2025-11-11,Clinic,6,Thika,0
+BAEA1BEA,M8443690,Njoroge Rotich,P129,"Jones, Higgins and Smith",J06.9,76645,Ultrasound Breast,3052.26,2800,2025-09-19,Hospital,2,Kisumu,0
+7264F14A,M2527147,Achieng Ochieng,P654,"Zuniga, Finley and Simpson",K29.7,47562,Laparoscopic Cholecystectomy,275214.73,120000,2025-10-09,Clinic,31,Mombasa,1
+B803E9A2,M8086125,Achieng Mutua,P815,"Rogers, James and Simpson",B50.9,27447,Knee Replacement,601623.88,180000,2025-06-18,Hospital,36,Kisumu,1
+894E0F7A,M9785019,Chebet Langat,P246,"Hayes, Hines and White",A09,87081,Malaria RDT,788.02,800,2025-06-13,Clinic,8,Mombasa,0
+50FCB585,M9957402,Chebet Auma,P927,Walter-Jones,J06.9,99285,Emergency Visit,8341.28,8000,2025-06-10,Hospital,7,Nairobi,0
+79FCFC87,M2007511,Kamau Simiyu,P760,Alvarado-Brennan,K29.7,76645,Ultrasound Breast,3000.16,2800,2025-03-10,Specialist,6,Nairobi,0
+468812E3,M2221854,Baraka Auma,P744,Osborne-Day,S00.9,99213,Consultation,1367.33,1500,2025-11-25,Lab,8,Nakuru,0
+0350D0F7,M5569244,Chebet Njuguna,P834,"Perez, Espinoza and Lara",E11.9,76645,Ultrasound Breast,3039.69,2800,2025-11-20,Pharmacy,3,Eldoret,0
+6E27E48C,M7050592,Odhiambo Kariuki,P871,Goodman PLC,N39.0,93000,ECG,6077.73,2500,2025-08-01,Clinic,41,Mombasa,1
+6172A53D,M4444636,Zawadi Mutua,P945,"Espinoza, Garcia and Carter",J06.9,71046,Chest X-Ray,12313.62,3500,2025-08-31,Hospital,39,Nairobi,1
+DE7EE15A,M3316639,Halima Njuguna,P674,Perez and Sons,E11.9,27447,Knee Replacement,201276.8,180000,2025-03-30,Lab,1,Eldoret,0
+FDB46052,M1129686,Fatuma Auma,P279,Willis-Russell,K29.7,93000,ECG,2430.9,2500,2025-08-22,Specialist,2,Thika,0
+7DBE6D2E,M7774229,Achieng Omondi,P692,"Cruz, Reynolds and Melton",S00.9,76645,Ultrasound Breast,2936.52,2800,2026-02-12,Specialist,4,Nairobi,0
+3191C97F,M2107569,Waweru Simiyu,P144,"Pearson, Mcdonald and Daniel",A09,99232,Inpatient Visit,10159.6,5000,2025-11-13,Lab,29,Kisumu,1
+786BD020,M8768273,Kamau Chege,P522,"Rice, Pearson and Garrett",I10,93000,ECG,2785.96,2500,2025-05-23,Specialist,3,Mombasa,0
+FFE980E6,M6769431,Chebet Wekesa,P647,"Olson, Reyes and Wright",J06.9,99213,Consultation,1546.24,1500,2025-03-17,Lab,3,Nakuru,0
+2DB6FDC1,M6094433,Odhiambo Njuguna,P670,"Sanchez, Johnson and Stevens",J06.9,76645,Ultrasound Breast,9754.38,2800,2026-02-23,Pharmacy,46,Kisumu,1
+5929CF5F,M4543184,Wanjiku Korir,P273,Cook PLC,A09,87081,Malaria RDT,764.86,800,2025-08-29,Hospital,3,Nakuru,0
+0A6A257D,M8403549,Baraka Kamau,P538,"Brown, Davis and Hunter",J18.9,27447,Knee Replacement,162732.66,180000,2025-03-17,Clinic,3,Thika,0
+47CF7C8F,M7290752,Halima Korir,P556,Wilson-Stewart,K35.9,93000,ECG,2265.44,2500,2026-02-10,Pharmacy,9,Thika,0
+9453528D,M8927925,Achieng Rotich,P527,Gibbs Group,K29.7,99213,Consultation,1407.76,1500,2025-06-26,Clinic,5,Nairobi,0
+100ED058,M6675742,Halima Korir,P804,Harrell and Sons,S00.9,99285,Emergency Visit,8647.55,8000,2026-01-15,Lab,4,Thika,0
+7F564228,M7614724,Kipchoge Kimani,P515,Nichols Ltd,I10,87081,Malaria RDT,806.34,800,2025-07-25,Specialist,10,Mombasa,0
+70064421,M9743263,Akinyi Wekesa,P498,Lucas-Stewart,B50.9,27447,Knee Replacement,195089.53,180000,2025-09-20,Clinic,2,Thika,0
+79BC3CFA,M6696087,Odhiambo Langat,P897,"Long, Miles and Cruz",K29.7,76645,Ultrasound Breast,2797.04,2800,2026-01-24,Specialist,5,Thika,0
+46244469,M2275009,Odhiambo Ochieng,P813,"Brown, Lewis and Becker",B50.9,99232,Inpatient Visit,4995.82,5000,2025-03-19,Specialist,4,Nairobi,0
+A13F18D0,M1546310,Halima Simiyu,P503,Kelly-Thompson,K29.7,99232,Inpatient Visit,5097.9,5000,2025-07-13,Hospital,9,Thika,0
+B48147EB,M2522188,Wanjiku Wekesa,P785,Zimmerman-Kelly,B50.9,85025,Full Blood Count,1187.52,1200,2025-12-12,Lab,4,Eldoret,0
+4200A05F,M1485753,Njoroge Wambua,P819,"Tucker, Brewer and Fitzgerald",B50.9,99285,Emergency Visit,9058.17,8000,2025-09-12,Pharmacy,5,Nairobi,0
+C3E2692C,M8316976,Otieno Wekesa,P529,Lin Group,N39.0,27447,Knee Replacement,553439.09,180000,2025-06-20,Hospital,22,Mombasa,1
+6F86CBD2,M4647992,Otieno Langat,P911,Watson-Vargas,K35.9,93000,ECG,2307.44,2500,2025-12-06,Lab,7,Thika,0
+E8A9DF4C,M4741740,Odhiambo Nekesa,P738,"Chan, Williamson and Fox",J18.9,27447,Knee Replacement,368732.65,180000,2025-11-02,Lab,15,Thika,1
+B291A48D,M3137987,Kipchoge Kimani,P613,Smith-Edwards,I10,99232,Inpatient Visit,13613.35,5000,2025-12-27,Hospital,46,Nairobi,1
+9540C767,M8273315,Nafula Nekesa,P824,Hines-Moore,K29.7,99232,Inpatient Visit,5527.91,5000,2025-07-25,Clinic,2,Thika,0
+47A7FDFA,M5585262,Waweru Kimani,P459,Donovan-David,J18.9,85025,Full Blood Count,1801.63,1200,2025-05-09,Specialist,45,Kisumu,1
+8BCED976,M9897858,Wanjiku Langat,P600,"Mccall, Garcia and Johnson",J06.9,87081,Malaria RDT,750.57,800,2026-01-06,Pharmacy,3,Kisumu,0
+BC41293D,M4725179,Baraka Simiyu,P127,Nolan-Allen,I10,85025,Full Blood Count,1329.31,1200,2026-02-05,Lab,2,Eldoret,0
+3773D423,M1641849,Achieng Auma,P453,"Hampton, Gonzales and Miller",E11.9,93000,ECG,2361.6,2500,2025-07-24,Specialist,5,Eldoret,0
+32024814,M5776085,Imani Wambua,P522,"Wheeler, Gray and Johnson",J18.9,99285,Emergency Visit,8815.15,8000,2026-01-28,Clinic,5,Mombasa,0
+220DECBF,M1815153,Kamau Ochieng,P769,"Browning, Hernandez and Richardson",J06.9,93000,ECG,2732.03,2500,2026-02-08,Hospital,10,Nakuru,0
+BB608064,M5487430,Baraka Omondi,P244,Davis-Burns,A09,71046,Chest X-Ray,3361.52,3500,2026-02-07,Pharmacy,2,Nakuru,0
+E461B963,M5056398,Amani Chege,P295,Hoffman-Lee,A09,87081,Malaria RDT,2162.23,800,2025-10-01,Lab,24,Mombasa,1
+3779A24E,M7268384,Amani Chege,P582,Campbell-Marshall,N39.0,85025,Full Blood Count,1216.49,1200,2025-03-29,Clinic,10,Mombasa,0
+F249E3FF,M8990200,Akinyi Nekesa,P179,Duffy-Green,E11.9,99213,Consultation,3843.33,1500,2025-03-23,Specialist,23,Nakuru,1
+2BA04F9C,M2351868,Muthoni Kariuki,P336,Wolf-Phillips,I10,93000,ECG,2459.9,2500,2025-03-14,Clinic,9,Thika,0
+9787B766,M6413664,Imani Njuguna,P739,Price Ltd,J18.9,47562,Laparoscopic Cholecystectomy,212305.15,120000,2025-05-31,Lab,35,Nakuru,1
+03520EBD,M1021494,Kamau Kimani,P548,Wallace Group,I10,76645,Ultrasound Breast,2765.34,2800,2025-12-09,Lab,2,Nakuru,0
+58CA0F9C,M1484433,Otieno Nekesa,P950,"West, Gonzalez and Davila",K35.9,76645,Ultrasound Breast,10058.84,2800,2025-07-15,Pharmacy,24,Eldoret,1
+5E3AE143,M2066723,Amani Simiyu,P787,Cuevas-Schultz,A09,76645,Ultrasound Breast,6397.33,2800,2025-08-13,Clinic,34,Mombasa,1
+76756CF4,M1917249,Odhiambo Wambua,P665,"Hernandez, Clark and Donaldson",I10,99285,Emergency Visit,12696.19,8000,2025-09-27,Pharmacy,57,Thika,1
+77FB761C,M5157165,Waweru Mwangi,P354,Liu Group,N39.0,99232,Inpatient Visit,4893.13,5000,2025-05-01,Specialist,3,Thika,0
+6D1383F6,M8221021,Achieng Kimani,P560,"Henderson, Foster and Liu",E11.9,99213,Consultation,5822.18,1500,2025-08-24,Lab,17,Nakuru,1
+797186D5,M5955645,Odhiambo Mwangi,P184,Solis Ltd,B50.9,99285,Emergency Visit,8521.34,8000,2025-12-16,Lab,2,Thika,0
+1B24E6B8,M8362611,Kipchoge Auma,P908,Jones and Sons,J06.9,93000,ECG,5064.92,2500,2025-10-15,Hospital,25,Nakuru,1
+E8F9C9C3,M2512732,Imani Rotich,P843,Page LLC,N39.0,47562,Laparoscopic Cholecystectomy,108461.0,120000,2025-05-10,Pharmacy,2,Kisumu,0
+997CA060,M4854922,Baraka Mutua,P202,"Mills, Young and Watts",J18.9,85025,Full Blood Count,1336.5,1200,2025-06-17,Lab,2,Kisumu,0
+55182C5B,M7192680,Waweru Mwangi,P907,"Burke, James and Preston",J06.9,76645,Ultrasound Breast,6097.65,2800,2025-12-18,Clinic,46,Kisumu,1
+962A7010,M6510598,Wanjiku Kariuki,P761,"Rose, Middleton and Hopkins",J06.9,71046,Chest X-Ray,8239.26,3500,2025-04-27,Lab,44,Nairobi,1
+74FB6BC6,M2174060,Baraka Otieno,P477,Russell-Davis,N39.0,87081,Malaria RDT,1782.21,800,2026-02-27,Clinic,48,Kisumu,1
+55C02A10,M8153291,Baraka Omondi,P916,"Rosales, Zavala and Anderson",I10,47562,Laparoscopic Cholecystectomy,112804.07,120000,2025-04-16,Clinic,9,Mombasa,0
+93BEDF2E,M8711874,Imani Langat,P659,Clark-Ward,E11.9,99232,Inpatient Visit,4892.19,5000,2025-03-23,Pharmacy,3,Eldoret,0
+C833039D,M5886733,Amani Kamau,P729,"Hamilton, Richards and Welch",E11.9,47562,Laparoscopic Cholecystectomy,125251.42,120000,2025-11-01,Specialist,3,Nakuru,0
+A0BC3791,M4403286,Wanjiku Wambua,P112,"Meadows, Henderson and Huffman",K35.9,85025,Full Blood Count,1115.27,1200,2025-06-23,Lab,3,Eldoret,0
+46ED9EE9,M1051603,Zawadi Njuguna,P743,Hood Group,B50.9,27447,Knee Replacement,625958.69,180000,2025-09-25,Specialist,23,Nairobi,1
+F50714F5,M8261353,Fatuma Korir,P899,Stokes-Ford,K29.7,99213,Consultation,1548.89,1500,2025-03-15,Specialist,1,Mombasa,0
+53DB3EA6,M6084244,Njoroge Wekesa,P541,Torres-Curtis,K29.7,99213,Consultation,2373.22,1500,2025-09-26,Lab,50,Nakuru,1
+ECD7E084,M3962978,Amani Wekesa,P237,Carter-Zuniga,N39.0,85025,Full Blood Count,1221.9,1200,2025-06-04,Pharmacy,1,Nakuru,0
+A355D55A,M3151617,Otieno Kariuki,P365,Baker LLC,S00.9,99285,Emergency Visit,23302.8,8000,2025-11-08,Specialist,19,Thika,1
+83681496,M2446060,Fatuma Kariuki,P277,Hawkins and Sons,J18.9,85025,Full Blood Count,3665.53,1200,2025-12-14,Specialist,33,Nakuru,1
+4D63BDAE,M6183033,Baraka Otieno,P693,Weeks-Howard,E11.9,85025,Full Blood Count,1268.47,1200,2025-12-27,Hospital,1,Kisumu,0
+5EFA81F2,M5724912,Waweru Mwangi,P415,Smith-Martin,B50.9,87081,Malaria RDT,722.26,800,2025-06-18,Specialist,4,Kisumu,0
+00B93B20,M4041047,Zawadi Simiyu,P726,Conley Inc,J06.9,27447,Knee Replacement,198101.92,180000,2025-03-19,Clinic,8,Nakuru,0
+95F90551,M2571945,Akinyi Omondi,P617,Moses Group,S00.9,99285,Emergency Visit,8043.84,8000,2026-02-19,Specialist,1,Mombasa,0
+4437F416,M9566284,Akinyi Ochieng,P778,"Rogers, Newton and Lloyd",J06.9,71046,Chest X-Ray,9823.33,3500,2025-11-03,Hospital,37,Mombasa,1
+8AB642A5,M6829443,Nafula Langat,P185,Heath PLC,N39.0,47562,Laparoscopic Cholecystectomy,214855.45,120000,2025-10-20,Clinic,56,Nakuru,1
+9275CD16,M4507293,Kamau Ochieng,P685,Wong Inc,N39.0,47562,Laparoscopic Cholecystectomy,120412.74,120000,2026-01-19,Lab,4,Thika,0
+BD52B44A,M5456573,Muthoni Mwangi,P161,Cabrera-Doyle,K29.7,76645,Ultrasound Breast,2901.19,2800,2025-09-28,Specialist,3,Thika,0
+AEF2FEB6,M5557052,Muthoni Ochieng,P730,Day-Davis,S00.9,47562,Laparoscopic Cholecystectomy,116133.98,120000,2025-11-02,Clinic,9,Nairobi,0
+445302AB,M8175395,Imani Kamau,P214,Cook-Sanchez,A09,93000,ECG,2350.99,2500,2025-03-16,Clinic,8,Eldoret,0
+0A9A496C,M1845941,Baraka Nekesa,P961,Moon-Taylor,A09,47562,Laparoscopic Cholecystectomy,361286.85,120000,2026-01-09,Specialist,21,Eldoret,1
+F7938874,M2853280,Achieng Korir,P774,Medina Group,A09,93000,ECG,2451.63,2500,2026-02-10,Clinic,6,Mombasa,0
+5B109116,M4552356,Amani Korir,P245,Miller-Taylor,K29.7,76645,Ultrasound Breast,2733.28,2800,2025-11-30,Clinic,6,Eldoret,0
+13D191B3,M9116148,Waweru Rotich,P691,Collins-Jenkins,E11.9,27447,Knee Replacement,170042.38,180000,2025-03-08,Lab,9,Thika,0
+294AACD0,M5352450,Amani Kimani,P497,"Bell, Smith and Conner",J06.9,99213,Consultation,1595.78,1500,2025-05-10,Specialist,5,Mombasa,0
+CE6F7811,M3290229,Otieno Wambua,P891,Hill-Riley,I10,87081,Malaria RDT,904.37,800,2025-09-11,Specialist,9,Kisumu,0
+63F74947,M2244876,Kipchoge Mutua,P484,Brown LLC,K29.7,99213,Consultation,1469.52,1500,2026-01-25,Specialist,2,Nairobi,0
+3676999E,M7063525,Wanjiku Kariuki,P367,Stewart Inc,S00.9,87081,Malaria RDT,1684.71,800,2025-07-14,Clinic,17,Kisumu,1
+63A77931,M2978465,Akinyi Auma,P523,Lopez and Sons,J06.9,99213,Consultation,1394.33,1500,2025-09-15,Pharmacy,8,Eldoret,0
+3EAF38D4,M1748547,Waweru Nekesa,P576,"Haas, Harrell and Brown",B50.9,99232,Inpatient Visit,4961.75,5000,2025-11-09,Pharmacy,8,Eldoret,0
+61468DA5,M9511177,Achieng Mutua,P745,"Stanley, Mason and Burgess",A09,76645,Ultrasound Breast,9965.27,2800,2025-11-19,Pharmacy,17,Mombasa,1
+6C91F6A4,M9106820,Fatuma Kamau,P106,Jones-Mercado,N39.0,99285,Emergency Visit,8475.46,8000,2025-05-26,Lab,10,Nairobi,0
+27A36036,M9398441,Njoroge Korir,P208,"Smith, Barker and Jenkins",B50.9,85025,Full Blood Count,1216.12,1200,2025-04-11,Specialist,5,Eldoret,0
+C5A630F7,M6284972,Zawadi Langat,P425,Thomas Inc,K35.9,85025,Full Blood Count,1151.03,1200,2025-10-16,Clinic,5,Nairobi,0
+8460C81B,M8063478,Nafula Rotich,P396,"Norman, Castro and Jimenez",K29.7,27447,Knee Replacement,187828.44,180000,2026-02-14,Specialist,6,Thika,0
+C4C19F11,M4068039,Achieng Kimani,P509,Martinez-Smith,K35.9,76645,Ultrasound Breast,2780.84,2800,2025-10-16,Lab,6,Thika,0
+02975632,M3894531,Chebet Mwangi,P788,Jackson-Lynch,K29.7,71046,Chest X-Ray,3889.83,3500,2025-09-25,Hospital,10,Mombasa,0
+FAC9CD38,M6294819,Chebet Korir,P507,Green-Jones,N39.0,99213,Consultation,1646.67,1500,2025-07-05,Pharmacy,1,Nairobi,0
+B2F98CCE,M3389108,Chebet Nekesa,P299,George-White,S00.9,71046,Chest X-Ray,5512.65,3500,2025-09-01,Hospital,22,Nairobi,1
+A9A81EE6,M9582257,Amani Kariuki,P101,"Marshall, Sanford and Ross",J18.9,76645,Ultrasound Breast,8012.49,2800,2026-02-20,Clinic,21,Nakuru,1
+DAF44C52,M8590706,Fatuma Omondi,P185,Simpson and Sons,N39.0,47562,Laparoscopic Cholecystectomy,119829.6,120000,2026-02-26,Lab,2,Mombasa,0
+25E4387C,M1331881,Waweru Simiyu,P296,Logan Group,A09,87081,Malaria RDT,2089.16,800,2025-04-24,Pharmacy,29,Thika,1
+DFB70222,M1903041,Wanjiku Kimani,P636,"Cox, Foster and Briggs",A09,76645,Ultrasound Breast,2586.89,2800,2026-01-10,Pharmacy,8,Eldoret,0
+254A4E3B,M5972157,Waweru Chege,P221,"Jones, Bowers and Garcia",K29.7,47562,Laparoscopic Cholecystectomy,257650.39,120000,2025-11-10,Hospital,29,Eldoret,1
+DD6B1CD2,M5944490,Imani Wekesa,P294,Higgins-Jarvis,S00.9,99213,Consultation,1531.99,1500,2025-11-29,Specialist,8,Kisumu,0
+5041C696,M8788136,Amani Ochieng,P447,Ramirez Ltd,J06.9,99285,Emergency Visit,12212.13,8000,2025-07-15,Specialist,39,Kisumu,1
+139D365A,M9832465,Waweru Simiyu,P373,Arias-Gonzalez,I10,47562,Laparoscopic Cholecystectomy,112466.92,120000,2026-01-23,Pharmacy,4,Nakuru,0
+BBD64BDD,M6727097,Zawadi Kamau,P952,"Ramirez, Shah and Scott",K29.7,99213,Consultation,1392.69,1500,2025-11-25,Pharmacy,6,Kisumu,0
+FAB4BCF0,M9772377,Achieng Kimani,P806,Buckley-Fisher,B50.9,27447,Knee Replacement,583534.06,180000,2025-07-20,Hospital,55,Eldoret,1
+F947D6D2,M8164770,Kipchoge Wambua,P638,Solis-Stevens,S00.9,99285,Emergency Visit,9067.78,8000,2025-04-19,Pharmacy,5,Mombasa,0
+05EF1FAE,M2111446,Chebet Kamau,P872,"Roth, Fuller and Stephens",A09,76645,Ultrasound Breast,3155.97,2800,2025-12-31,Specialist,1,Mombasa,0
+B1FF7FFD,M1388833,Otieno Kimani,P617,"Melendez, Evans and Tran",K35.9,27447,Knee Replacement,201558.4,180000,2025-11-01,Clinic,8,Eldoret,0
+C313C950,M3532555,Kamau Korir,P402,Lewis-Garcia,I10,99213,Consultation,4725.66,1500,2025-08-11,Specialist,56,Kisumu,1
+268B80EB,M3562495,Chebet Ochieng,P878,Joseph Ltd,A09,99232,Inpatient Visit,5255.73,5000,2025-03-31,Specialist,6,Nakuru,0
+F613F776,M4956154,Imani Auma,P976,"Miller, Kelley and Hudson",I10,87081,Malaria RDT,882.84,800,2025-11-24,Clinic,5,Thika,0
+0138881F,M9818990,Imani Chege,P819,Cummings Ltd,A09,87081,Malaria RDT,886.31,800,2025-08-03,Lab,9,Nairobi,0
+147AA34C,M1823520,Nafula Omondi,P720,Garcia-Jordan,A09,99285,Emergency Visit,8602.63,8000,2026-02-26,Clinic,5,Thika,0
+31F6DA37,M5668371,Amani Wambua,P954,Wilkinson-Huffman,A09,71046,Chest X-Ray,3816.08,3500,2025-07-07,Hospital,7,Thika,0
+2935673A,M7124992,Zawadi Wambua,P561,Pierce LLC,K29.7,99232,Inpatient Visit,4763.17,5000,2025-05-16,Clinic,6,Eldoret,0
+2416B9C2,M2089275,Chebet Wekesa,P237,Wright-Allen,A09,99232,Inpatient Visit,5525.33,5000,2025-03-14,Pharmacy,7,Kisumu,0
+20EAE36C,M8864124,Baraka Langat,P910,Gutierrez Ltd,A09,87081,Malaria RDT,2148.88,800,2025-09-25,Clinic,48,Nakuru,1
+9364288E,M2582179,Kipchoge Kamau,P391,Johnson-Cervantes,A09,87081,Malaria RDT,2736.51,800,2025-08-15,Pharmacy,58,Eldoret,1
+80F7AA90,M7051545,Achieng Mwangi,P105,Mcfarland Ltd,B50.9,85025,Full Blood Count,1301.9,1200,2025-07-20,Pharmacy,6,Kisumu,0
+DC773CA7,M2651177,Kamau Kimani,P845,"Key, Ewing and Wells",E11.9,27447,Knee Replacement,200872.65,180000,2026-01-08,Clinic,1,Mombasa,0
+D7221888,M5694689,Otieno Otieno,P337,Perkins-Macias,N39.0,99213,Consultation,1714.71,1500,2025-08-05,Pharmacy,3,Nakuru,0
+0324B40E,M9565571,Halima Omondi,P729,Randolph-Anderson,K29.7,87081,Malaria RDT,726.72,800,2025-03-24,Hospital,10,Kisumu,0
+D1A2327C,M8669093,Otieno Ochieng,P956,"Bennett, Smith and Blackwell",K35.9,99213,Consultation,1439.41,1500,2025-05-03,Specialist,10,Nairobi,0
+625F45A9,M1160783,Fatuma Kariuki,P299,Anderson-Ashley,I10,27447,Knee Replacement,189873.45,180000,2025-05-21,Specialist,6,Thika,0
+2A256426,M4574653,Wanjiku Kimani,P322,Hall Group,B50.9,93000,ECG,6769.53,2500,2025-04-09,Specialist,31,Nairobi,1
+217B13AC,M7139410,Kamau Kimani,P152,Wu-Shelton,S00.9,93000,ECG,2704.69,2500,2025-05-21,Clinic,7,Kisumu,0
+C57DB82B,M2674515,Njoroge Otieno,P972,Orr-Osborn,B50.9,93000,ECG,2415.08,2500,2025-09-01,Pharmacy,1,Nakuru,0
+DC9D0A63,M6147152,Amani Mutua,P160,"Rivera, Lopez and Conway",S00.9,93000,ECG,8551.9,2500,2025-09-19,Clinic,24,Nairobi,1
+9641A30A,M1670091,Muthoni Langat,P711,"Costa, Gomez and Clark",J06.9,99213,Consultation,1473.96,1500,2025-04-18,Specialist,3,Thika,0
+BC0C3DBC,M7538471,Zawadi Omondi,P369,Bryan-Valenzuela,A09,99232,Inpatient Visit,4993.44,5000,2025-07-31,Clinic,3,Eldoret,0
+2B27A7DD,M1431773,Akinyi Mutua,P753,Ward-Bryant,B50.9,99285,Emergency Visit,8160.66,8000,2026-01-22,Lab,2,Nairobi,0
+80D61CFB,M4224602,Fatuma Simiyu,P548,Hernandez LLC,J18.9,99232,Inpatient Visit,7760.09,5000,2025-06-18,Clinic,33,Eldoret,1
+DD107D2B,M5550953,Otieno Simiyu,P222,Lucas-Gonzalez,N39.0,71046,Chest X-Ray,3367.23,3500,2025-03-25,Hospital,6,Mombasa,0
+678CA94F,M3575047,Njoroge Omondi,P219,Osborne Inc,J06.9,47562,Laparoscopic Cholecystectomy,116557.4,120000,2025-09-23,Specialist,3,Mombasa,0
+BD2730B3,M3640889,Nafula Rotich,P838,Ward and Sons,E11.9,99232,Inpatient Visit,5024.79,5000,2025-05-18,Specialist,6,Nairobi,0
+B5C5E55C,M9953043,Chebet Ochieng,P125,Richardson-Evans,I10,27447,Knee Replacement,186294.0,180000,2025-06-22,Clinic,3,Nakuru,0
+412265CD,M4261550,Zawadi Otieno,P110,Gibson Ltd,B50.9,27447,Knee Replacement,441520.01,180000,2026-01-05,Clinic,40,Kisumu,1
+A01B7707,M5096953,Halima Auma,P679,Sandoval-Nguyen,K29.7,71046,Chest X-Ray,3477.99,3500,2025-12-07,Clinic,3,Nairobi,0
+B87E1CD6,M6580596,Njoroge Langat,P749,Ruiz Group,J06.9,85025,Full Blood Count,1313.68,1200,2026-03-02,Lab,8,Kisumu,0
+CC6B4AC7,M7069650,Fatuma Nekesa,P878,Smith-Walton,J06.9,99232,Inpatient Visit,4567.76,5000,2025-11-20,Pharmacy,9,Eldoret,0
+147BD83D,M1964069,Njoroge Wekesa,P549,Mccann PLC,J06.9,47562,Laparoscopic Cholecystectomy,116594.08,120000,2025-11-21,Specialist,10,Kisumu,0
+4A067538,M1942342,Odhiambo Omondi,P120,Reynolds-Ward,N39.0,85025,Full Blood Count,1227.13,1200,2025-07-03,Hospital,2,Kisumu,0
+B6C8A15F,M5388133,Nafula Omondi,P163,Brown Ltd,A09,99285,Emergency Visit,8645.77,8000,2025-07-09,Pharmacy,1,Mombasa,0
+CFEDA7AB,M5165071,Chebet Mwangi,P508,Navarro-Bolton,E11.9,47562,Laparoscopic Cholecystectomy,124069.56,120000,2026-01-25,Specialist,5,Mombasa,0
+EF2CFE47,M6455706,Zawadi Korir,P401,Evans Inc,K35.9,93000,ECG,2640.2,2500,2025-06-19,Specialist,10,Nakuru,0
+D14912F1,M8163592,Kipchoge Wambua,P265,Wiley Group,A09,76645,Ultrasound Breast,2967.15,2800,2025-10-14,Hospital,5,Nakuru,0
+85034858,M4194548,Achieng Ochieng,P774,Roberts-Manning,I10,87081,Malaria RDT,876.92,800,2025-09-04,Lab,7,Nakuru,0
+99E1C7A4,M9353359,Fatuma Korir,P367,Stevens-Dennis,N39.0,27447,Knee Replacement,360869.29,180000,2025-09-10,Specialist,57,Eldoret,1
+671AD7B6,M4213524,Akinyi Wekesa,P383,Butler Ltd,S00.9,47562,Laparoscopic Cholecystectomy,136526.33,120000,2025-06-09,Specialist,3,Kisumu,0
+D1DF81DD,M4368777,Muthoni Chege,P997,"Chavez, Rodriguez and Olson",E11.9,71046,Chest X-Ray,3804.05,3500,2025-06-06,Specialist,3,Kisumu,0
+4C2D1F3C,M4310554,Baraka Auma,P498,Stewart-Cruz,J06.9,99232,Inpatient Visit,4994.48,5000,2025-03-09,Clinic,10,Mombasa,0
+FE7EE4B2,M8575505,Chebet Mwangi,P275,"Greene, Sanders and Rodgers",A09,87081,Malaria RDT,2149.56,800,2025-03-24,Specialist,36,Mombasa,1
+71498F96,M7137418,Zawadi Omondi,P890,"Dixon, Brennan and Cooper",S00.9,27447,Knee Replacement,191425.87,180000,2025-10-07,Clinic,3,Nakuru,0
+E0D60776,M6068760,Akinyi Kimani,P973,"Velasquez, Hayes and Cunningham",K35.9,99232,Inpatient Visit,5362.89,5000,2026-01-09,Clinic,8,Nakuru,0
