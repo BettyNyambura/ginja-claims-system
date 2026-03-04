@@ -13,7 +13,7 @@ def extract_text(pdf_path: str) -> str:
 
 def parse_invoice(pdf_path: str) -> dict:
     """
-    Extract structured claim fields from a Nairobi Lifecare-style PDF invoice.
+    Extract structured claim fields from a PDF invoice.
 
     Designed around the invoice format:
         - Member No, Hospital No, Date
