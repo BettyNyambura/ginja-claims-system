@@ -85,7 +85,7 @@ XGBoost was chosen as the primary classifier for the following reasons:
 - **Calibrated probability output**: It natively produces a probability score (0–1) that maps directly to the PASS/FLAG/FAIL thresholds without additional calibration.
 - **Built-in feature importance**: Provides interpretable feature importances per prediction, supporting the explainability requirement.
 - **Class imbalance handling**: The `scale_pos_weight` parameter corrects for the 70/30 legitimate-to-fraud split in the training data.
-- **No GPU required**: Trains in seconds on a standard laptop — critical for a prototype that needs to run anywhere.
+- **No GPU required**: Trains in seconds on a standard laptop, critical for a prototype that needs to run anywhere.
 
 ### Decision Thresholds
 
@@ -102,7 +102,7 @@ Hard rules (e.g. claimed amount > 3× tariff, frequency > 40) **override** the M
 The decision engine runs in two layers:
 
 1. **Hard rules** are evaluated first. If triggered, they bypass the ML model entirely and return an immediate decision with a human-readable reason.
-2. **Soft rules** (e.g. amount 30% above tariff) do not override the model — instead they apply a small upward nudge to the ML risk score, pushing borderline legitimate claims into the FLAG zone for human review.
+2. **Soft rules** (e.g. amount 30% above tariff) do not override the model, instead they apply a small upward nudge to the ML risk score, pushing borderline legitimate claims into the FLAG zone for human review.
 3. The **ML model** handles the remaining cases, returning a probability score with the top contributing features as the explanation.
 
 ---
@@ -111,7 +111,7 @@ The decision engine runs in two layers:
 
 | Feature | Why it matters |
 |---|---|
-| `amount_deviation_pct` | Percentage deviation of claimed amount from approved tariff. The single strongest fraud signal — fraudulent providers systematically inflate claims above the approved rate. |
+| `amount_deviation_pct` | Percentage deviation of claimed amount from approved tariff. The single strongest fraud signal, fraudulent providers systematically inflate claims above the approved rate. |
 | `is_above_tariff` | Binary flag. Even small overages are a weak signal worth capturing independently of the magnitude. |
 | `high_frequency_flag` | Binary flag for abnormally high claim frequency (> 12). Claim mills and ghost patient schemes generate unusually high submission volumes. |
 | `frequency_x_deviation` | Interaction feature combining frequency and deviation. A provider billing 40% above tariff once differs significantly from doing so 40 times. |
@@ -127,7 +127,7 @@ The decision engine runs in two layers:
 The parser supports two document types automatically:
 
 **Digital PDFs** (system-generated invoices like Nairobi Lifecare):
-- Extracted using PyMuPDF — fast, free, no external API call
+- Extracted using PyMuPDF, it is fast, free, no external API call
 - Regex patterns parse member ID, name, date, line items, and total
 
 **Scanned or handwritten documents** (e.g. Eden Care claim forms):
@@ -264,7 +264,7 @@ In production the model would retrain on the following schedule:
 2. **Data pipeline**: New claims reviewed by human adjudicators are labelled and appended to the training dataset
 3. **Training**: XGBoost retrained with the full updated dataset, hyperparameters tuned via cross-validation
 4. **Validation**: New model must achieve AUC-ROC > 0.90 and precision on FAIL class > 0.85 before promotion
-5. **Deployment**: Blue-green model swap — new model loaded into a staging slot, shadow-scored against live traffic for 24 hours before full cutover
+5. **Deployment**: Blue-green model swap, new model loaded into a staging slot, shadow-scored against live traffic for 24 hours before full cutover
 6. **Monitoring**: Prediction drift tracked weekly using Evidently AI; data drift alerts trigger retraining outside the normal schedule
 
 ---
