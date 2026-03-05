@@ -174,7 +174,7 @@ venv\Scripts\activate        # Windows
 source venv/bin/activate     # Mac/Linux
 
 # 3. Install dependencies
-pip install -r requirements.txt
+pip install -r requirements-dashboard.txt
 
 # 4. Set up environment variables
 touch .env
