@@ -1,3 +1,4 @@
+import json
 import requests
 import pandas as pd
 import streamlit as st
@@ -266,7 +267,7 @@ st.markdown("""
 
 # ── Tabs ──────────────────────────────────────────────────────────────────────
 
-tab1, tab2, tab3 = st.tabs(["  Single Claim  ", "  PDF Invoice  ", "  Batch Upload  "])
+tab1, tab2, tab3, tab4 = st.tabs(["  Single Claim  ", "  JSON Input  ", "  PDF Invoice  ", "  Batch Upload  "])
 
 
 # ── Tab 1: Single Claim ───────────────────────────────────────────────────────
@@ -324,9 +325,49 @@ with tab1:
                 st.error(f"Could not reach API: {e}")
 
 
-# ── Tab 2: PDF Invoice ────────────────────────────────────────────────────────
+# ── Tab 2: JSON Input ─────────────────────────────────────────────────────────
 
 with tab2:
+    st.markdown("### Submit Raw JSON Claim")
+    st.caption("Paste a raw JSON claim payload directly for adjudication.")
+
+    default_json = '''{
+  "claim_id": "C001",
+  "member_id": "M1538500",
+  "provider_id": "P120",
+  "diagnosis_code": "J06.9",
+  "procedure_code": "99213",
+  "claimed_amount": 4300,
+  "approved_tariff_amount": 4300,
+  "date_of_service": "2026-02-12",
+  "provider_type": "Hospital",
+  "historical_claim_frequency": 3,
+  "location": "Nairobi"
+}'''
+
+    json_input = st.text_area("Paste JSON payload", value=default_json, height=320)
+
+    if st.button("Adjudicate JSON", width="stretch"):
+        try:
+            payload = json.loads(json_input)
+            with st.spinner("Scoring claim..."):
+                r = session.post(f"{API_BASE}/adjudicate", json=payload, timeout=10)
+                if r.status_code == 200:
+                    st.success("Adjudication complete")
+                    show_result(r.json())
+                    with st.expander("Raw JSON response"):
+                        st.json(r.json())
+                else:
+                    st.error(f"API error {r.status_code}: {r.text}")
+        except json.JSONDecodeError as e:
+            st.error(f"Invalid JSON: {e}")
+        except Exception as e:
+            st.error(f"Could not reach API: {e}")
+
+
+# ── Tab 3: PDF Invoice ────────────────────────────────────────────────────────
+
+with tab3:
     st.markdown("### Adjudicate from PDF Invoice")
     st.caption("Upload a system-generated PDF invoice. Scanned documents require digital re-submission.")
 
@@ -377,9 +418,9 @@ with tab2:
                     st.error(f"Could not reach API: {e}")
 
 
-# ── Tab 3: Batch Upload ───────────────────────────────────────────────────────
+# ── Tab 4: Batch Upload ───────────────────────────────────────────────────────
 
-with tab3:
+with tab4:
     st.markdown("### Batch Claims Adjudication")
     st.caption("Upload a CSV or JSON file of claims to score in bulk.")
 
